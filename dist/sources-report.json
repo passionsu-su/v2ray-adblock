@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T09:46:02.516427+00:00",
-  "unique_domains": 1264657,
+  "generated_at": "2026-10-26T10:35:27.646044+00:00",
+  "unique_domains": 1265073,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -43,7 +43,7 @@
       "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 210193,
+      "domains": 208556,
       "json_file": "sources/05-hagezi-pro.json"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 233807,
+      "domains": 233906,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 179706,
+      "domains": 179738,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 53303,
+      "domains": 53315,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
