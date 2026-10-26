@@ -1,0 +1,451 @@
+{
+  "generated_at": "2026-10-26T09:11:31.290678+00:00",
+  "unique_domains": 1264645,
+  "source_success": 45,
+  "source_total": 65,
+  "allowlist_entries": 0,
+  "custom_block_entries": 0,
+  "sources": [
+    {
+      "name": "217heidai DNS Full",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
+      "format": "dns",
+      "status": "ok",
+      "domains": 244469
+    },
+    {
+      "name": "217heidai DNS Lite",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
+      "format": "dns",
+      "status": "ok",
+      "domains": 8442
+    },
+    {
+      "name": "anti-AD AdGuard",
+      "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 104521
+    },
+    {
+      "name": "anti-AD EasyList",
+      "url": "https://anti-ad.net/easylist.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 98833
+    },
+    {
+      "name": "HaGeZi Pro",
+      "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 210193
+    },
+    {
+      "name": "HaGeZi Ultimate (aggressive; disabled by default)",
+      "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt",
+      "format": "adguard",
+      "status": "disabled"
+    },
+    {
+      "name": "OISD Big",
+      "url": "https://big.oisd.nl",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 233807
+    },
+    {
+      "name": "OISD Small (alternative)",
+      "url": "https://small.oisd.nl",
+      "format": "adguard",
+      "status": "disabled"
+    },
+    {
+      "name": "AdGuard DNS filter",
+      "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 179706
+    },
+    {
+      "name": "AdGuard Chinese filter",
+      "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 8770
+    },
+    {
+      "name": "AdGuard Base filter",
+      "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 15546
+    },
+    {
+      "name": "StevenBlack hosts",
+      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "format": "hosts",
+      "status": "ok",
+      "domains": 74482
+    },
+    {
+      "name": "blackmatrix7 Advertising AdGuard",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 295830
+    },
+    {
+      "name": "blackmatrix7 Advertising Clash YAML",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.yaml",
+      "format": "clash",
+      "status": "error",
+      "error": "ValueError: only 0 compatible domains parsed"
+    },
+    {
+      "name": "blackmatrix7 Advertising Shadowrocket",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list",
+      "format": "surge",
+      "status": "error",
+      "error": "ValueError: only 0 compatible domains parsed"
+    },
+    {
+      "name": "Cats-Team AdRules DNS",
+      "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 211458
+    },
+    {
+      "name": "Cats-Team AdRules ABP",
+      "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 226400
+    },
+    {
+      "name": "Cats-Team AdRules Surge",
+      "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
+      "format": "surge",
+      "status": "ok",
+      "domains": 211439
+    },
+    {
+      "name": "GOODBYEADS DNS",
+      "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt",
+      "format": "dns",
+      "status": "ok",
+      "domains": 121771
+    },
+    {
+      "name": "GOODBYEADS ABP",
+      "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 139841
+    },
+    {
+      "name": "NEO DEV HOST",
+      "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
+      "format": "hosts",
+      "status": "ok",
+      "domains": 115780
+    },
+    {
+      "name": "1Hosts Lite",
+      "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 102241
+    },
+    {
+      "name": "1Hosts Xtra (aggressive; disabled by default)",
+      "url": "https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt",
+      "format": "adguard",
+      "status": "disabled"
+    },
+    {
+      "name": "hBlock hosts",
+      "url": "https://hblock.molinero.dev/hosts_adblock.txt",
+      "format": "hosts",
+      "status": "ok",
+      "domains": 485402
+    },
+    {
+      "name": "yhosts",
+      "url": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt",
+      "format": "hosts",
+      "status": "ok",
+      "domains": 6715
+    },
+    {
+      "name": "AWAvenue Ads Rule",
+      "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 969
+    },
+    {
+      "name": "REIJI007 DNS Lite",
+      "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
+      "format": "dns",
+      "status": "ok",
+      "domains": 675255
+    },
+    {
+      "name": "REIJI007 Clash YAML",
+      "url": "https://raw.githubusercontent.com/REIJI007/AdBlock_Rule_For_Clash/main/adblock_reject.yaml",
+      "format": "clash",
+      "status": "error",
+      "error": "ValueError: only 0 compatible domains parsed"
+    },
+    {
+      "name": "DandelionSprout Anti-Malware",
+      "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 11602
+    },
+    {
+      "name": "NoCoin",
+      "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 198
+    },
+    {
+      "name": "EasyList China + EasyList",
+      "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 53291
+    },
+    {
+      "name": "CJX Annoyance List",
+      "url": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 522
+    },
+    {
+      "name": "乘风 Adblock Plus Rule",
+      "url": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 270
+    },
+    {
+      "name": "DandelionSprout adfilt",
+      "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 387
+    },
+    {
+      "name": "Loyalsoldier reject list",
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
+      "format": "plain",
+      "status": "ok",
+      "domains": 200546
+    },
+    {
+      "name": "Loyalsoldier Surge reject",
+      "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/reject.txt",
+      "format": "surge",
+      "status": "ok",
+      "domains": 200546
+    },
+    {
+      "name": "Sukka non-IP reject",
+      "url": "https://ruleset.skk.moe/Clash/non_ip/reject.txt",
+      "format": "clash",
+      "status": "ok",
+      "domains": 160
+    },
+    {
+      "name": "Sukka domainset reject",
+      "url": "https://ruleset.skk.moe/Clash/domainset/reject.txt",
+      "format": "plain",
+      "status": "ok",
+      "domains": 1155
+    },
+    {
+      "name": "Sukka Shadowrocket domainset",
+      "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
+      "format": "plain",
+      "status": "ok",
+      "domains": 144847
+    },
+    {
+      "name": "Sukka Shadowrocket non-IP reject",
+      "url": "https://ruleset.skk.moe/List/non_ip/reject.conf",
+      "format": "surge",
+      "status": "ok",
+      "domains": 160
+    },
+    {
+      "name": "ACL4SSR BanAD",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list",
+      "format": "surge",
+      "status": "ok",
+      "domains": 563
+    },
+    {
+      "name": "ACL4SSR BanProgramAD",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list",
+      "format": "surge",
+      "status": "ok",
+      "domains": 989
+    },
+    {
+      "name": "ACL4SSR BanEasyListChina",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list",
+      "format": "surge",
+      "status": "ok",
+      "domains": 5045
+    },
+    {
+      "name": "Surfboard AdBlock",
+      "url": "https://getsurfboard.com/adblock.txt",
+      "format": "plain",
+      "status": "ok",
+      "domains": 32129
+    },
+    {
+      "name": "xkww3n Rules reject",
+      "url": "https://rules.xkww3n.cyou/yaml/reject.yaml",
+      "format": "clash",
+      "status": "ok",
+      "domains": 863
+    },
+    {
+      "name": "neodevpro Clash",
+      "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/clash",
+      "format": "clash",
+      "status": "ok",
+      "domains": 115780
+    },
+    {
+      "name": "xndeye rule-merger YAML",
+      "url": "https://raw.githubusercontent.com/xndeye/rule-merger/release/reject.yaml",
+      "format": "clash",
+      "status": "error",
+      "error": "ValueError: only 0 compatible domains parsed"
+    },
+    {
+      "name": "AyraHikari AdGuard block",
+      "url": "https://raw.githubusercontent.com/AyraHikari/openclash_adguard/main/rules/adguard_block.yaml",
+      "format": "clash",
+      "status": "error",
+      "error": "ValueError: only 0 compatible domains parsed"
+    },
+    {
+      "name": "DustinWin ads",
+      "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/mihomo-ruleset/ads.yaml",
+      "format": "clash",
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "name": "MetaCubeX category-ads-all text",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.yaml",
+      "format": "clash",
+      "status": "ok",
+      "domains": 159
+    },
+    {
+      "name": "217heidai Full AdGuard/ABP",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt",
+      "format": "adguard",
+      "status": "ok",
+      "domains": 12031
+    },
+    {
+      "name": "217heidai Surge Full",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list",
+      "format": "surge",
+      "status": "ok",
+      "domains": 244469
+    },
+    {
+      "name": "217heidai Surge Lite",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurgelite.list",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "anti-AD Surge Domain Set",
+      "url": "https://anti-ad.net/surge2.txt",
+      "format": "surge",
+      "status": "ok",
+      "domains": 105192
+    },
+    {
+      "name": "anti-AD Surge Rules",
+      "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
+      "format": "surge",
+      "status": "ok",
+      "domains": 105192
+    },
+    {
+      "name": "blackmatrix7 AdvertisingLite Shadowrocket",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AdvertisingLite/AdvertisingLite.list",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "blackmatrix7 Privacy Shadowrocket",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Privacy/Privacy.list",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "Sukka extra domainset",
+      "url": "https://ruleset.skk.moe/List/domainset/reject_extra.conf",
+      "format": "plain",
+      "status": "disabled"
+    },
+    {
+      "name": "Sukka reject-drop",
+      "url": "https://ruleset.skk.moe/List/non_ip/reject-drop.conf",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "Sukka reject-no-drop",
+      "url": "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "Sukka Sogou input",
+      "url": "https://ruleset.skk.moe/List/non_ip/sogouinput.conf",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "Cats-Team AdRules Surge Domain Set",
+      "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_surge_domainset.txt",
+      "format": "plain",
+      "status": "disabled"
+    },
+    {
+      "name": "AWAvenue Surge RULE-SET",
+      "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
+      "format": "surge",
+      "status": "disabled"
+    },
+    {
+      "name": "blackmatrix7 Privacy Clash YAML",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy.yaml",
+      "format": "clash",
+      "status": "disabled"
+    },
+    {
+      "name": "blackmatrix7 AdvertisingLite Clash YAML",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml",
+      "format": "clash",
+      "status": "disabled"
+    }
+  ]
+}
