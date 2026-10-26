@@ -298,5 +298,95 @@
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.yaml",
     "format": "clash",
     "enabled": true
+  },
+  {
+    "name": "217heidai Full AdGuard/ABP",
+    "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "217heidai Surge Full",
+    "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "217heidai Surge Lite",
+    "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurgelite.list",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "anti-AD Surge Domain Set",
+    "url": "https://anti-ad.net/surge2.txt",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "anti-AD Surge Rules",
+    "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "blackmatrix7 AdvertisingLite Shadowrocket",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AdvertisingLite/AdvertisingLite.list",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "blackmatrix7 Privacy Shadowrocket",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Privacy/Privacy.list",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "Sukka extra domainset",
+    "url": "https://ruleset.skk.moe/List/domainset/reject_extra.conf",
+    "format": "plain",
+    "enabled": false
+  },
+  {
+    "name": "Sukka reject-drop",
+    "url": "https://ruleset.skk.moe/List/non_ip/reject-drop.conf",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "Sukka reject-no-drop",
+    "url": "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "Sukka Sogou input",
+    "url": "https://ruleset.skk.moe/List/non_ip/sogouinput.conf",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "Cats-Team AdRules Surge Domain Set",
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_surge_domainset.txt",
+    "format": "plain",
+    "enabled": false
+  },
+  {
+    "name": "AWAvenue Surge RULE-SET",
+    "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
+    "format": "surge",
+    "enabled": false
+  },
+  {
+    "name": "blackmatrix7 Privacy Clash YAML",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy.yaml",
+    "format": "clash",
+    "enabled": false
+  },
+  {
+    "name": "blackmatrix7 AdvertisingLite Clash YAML",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml",
+    "format": "clash",
+    "enabled": false
   }
 ]
