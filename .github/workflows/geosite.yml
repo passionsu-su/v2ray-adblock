@@ -6,6 +6,8 @@ on:
     paths:
       - scripts/build_geosite.py
       - scripts/build.py
+      - scripts/merge_xray_geosite.py
+      - scripts/merge_singbox_geosite.py
       - custom/**
       - .github/workflows/geosite.yml
   schedule:
@@ -32,6 +34,7 @@ jobs:
         run: |
           python scripts/build_geosite.py
           python scripts/merge_singbox_geosite.py
+          python scripts/merge_xray_geosite.py
       - name: Verify with Xray
         run: |
           curl -sL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
@@ -42,6 +45,14 @@ jobs:
            "routing":{"rules":[{"type":"field","domain":["ext:geosite-adblock.dat:ads"],"outboundTag":"block"}]}}
           EOF
           XRAY_LOCATION_ASSET=$PWD/xraybin ./xraybin/xray run -test -c test.json
+          cp geosite-out/geosite.dat xraybin/geosite.dat
+          cat > test2.json <<'EOF'
+          {"outbounds":[{"protocol":"blackhole","tag":"block"}],
+           "routing":{"rules":[{"type":"field","domain":["geosite:category-ads-all","geosite:ads"],"outboundTag":"block"},
+                               {"type":"field","domain":["geosite:cn","geosite:google","geosite:private"],"outboundTag":"block"}]}}
+          EOF
+          XRAY_LOCATION_ASSET=$PWD/xraybin ./xraybin/xray run -test -c test2.json
+          rm -rf xraybin xray.zip
       - name: Verify .db with sing-box
         run: |
           V=1.11.15
