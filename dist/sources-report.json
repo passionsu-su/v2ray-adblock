@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T11:05:11.493288+00:00",
-  "unique_domains": 1265077,
+  "generated_at": "2026-10-26T11:50:27.801210+00:00",
+  "unique_domains": 1264980,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 233906,
+      "domains": 233821,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 53319,
+      "domains": 53328,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -306,7 +306,7 @@
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
       "format": "plain",
       "status": "ok",
-      "domains": 144847,
+      "domains": 141475,
       "json_file": "sources/39-sukka-shadowrocket-domainset.json"
     },
     {
