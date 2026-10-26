@@ -40,6 +40,12 @@ jobs:
            "routing":{"rules":[{"type":"field","domain":["ext:geosite-adblock.dat:ads"],"outboundTag":"block"}]}}
           EOF
           XRAY_LOCATION_ASSET=$PWD/xraybin ./xraybin/xray run -test -c test.json
+      - name: Verify .db with sing-box
+        run: |
+          V=1.11.15
+          curl -sL -o sb.tgz https://github.com/SagerNet/sing-box/releases/download/v$V/sing-box-$V-linux-amd64.tar.gz
+          tar xzf sb.tgz
+          ./sing-box-$V-linux-amd64/sing-box geosite -f geosite-out/geosite-adblock.db lookup ad.doubleclick.net | grep -q ads
       - name: Publish to geosite branch (history replaced each run)
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
