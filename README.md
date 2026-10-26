@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-r
 
 ## 上游来源
 
-当前 sources.json 收录 50 个入口，覆盖原 [passionsu-su/adblock](https://github.com/passionsu-su/adblock) 仓库中 Clash、Shadowrocket、AdGuard 配置列出的主要域名规则源，并增加 DNS/Hosts/ABP 原生文本入口。来源包括 217heidai、anti-AD、HaGeZi、OISD、AdGuard、StevenBlack、blackmatrix7、Cats-Team AdRules、GOODBYEADS、NEO DEV HOST、1Hosts、hBlock、yhosts、AWAvenue、REIJI007、DandelionSprout、NoCoin、EasyList China、CJX、乘风、Loyalsoldier、Sukka、ACL4SSR、Surfboard、xkww3n、xndeye、AyraHikari、DustinWin、MetaCubeX。
+当前 sources.json 收录 65 个入口，覆盖原 [passionsu-su/adblock](https://github.com/passionsu-su/adblock) 仓库中 Clash、Shadowrocket、AdGuard 配置列出的主要域名规则源，并增加 DNS/Hosts/ABP 原生文本入口。来源包括 217heidai、anti-AD、HaGeZi、OISD、AdGuard、StevenBlack、blackmatrix7、Cats-Team AdRules、GOODBYEADS、NEO DEV HOST、1Hosts、hBlock、yhosts、AWAvenue、REIJI007、DandelionSprout、NoCoin、EasyList China、CJX、乘风、Loyalsoldier、Sukka、ACL4SSR、Surfboard、xkww3n、xndeye、AyraHikari、DustinWin、MetaCubeX。并补齐 217heidai Surge/ABP、anti-AD Surge、blackmatrix7 AdvertisingLite/Privacy、Sukka extra/drop/no-drop/Sogou、Cats-Team 域名集和 AWAvenue Surge 等原仓库中的可转换来源。
 
 每条来源的名称、原始 URL、声明格式及启用状态以 [sources.json](sources.json) 为准。
 
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-r
 | Clash/Surge/Shadowrocket | 仅提取 DOMAIN、DOMAIN-SUFFIX | 部分支持 |
 | YAML payload | 解析可识别的域名条目 | 部分支持 |
 
-不能无损转换的内容会跳过：DOMAIN-KEYWORD、正则/复杂匹配、IP-CIDR、AdGuard 元素隐藏/CSS/脚本/重写、ABP 例外规则 `@@`、资源类型上下文规则、`.mrs` 二进制规则、RULE-SET/DOMAIN-SET 引用语句。报告会保留逐来源状态。对于二进制规则，优先寻找同项目 YAML/TXT/AdGuard 等价源。
+不能无损转换的内容会跳过：DOMAIN-KEYWORD、正则/复杂匹配、IP-CIDR、AdGuard 元素隐藏/CSS/脚本/重写、ABP 例外规则 `@@`、资源类型上下文规则、`.mrs` 二进制规则、RULE-SET/DOMAIN-SET 引用语句；Shadowrocket 模块（如 GMOogway、limbopro）和整份客户端配置（如 Johnshall）也不是可直接转换的纯域名列表。报告会保留逐来源状态。对于二进制规则，优先寻找同项目 YAML/TXT/AdGuard 等价源。
 
 因此产物是**域名级拦截子集**，并不等价于完整 AdGuard/uBlock/Clash/Surge 过滤能力。共享域名广告、网页元素广告和 IP 直连广告可能无法拦截。
 
