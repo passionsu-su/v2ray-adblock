@@ -8,6 +8,7 @@
 - `dist/v2rayng-adblock.min.json`：紧凑版
 - `dist/domains.txt`：去重域名
 - `dist/sources-report.json`：逐来源抓取状态、解析数量和错误原因
+- `dist/sources/*.json`：每个成功转换的来源单独生成一个 v2rayNG JSON；下方表格自动列出下载地址
 
 首次 Actions 构建成功后，固定 Raw 地址为：
 ```
@@ -16,6 +17,13 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-a
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains.txt
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-report.json
 ```
+
+## 各来源独立 JSON
+
+每个成功解析的来源都会单独输出一个 JSON，域名只来自该来源，并应用 `custom/allowlist.txt` 排除项。该文件不会混入其他来源的域名；`custom/blocklist.txt` 仅用于原有汇总 JSON。表格由 Actions 构建自动更新。
+
+<!-- SOURCE_JSON_TABLE_START -->
+<!-- SOURCE_JSON_TABLE_END -->
 
 ## 上游来源
 
