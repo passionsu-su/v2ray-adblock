@@ -29,7 +29,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Build dat
-        run: python scripts/build_geosite.py
+        run: |
+          python scripts/build_geosite.py
+          python scripts/merge_singbox_geosite.py
       - name: Verify with Xray
         run: |
           curl -sL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
@@ -46,6 +48,8 @@ jobs:
           curl -sL -o sb.tgz https://github.com/SagerNet/sing-box/releases/download/v$V/sing-box-$V-linux-amd64.tar.gz
           tar xzf sb.tgz
           ./sing-box-$V-linux-amd64/sing-box geosite -f geosite-out/geosite-adblock.db lookup ad.doubleclick.net | grep -q ads
+          ./sing-box-$V-linux-amd64/sing-box geosite -f geosite-out/geosite.db lookup ad.doubleclick.net | grep -q "(ads)"
+          ./sing-box-$V-linux-amd64/sing-box geosite -f geosite-out/geosite.db lookup baidu.com | grep -q "(cn)"
       - name: Publish to geosite branch (history replaced each run)
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -56,4 +60,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -qm "geosite-adblock.dat $(date -u +%F)"
+          rm -f ../sb.tgz
           git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" geosite
