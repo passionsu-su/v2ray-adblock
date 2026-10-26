@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T13:42:49.634852+00:00",
-  "unique_domains": 1265106,
+  "generated_at": "2026-10-26T14:52:36.147419+00:00",
+  "unique_domains": 1265107,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 233855,
+      "domains": 233852,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 179738,
+      "domains": 179801,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -165,7 +165,7 @@
       "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
       "format": "hosts",
       "status": "ok",
-      "domains": 115780,
+      "domains": 116537,
       "json_file": "sources/21-neo-dev-host.json"
     },
     {
@@ -211,7 +211,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 663731,
+      "domains": 663745,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 53364,
+      "domains": 53378,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -362,7 +362,7 @@
       "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/clash",
       "format": "clash",
       "status": "ok",
-      "domains": 115780,
+      "domains": 116537,
       "json_file": "sources/46-neodevpro-clash.json"
     },
     {
