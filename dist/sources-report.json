@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T10:35:27.646044+00:00",
-  "unique_domains": 1265073,
+  "generated_at": "2026-10-26T11:05:11.493288+00:00",
+  "unique_domains": 1265077,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -211,7 +211,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 675255,
+      "domains": 675279,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 53315,
+      "domains": 53319,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
