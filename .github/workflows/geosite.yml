@@ -1,0 +1,53 @@
+name: Build geosite-adblock.dat
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_geosite.py
+      - scripts/build.py
+      - custom/**
+      - .github/workflows/geosite.yml
+  schedule:
+    - cron: "41 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-geosite-adblock
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build dat
+        run: python scripts/build_geosite.py
+      - name: Verify with Xray
+        run: |
+          curl -sL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip -oq xray.zip -d xraybin
+          cp geosite-out/geosite-adblock.dat xraybin/
+          cat > test.json <<'EOF'
+          {"outbounds":[{"protocol":"blackhole","tag":"block"}],
+           "routing":{"rules":[{"type":"field","domain":["ext:geosite-adblock.dat:ads"],"outboundTag":"block"}]}}
+          EOF
+          XRAY_LOCATION_ASSET=$PWD/xraybin ./xraybin/xray run -test -c test.json
+      - name: Publish to geosite branch (history replaced each run)
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd geosite-out
+          git init -q -b geosite
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "geosite-adblock.dat $(date -u +%F)"
+          git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" geosite
