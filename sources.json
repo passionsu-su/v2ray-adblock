@@ -1,0 +1,302 @@
+[
+  {
+    "name": "217heidai DNS Full",
+    "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
+    "format": "dns",
+    "enabled": true
+  },
+  {
+    "name": "217heidai DNS Lite",
+    "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
+    "format": "dns",
+    "enabled": true
+  },
+  {
+    "name": "anti-AD AdGuard",
+    "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "anti-AD EasyList",
+    "url": "https://anti-ad.net/easylist.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "HaGeZi Pro",
+    "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "HaGeZi Ultimate (aggressive; disabled by default)",
+    "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt",
+    "format": "adguard",
+    "enabled": false
+  },
+  {
+    "name": "OISD Big",
+    "url": "https://big.oisd.nl",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "OISD Small (alternative)",
+    "url": "https://small.oisd.nl",
+    "format": "adguard",
+    "enabled": false
+  },
+  {
+    "name": "AdGuard DNS filter",
+    "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "AdGuard Chinese filter",
+    "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "AdGuard Base filter",
+    "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "StevenBlack hosts",
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+    "format": "hosts",
+    "enabled": true
+  },
+  {
+    "name": "blackmatrix7 Advertising AdGuard",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "blackmatrix7 Advertising Clash YAML",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.yaml",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "blackmatrix7 Advertising Shadowrocket",
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "Cats-Team AdRules DNS",
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "Cats-Team AdRules ABP",
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "Cats-Team AdRules Surge",
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "GOODBYEADS DNS",
+    "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt",
+    "format": "dns",
+    "enabled": true
+  },
+  {
+    "name": "GOODBYEADS ABP",
+    "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "NEO DEV HOST",
+    "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
+    "format": "hosts",
+    "enabled": true
+  },
+  {
+    "name": "1Hosts Lite",
+    "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "1Hosts Xtra (aggressive; disabled by default)",
+    "url": "https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt",
+    "format": "adguard",
+    "enabled": false
+  },
+  {
+    "name": "hBlock hosts",
+    "url": "https://hblock.molinero.dev/hosts_adblock.txt",
+    "format": "hosts",
+    "enabled": true
+  },
+  {
+    "name": "yhosts",
+    "url": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt",
+    "format": "hosts",
+    "enabled": true
+  },
+  {
+    "name": "AWAvenue Ads Rule",
+    "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "REIJI007 DNS Lite",
+    "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
+    "format": "dns",
+    "enabled": true
+  },
+  {
+    "name": "REIJI007 Clash YAML",
+    "url": "https://raw.githubusercontent.com/REIJI007/AdBlock_Rule_For_Clash/main/adblock_reject.yaml",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "DandelionSprout Anti-Malware",
+    "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "NoCoin",
+    "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "EasyList China + EasyList",
+    "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "CJX Annoyance List",
+    "url": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "乘风 Adblock Plus Rule",
+    "url": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "DandelionSprout adfilt",
+    "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+    "format": "adguard",
+    "enabled": true
+  },
+  {
+    "name": "Loyalsoldier reject list",
+    "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
+    "format": "plain",
+    "enabled": true
+  },
+  {
+    "name": "Loyalsoldier Surge reject",
+    "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/reject.txt",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "Sukka non-IP reject",
+    "url": "https://ruleset.skk.moe/Clash/non_ip/reject.txt",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "Sukka domainset reject",
+    "url": "https://ruleset.skk.moe/Clash/domainset/reject.txt",
+    "format": "plain",
+    "enabled": true
+  },
+  {
+    "name": "Sukka Shadowrocket domainset",
+    "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
+    "format": "plain",
+    "enabled": true
+  },
+  {
+    "name": "Sukka Shadowrocket non-IP reject",
+    "url": "https://ruleset.skk.moe/List/non_ip/reject.conf",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "ACL4SSR BanAD",
+    "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "ACL4SSR BanProgramAD",
+    "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "ACL4SSR BanEasyListChina",
+    "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list",
+    "format": "surge",
+    "enabled": true
+  },
+  {
+    "name": "Surfboard AdBlock",
+    "url": "https://getsurfboard.com/adblock.txt",
+    "format": "plain",
+    "enabled": true
+  },
+  {
+    "name": "xkww3n Rules reject",
+    "url": "https://rules.xkww3n.cyou/yaml/reject.yaml",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "neodevpro Clash",
+    "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/clash",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "xndeye rule-merger YAML",
+    "url": "https://raw.githubusercontent.com/xndeye/rule-merger/release/reject.yaml",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "AyraHikari AdGuard block",
+    "url": "https://raw.githubusercontent.com/AyraHikari/openclash_adguard/main/rules/adguard_block.yaml",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "DustinWin ads",
+    "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/mihomo-ruleset/ads.yaml",
+    "format": "clash",
+    "enabled": true
+  },
+  {
+    "name": "MetaCubeX category-ads-all text",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.yaml",
+    "format": "clash",
+    "enabled": true
+  }
+]
