@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T11:50:27.801210+00:00",
-  "unique_domains": 1264980,
+  "generated_at": "2026-10-26T13:42:49.634852+00:00",
+  "unique_domains": 1265106,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 233821,
+      "domains": 233855,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 211458,
+      "domains": 200015,
       "json_file": "sources/16-cats-team-adrules-dns.json"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 226400,
+      "domains": 214975,
       "json_file": "sources/17-cats-team-adrules-abp.json"
     },
     {
@@ -141,7 +141,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
       "format": "surge",
       "status": "ok",
-      "domains": 211439,
+      "domains": 199996,
       "json_file": "sources/18-cats-team-adrules-surge.json"
     },
     {
@@ -211,7 +211,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 675279,
+      "domains": 663731,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 53328,
+      "domains": 53364,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
