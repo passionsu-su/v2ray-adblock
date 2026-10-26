@@ -105,7 +105,8 @@ def custom(filename):
 def main():
     sources = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
     merged, report, successes = set(), [], 0
-    for item in sources:
+    per_source = []
+    for index, item in enumerate(sources, 1):
         row = {"name": item["name"], "url": item["url"], "format": item["format"]}
         if not item.get("enabled", True):
             row["status"] = "disabled"
@@ -116,7 +117,10 @@ def main():
             if len(parsed) < 50:
                 raise ValueError(f"only {len(parsed)} compatible domains parsed")
             merged.update(parsed)
-            row.update(status="ok", domains=len(parsed))
+            safe = re.sub(r"[^a-z0-9]+", "-", item["name"].lower()).strip("-") or f"source-{index:02d}"
+            filename = f"{index:02d}-{safe}.json"
+            row.update(status="ok", domains=len(parsed), json_file=f"sources/{filename}")
+            per_source.append((filename, item["name"], parsed))
             successes += 1
         except Exception as exc:
             row.update(status="error", error=f"{type(exc).__name__}: {exc}")
@@ -134,6 +138,23 @@ def main():
         raise SystemExit(f"Refusing publish: only {len(merged)} unique domains")
 
     OUT.mkdir(exist_ok=True)
+    source_dir = OUT / "sources"
+    source_dir.mkdir(exist_ok=True)
+    for old_file in source_dir.glob("*.json"):
+        old_file.unlink()
+    for filename, source_name, source_domains in per_source:
+        filtered = source_domains - allow
+        source_rules = [{
+            "port": "",
+            "outboundTag": "block",
+            "domain": ["domain:" + d for d in sorted(filtered)],
+            "enabled": True,
+            "remarks": f"AdBlock - {source_name} ({len(filtered)} domains)"
+        }]
+        (source_dir / filename).write_text(
+            json.dumps(source_rules, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+        )
+
     domains = sorted(merged)
     rules = [{
         "port": "",
@@ -161,7 +182,28 @@ def main():
     (OUT / "sources-report.json").write_text(
         json.dumps(report_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    print(f"Generated {len(domains)} unique domains; {successes}/{len(sources)} enabled sources succeeded.")
+    # Keep README links synchronized with successfully generated files.
+    readme_path = ROOT / "README.md"
+    readme = readme_path.read_text(encoding="utf-8")
+    start_marker, end_marker = "<!-- SOURCE_JSON_TABLE_START -->", "<!-- SOURCE_JSON_TABLE_END -->"
+    rows = ["| 来源 | 状态 | 域名数 | 独立 JSON |", "|---|---:|---:|---|"]
+    for row in report:
+        if row.get("status") == "ok":
+            url = f"https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/{row['json_file']}"
+            state, count, link = "成功", str(row.get("domains", 0)), f"[下载 JSON]({url})"
+        elif row.get("status") == "disabled":
+            state, count, link = "未启用", "—", "未生成"
+        else:
+            state, count, link = "失败", "—", "未生成"
+        rows.append(f"| {row['name']} | {state} | {count} | {link} |")
+    block = start_marker + "\\n" + "\\n".join(rows) + "\\n" + end_marker
+    if start_marker in readme and end_marker in readme:
+        readme = readme.split(start_marker, 1)[0] + block + readme.split(end_marker, 1)[1]
+    else:
+        readme += "\\n\\n## 各来源独立 JSON\\n\\n" + block + "\\n"
+    readme_path.write_text(readme, encoding="utf-8")
+    print(f"Generated {len(per_source)} per-source JSON files.")
+    print(f"Generated {len(domains)} unique aggregate domains; {successes}/{len(sources)} enabled sources succeeded.")
 
 if __name__ == "__main__":
     main()
