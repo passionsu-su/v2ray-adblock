@@ -100,6 +100,7 @@ def main():
     OUT.mkdir(exist_ok=True)
     (OUT / "geosite-adblock.dat").write_bytes(bytes(data))
     (OUT / "geosite-adblock.db").write_bytes(encode_singbox_db("ads", ads))
+    (OUT / "ads-domains.txt").write_text("\n".join(ads) + "\n", encoding="utf-8")
     (OUT / "geosite-report.json").write_text(json.dumps({
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "ads_domains": len(ads),
