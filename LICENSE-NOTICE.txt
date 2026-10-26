@@ -1,0 +1,1 @@
+This repository aggregates third-party domain blocklists. Each upstream list remains the property of its respective author and is subject to its own license/terms. See README.md and sources.json for attribution. The conversion code is provided under MIT unless otherwise stated.
