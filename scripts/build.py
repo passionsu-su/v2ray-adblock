@@ -152,7 +152,7 @@ def main():
             "remarks": f"AdBlock - {source_name} ({len(filtered)} domains)"
         }]
         (source_dir / filename).write_text(
-            json.dumps(source_rules, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+            json.dumps(source_rules, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
         )
 
     domains = sorted(merged)
@@ -196,11 +196,11 @@ def main():
         else:
             state, count, link = "失败", "—", "未生成"
         rows.append(f"| {row['name']} | {state} | {count} | {link} |")
-    block = start_marker + "\\n" + "\\n".join(rows) + "\\n" + end_marker
+    block = start_marker + "\n" + "\n".join(rows) + "\n" + end_marker
     if start_marker in readme and end_marker in readme:
         readme = readme.split(start_marker, 1)[0] + block + readme.split(end_marker, 1)[1]
     else:
-        readme += "\\n\\n## 各来源独立 JSON\\n\\n" + block + "\\n"
+        readme += "\n\n## 各来源独立 JSON\n\n" + block + "\n"
     readme_path.write_text(readme, encoding="utf-8")
     print(f"Generated {len(per_source)} per-source JSON files.")
     print(f"Generated {len(domains)} unique aggregate domains; {successes}/{len(sources)} enabled sources succeeded.")
