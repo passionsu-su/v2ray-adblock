@@ -1,0 +1,1 @@
+# Add one domain per line to exclude it from the merged blocklist.
