@@ -5,6 +5,7 @@ Sources: 217heidai DNS Full, anti-AD AdGuard, HaGeZi Pro, Loyalsoldier reject li
 Tag inside the dat:
   ads   all four sources merged, parent-domain deduplicated
 Usage in a routing rule:  "domain": ["ext:geosite-adblock.dat:ads"]
+Also writes geosite-adblock.db (sing-box geosite format, code "ads").
 """
 from __future__ import annotations
 import json, sys
@@ -50,6 +51,20 @@ def encode_geosite(tag: str, domains) -> bytes:
     return field_bytes(1, bytes(body))  # one entry of GeoSiteList
 
 
+def encode_singbox_db(code: str, domains) -> bytes:
+    """sing-box geosite.db (version 0). RootDomain -> Domain + DomainSuffix('.x'), as sing-geosite does."""
+    items = bytearray()
+    count = 0
+    for d in domains:
+        for typ, val in ((0, d), (1, "." + d)):
+            v = val.encode()
+            items += bytes([typ]) + varint(len(v)) + v
+            count += 1
+    c = code.encode()
+    header = bytes([0]) + varint(1) + varint(len(c)) + c + varint(0) + varint(count)
+    return header + bytes(items)
+
+
 def dedup_parents(domains):
     s = set(domains)
     keep = []
@@ -84,6 +99,7 @@ def main():
     data = bytearray(encode_geosite("ads", ads))
     OUT.mkdir(exist_ok=True)
     (OUT / "geosite-adblock.dat").write_bytes(bytes(data))
+    (OUT / "geosite-adblock.db").write_bytes(encode_singbox_db("ads", ads))
     (OUT / "geosite-report.json").write_text(json.dumps({
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "ads_domains": len(ads),
