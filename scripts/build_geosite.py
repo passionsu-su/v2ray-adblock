@@ -101,6 +101,13 @@ def main():
     (OUT / "geosite-adblock.dat").write_bytes(bytes(data))
     (OUT / "geosite-adblock.db").write_bytes(encode_singbox_db("ads", ads))
     (OUT / "ads-domains.txt").write_text("\n".join(ads) + "\n", encoding="utf-8")
+    # mihomo 源文件（+. 前缀 = 含子域名），由工作流转换成 .mrs
+    src = OUT / "mrs-src"; src.mkdir(exist_ok=True)
+    def plus(lst): return "".join("+." + d + "\n" for d in lst)
+    (src / "ads.txt").write_text(plus(ads), encoding="utf-8")
+    for tag, name in (("hagezi", "hagezi-pro"), ("217heidai", "heidai-adblockdns")):
+        if tag in per:
+            (src / f"{name}.txt").write_text(plus(dedup_parents(per[tag])), encoding="utf-8")
     (OUT / "geosite-report.json").write_text(json.dumps({
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "ads_domains": len(ads),
