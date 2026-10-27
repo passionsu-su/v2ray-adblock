@@ -35,6 +35,17 @@ jobs:
           python scripts/build_geosite.py
           python scripts/merge_singbox_geosite.py
           python scripts/merge_xray_geosite.py
+      - name: Build mihomo .mrs
+        run: |
+          V=v1.19.33
+          curl -sL -o mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/$V/mihomo-linux-amd64-compatible-$V.gz
+          gunzip -f mihomo.gz && chmod +x mihomo
+          for f in geosite-out/mrs-src/*.txt; do
+            n=$(basename "$f" .txt)
+            ./mihomo convert-ruleset domain text "$f" "geosite-out/$n.mrs"
+          done
+          rm -rf geosite-out/mrs-src mihomo
+          ls -l geosite-out/*.mrs
       - name: Verify with Xray
         run: |
           curl -sL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
