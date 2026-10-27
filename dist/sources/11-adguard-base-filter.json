@@ -4005,6 +4005,7 @@
       "domain:cdn.bg-gledai",
       "domain:cdn.bhlph.com",
       "domain:cdn.bidfluence.com",
+      "domain:cdn.bigcrunch.com",
       "domain:cdn.bmcdn3.com",
       "domain:cdn.bnmkl.com",
       "domain:cdn.borhaj.com",
@@ -8689,7 +8690,6 @@
       "domain:jssdk.gogukypynijoxy.com",
       "domain:jssdk.jucibenadyxyso.com",
       "domain:jssdk.koxuwurutihugi.com",
-      "domain:jssdk.modusygunaciro.com",
       "domain:jssdk.runative-syndicate.com",
       "domain:jssdk.sivycafybemude.com",
       "domain:jssdk.sixapypyfynela.com",
@@ -9810,6 +9810,7 @@
       "domain:moderator.az",
       "domain:modern.az",
       "domain:modsfire.com",
+      "domain:modusygunaciro.com",
       "domain:moguldom.com",
       "domain:moja-ostroleka.pl",
       "domain:mojakoja.pl",
@@ -16080,6 +16081,7 @@
       "domain:xxxdl.net",
       "domain:xxxextreme.org",
       "domain:xxxfatclips.com",
+      "domain:xxxfetish.tube",
       "domain:xxxfiles.com",
       "domain:xxxlove.rooski.net",
       "domain:xxxmaturevideos.com",
@@ -16403,6 +16405,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (16398 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (16400 domains)"
   }
 ]
