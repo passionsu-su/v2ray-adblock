@@ -18,6 +18,28 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains.t
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-report.json
 ```
 
+## 完整 geosite.dat（Xray / V2Ray / Clash Meta / mihomo）
+
+基于 Loyalsoldier 原版，保留全部分类（`cn`、`gfw`、`google`、`private`、`geolocation-!cn` 等），并新增广告分类 `category-ads-all` 和别名 `ads`（合并 217heidai、anti-AD、HaGeZi Pro、Loyalsoldier reject）。约 24 MB，Actions 每 12 小时随规则一起更新，发布在 `geosite` 分支。
+
+```
+https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite.dat
+```
+
+国内直连慢可用镜像（jsDelivr 对超过 20 MB 的文件返回 403，不能用）：
+
+```
+https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite.dat
+```
+
+用法：
+
+- 导入或替换时文件名必须保持 `geosite.dat`。
+- Xray / v2rayNG 路由：`geosite:ads`（或 `geosite:category-ads-all`）→ block；`geosite:cn` → direct。
+- Clash Meta for Android：「Meta 特性 → 导入 GeoSite 数据库」选择下载好的 `geosite.dat`，保持 Geodata 模式启用；DNS 可用 `geosite:cn,private`、`geosite:gfw`，规则可写 `GEOSITE,ads,REJECT`。
+
+其他产物同在 `geosite` 分支：`geosite-adblock.dat`（仅广告分类）、`geosite.db` / `geosite-adblock.db`（sing-box）、`ads.mrs`、`heidai-adblockdns.mrs`、`hagezi-pro.mrs`（mihomo 规则集）。
+
 ## 各来源独立 JSON
 
 每个成功解析的来源都会单独输出一个 JSON，域名只来自该来源，并应用 `custom/allowlist.txt` 排除项。该文件不会混入其他来源的域名；`custom/blocklist.txt` 仅用于原有汇总 JSON。表格由 Actions 构建自动更新。
