@@ -2680,6 +2680,7 @@
       "domain:d2kadvyeq051an.cloudfront.net",
       "domain:d2pfd8w05h.com",
       "domain:d3.sina.com.cn",
+      "domain:d3h02f4xol.com",
       "domain:d3iih5w7xp5hdg.cloudfront.net",
       "domain:d3q5v0ai8.com",
       "domain:d4.sina.com.cn",
@@ -2991,6 +2992,7 @@
       "domain:dvjxk947e.com",
       "domain:dvs.china.com",
       "domain:dvser.china.com",
+      "domain:dvtkppqczzfhpk.com",
       "domain:dvvv9ld5b0.com",
       "domain:dwchovra.com",
       "domain:dwh3rjyzxj.com",
@@ -3070,6 +3072,7 @@
       "domain:ebrun.com",
       "domain:ebsqxaj8u.com",
       "domain:ec00t7oue1.com",
+      "domain:ec2ic6ew5k.com",
       "domain:ec8pr7nny.com",
       "domain:eccn.com",
       "domain:ecg21n9t8d.com",
@@ -3326,6 +3329,7 @@
       "domain:files.xtpag.top",
       "domain:fircokqe.com",
       "domain:firefoxchina.cn",
+      "domain:fireplace32.com",
       "domain:firqacv.com",
       "domain:first-hufu.oss-cn-shanghai.aliyuncs.com",
       "domain:fitchpmsa.com",
@@ -7489,6 +7493,7 @@
       "domain:uu8bq6rnj.com",
       "domain:uugtv.com",
       "domain:uuvuuxi7z.com",
+      "domain:uvaf6ko09w.com",
       "domain:uvd9re60w.com",
       "domain:uwants.com",
       "domain:uwerpyh.cn",
@@ -8001,6 +8006,7 @@
       "domain:x6d93mku0.com",
       "domain:x6kd8l204b.com",
       "domain:x70wk5e54.com",
+      "domain:x781w71m0j.com",
       "domain:x7qhjjryf1.com",
       "domain:x7weiubb2f.com",
       "domain:x8s007rgs.com",
@@ -8790,6 +8796,6 @@
       "domain:zzzyk.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Chinese filter (8785 domains)"
+    "remarks": "AdBlock - AdGuard Chinese filter (8791 domains)"
   }
 ]

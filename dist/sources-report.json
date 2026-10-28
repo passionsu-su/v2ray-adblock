@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T01:03:22.120414+00:00",
-  "unique_domains": 1342059,
+  "generated_at": "2026-10-28T13:01:00.892418+00:00",
+  "unique_domains": 1341867,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -11,7 +11,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 240801,
+      "domains": 240932,
       "json_file": "sources/01-217heidai-dns-full.json"
     },
     {
@@ -19,7 +19,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 8519,
+      "domains": 8488,
       "json_file": "sources/02-217heidai-dns-lite.json"
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 209844,
+      "domains": 210731,
       "json_file": "sources/05-hagezi-pro.json"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 234145,
+      "domains": 234269,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 183865,
+      "domains": 184036,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 8785,
+      "domains": 8791,
       "json_file": "sources/10-adguard-chinese-filter.json"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 16406,
+      "domains": 16409,
       "json_file": "sources/11-adguard-base-filter.json"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 204125,
+      "domains": 204313,
       "json_file": "sources/16-cats-team-adrules-dns.json"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 219882,
+      "domains": 220089,
       "json_file": "sources/17-cats-team-adrules-abp.json"
     },
     {
@@ -141,7 +141,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
       "format": "surge",
       "status": "ok",
-      "domains": 204106,
+      "domains": 204294,
       "json_file": "sources/18-cats-team-adrules-surge.json"
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://hblock.molinero.dev/hosts_adblock.txt",
       "format": "hosts",
       "status": "ok",
-      "domains": 478071,
+      "domains": 478706,
       "json_file": "sources/24-hblock-hosts.json"
     },
     {
@@ -211,7 +211,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 739427,
+      "domains": 739489,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 53856,
+      "domains": 54029,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -306,7 +306,7 @@
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
       "format": "plain",
       "status": "ok",
-      "domains": 145338,
+      "domains": 145392,
       "json_file": "sources/39-sukka-shadowrocket-domainset.json"
     },
     {
@@ -399,7 +399,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 12137,
+      "domains": 11139,
       "json_file": "sources/51-217heidai-full-adguard-abp.json"
     },
     {
@@ -407,7 +407,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list",
       "format": "surge",
       "status": "ok",
-      "domains": 240801,
+      "domains": 240932,
       "json_file": "sources/52-217heidai-surge-full.json"
     },
     {
