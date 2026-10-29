@@ -6501,6 +6501,7 @@
       "domain:ferret.helpspace.com",
       "domain:ferret.jesper.hk",
       "domain:ferret.linksoftwarellc.com",
+      "domain:festivehorse.com",
       "domain:fetchperiodic.com",
       "domain:fetish-bb.com",
       "domain:fetishpapa.com",
@@ -11891,6 +11892,7 @@
       "domain:rtvutrecht-static.reviveservers.com",
       "domain:rtyznd.com",
       "domain:ru.axar.az",
+      "domain:ruamupr.com",
       "domain:rubird.ru",
       "domain:rudimentarytheoreticalrome.com",
       "domain:rule34.us",
@@ -13824,7 +13826,6 @@
       "domain:trefoil.tv",
       "domain:trend-hotnow.blog.go-static.info",
       "domain:trend.az",
-      "domain:trend48.st",
       "domain:trendekhaza.goaserv.com",
       "domain:trendguardian.go-static.info",
       "domain:trgfx.b-cdn.net",
@@ -16414,6 +16415,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (16409 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (16410 domains)"
   }
 ]

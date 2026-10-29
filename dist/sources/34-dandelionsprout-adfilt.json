@@ -184,6 +184,7 @@
       "domain:instacart.com",
       "domain:instagram.com",
       "domain:intel.com",
+      "domain:investopedia.com",
       "domain:iplt20.com",
       "domain:ipv6.google.com",
       "domain:iqiyi.com",
@@ -392,6 +393,6 @@
       "domain:zoominfo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - DandelionSprout adfilt (387 domains)"
+    "remarks": "AdBlock - DandelionSprout adfilt (388 domains)"
   }
 ]

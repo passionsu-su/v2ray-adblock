@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T13:01:00.892418+00:00",
-  "unique_domains": 1341867,
+  "generated_at": "2026-10-29T01:01:19.546060+00:00",
+  "unique_domains": 1343643,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -11,7 +11,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 240932,
+      "domains": 241656,
       "json_file": "sources/01-217heidai-dns-full.json"
     },
     {
@@ -19,7 +19,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 8488,
+      "domains": 8480,
       "json_file": "sources/02-217heidai-dns-lite.json"
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 104521,
+      "domains": 100016,
       "json_file": "sources/03-anti-ad-adguard.json"
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://anti-ad.net/easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 98833,
+      "domains": 94337,
       "json_file": "sources/04-anti-ad-easylist.json"
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 210731,
+      "domains": 211042,
       "json_file": "sources/05-hagezi-pro.json"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 234269,
+      "domains": 234423,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 184036,
+      "domains": 184210,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 8791,
+      "domains": 8792,
       "json_file": "sources/10-adguard-chinese-filter.json"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 16409,
+      "domains": 16410,
       "json_file": "sources/11-adguard-base-filter.json"
     },
     {
@@ -95,7 +95,7 @@
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
       "format": "hosts",
       "status": "ok",
-      "domains": 75953,
+      "domains": 76149,
       "json_file": "sources/12-stevenblack-hosts.json"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 204313,
+      "domains": 204455,
       "json_file": "sources/16-cats-team-adrules-dns.json"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 220089,
+      "domains": 220235,
       "json_file": "sources/17-cats-team-adrules-abp.json"
     },
     {
@@ -141,7 +141,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
       "format": "surge",
       "status": "ok",
-      "domains": 204294,
+      "domains": 204436,
       "json_file": "sources/18-cats-team-adrules-surge.json"
     },
     {
@@ -211,7 +211,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 739489,
+      "domains": 739742,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 54029,
+      "domains": 54192,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -266,7 +266,7 @@
       "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 387,
+      "domains": 388,
       "json_file": "sources/34-dandelionsprout-adfilt.json"
     },
     {
@@ -274,7 +274,7 @@
       "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "format": "plain",
       "status": "ok",
-      "domains": 193578,
+      "domains": 193916,
       "json_file": "sources/35-loyalsoldier-reject-list.json"
     },
     {
@@ -306,7 +306,7 @@
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
       "format": "plain",
       "status": "ok",
-      "domains": 145392,
+      "domains": 145532,
       "json_file": "sources/39-sukka-shadowrocket-domainset.json"
     },
     {
@@ -407,7 +407,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list",
       "format": "surge",
       "status": "ok",
-      "domains": 240932,
+      "domains": 241656,
       "json_file": "sources/52-217heidai-surge-full.json"
     },
     {
@@ -421,7 +421,7 @@
       "url": "https://anti-ad.net/surge2.txt",
       "format": "surge",
       "status": "ok",
-      "domains": 105192,
+      "domains": 100686,
       "json_file": "sources/54-anti-ad-surge-domain-set.json"
     },
     {
@@ -429,7 +429,7 @@
       "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
       "format": "surge",
       "status": "ok",
-      "domains": 105192,
+      "domains": 100686,
       "json_file": "sources/55-anti-ad-surge-rules.json"
     },
     {

@@ -965,7 +965,6 @@
       "domain:acs4baichuan.m.taobao.com",
       "domain:act.qq.com",
       "domain:act.vip.iqiyi.com",
-      "domain:active.baofeng.com",
       "domain:active.sangfor.com",
       "domain:activity.browser.intl.miui.com",
       "domain:ad-1258444056.cos.accelerate.myqcloud.com",
@@ -1245,7 +1244,6 @@
       "domain:ads-video-al.xhscdn.com.w.cdngslb.com",
       "domain:ads-video-qc.xhscdn.com",
       "domain:ads-vp5-xhscdn.tliveapp.com",
-      "domain:ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com",
       "domain:ads-vp5.xhscdn.com",
       "domain:ads.17track.net",
       "domain:ads.95516.com",
@@ -2478,7 +2476,6 @@
       "domain:conf-in.dc.heytapmobi.com",
       "domain:conf-sg.dc.heytapmobi.com",
       "domain:config.ad.falconnet.app",
-      "domain:config.baofeng.net",
       "domain:config.chsmarttv.com",
       "domain:config.cmpassport.com",
       "domain:config1.cmpassport.com",
@@ -2661,7 +2658,6 @@
       "domain:daima.ijq.tv",
       "domain:daima.yggk.net",
       "domain:daima.ysdui.com",
-      "domain:dajars.shop",
       "domain:daliantong.com.cn",
       "domain:dan4irc1i.com",
       "domain:danpy3riac.com",
@@ -4917,7 +4913,6 @@
       "domain:m.moomoo.com",
       "domain:m.pc6.com",
       "domain:m.qiuwu.net",
-      "domain:m.qulishi.com",
       "domain:m.simba.taobao.com",
       "domain:m.txtxr.com",
       "domain:m.yule.360.com",
@@ -6072,7 +6067,6 @@
       "domain:quanmama.com",
       "domain:quanrunze.com.cn",
       "domain:qudajie.com",
-      "domain:quiavo.shop",
       "domain:qujishu.com",
       "domain:qurl.f.360.cn",
       "domain:qutaovip.com",
@@ -6975,7 +6969,6 @@
       "domain:t-dsp.pinduoduo.com",
       "domain:t-e.flyme.cn",
       "domain:t-flow.flyme.cn",
-      "domain:t-remad.qm989.com",
       "domain:t.airasia.com",
       "domain:t.apkpure.net",
       "domain:t.dangdang.com",
@@ -7937,7 +7930,6 @@
       "domain:www.ab8965471225.vip",
       "domain:www.advenueplatform.com",
       "domain:www.alpen-leicht.de",
-      "domain:www.appdriver.com.cn",
       "domain:www.cc4008001935.cn",
       "domain:www.claiks.com",
       "domain:www.costext.com",
@@ -8493,6 +8485,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - 217heidai DNS Lite (8488 domains)"
+    "remarks": "AdBlock - 217heidai DNS Lite (8480 domains)"
   }
 ]
