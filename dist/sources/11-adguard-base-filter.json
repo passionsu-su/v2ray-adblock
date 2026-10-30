@@ -5123,7 +5123,6 @@
       "domain:crypto-fire.website",
       "domain:crypto-loot.com",
       "domain:cryptoadvertising.net",
-      "domain:cryptofans.news",
       "domain:cryptomininggame.com",
       "domain:cryptowin.io",
       "domain:cs.rivierewhimsey.com",
@@ -6555,7 +6554,6 @@
       "domain:filestube.com",
       "domain:filetransfer.exasrv.com",
       "domain:filext.com",
-      "domain:filez.cutpaid.com",
       "domain:fili.cc",
       "domain:fili.tv",
       "domain:fill.goasrv.com",
@@ -11196,6 +11194,7 @@
       "domain:refer.ccbill.com",
       "domain:referrer.website",
       "domain:referwhen.com",
+      "domain:reflecting-nature.com",
       "domain:refpakrtsb.top",
       "domain:reg.ancensored.com",
       "domain:register.notifysrv.com",
@@ -16421,6 +16420,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (16416 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (16415 domains)"
   }
 ]

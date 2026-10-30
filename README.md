@@ -49,35 +49,35 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 |---|---:|---:|---|
 | 217heidai DNS Full | 成功 | 241656 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/01-217heidai-dns-full.json) |
 | 217heidai DNS Lite | 成功 | 8480 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/02-217heidai-dns-lite.json) |
-| anti-AD AdGuard | 成功 | 100016 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/03-anti-ad-adguard.json) |
-| anti-AD EasyList | 成功 | 94337 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/04-anti-ad-easylist.json) |
-| HaGeZi Pro | 成功 | 211671 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/05-hagezi-pro.json) |
+| anti-AD AdGuard | 成功 | 100012 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/03-anti-ad-adguard.json) |
+| anti-AD EasyList | 成功 | 94333 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/04-anti-ad-easylist.json) |
+| HaGeZi Pro | 成功 | 214202 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/05-hagezi-pro.json) |
 | HaGeZi Ultimate (aggressive; disabled by default) | 未启用 | — | 未生成 |
-| OISD Big | 成功 | 234731 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/07-oisd-big.json) |
+| OISD Big | 成功 | 235155 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/07-oisd-big.json) |
 | OISD Small (alternative) | 未启用 | — | 未生成 |
-| AdGuard DNS filter | 成功 | 184577 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/09-adguard-dns-filter.json) |
-| AdGuard Chinese filter | 成功 | 8804 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/10-adguard-chinese-filter.json) |
-| AdGuard Base filter | 成功 | 16416 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/11-adguard-base-filter.json) |
+| AdGuard DNS filter | 成功 | 184764 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/09-adguard-dns-filter.json) |
+| AdGuard Chinese filter | 成功 | 8807 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/10-adguard-chinese-filter.json) |
+| AdGuard Base filter | 成功 | 16415 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/11-adguard-base-filter.json) |
 | StevenBlack hosts | 成功 | 76738 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/12-stevenblack-hosts.json) |
 | blackmatrix7 Advertising AdGuard | 成功 | 290184 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/13-blackmatrix7-advertising-adguard.json) |
 | blackmatrix7 Advertising Clash YAML | 失败 | — | 未生成 |
 | blackmatrix7 Advertising Shadowrocket | 失败 | — | 未生成 |
-| Cats-Team AdRules DNS | 成功 | 204861 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/16-cats-team-adrules-dns.json) |
-| Cats-Team AdRules ABP | 成功 | 220624 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/17-cats-team-adrules-abp.json) |
-| Cats-Team AdRules Surge | 成功 | 204842 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/18-cats-team-adrules-surge.json) |
+| Cats-Team AdRules DNS | 成功 | 205062 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/16-cats-team-adrules-dns.json) |
+| Cats-Team AdRules ABP | 成功 | 220821 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/17-cats-team-adrules-abp.json) |
+| Cats-Team AdRules Surge | 成功 | 205043 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/18-cats-team-adrules-surge.json) |
 | GOODBYEADS DNS | 成功 | 121771 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/19-goodbyeads-dns.json) |
 | GOODBYEADS ABP | 成功 | 139841 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/20-goodbyeads-abp.json) |
 | NEO DEV HOST | 成功 | 112007 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/21-neo-dev-host.json) |
 | 1Hosts Lite | 成功 | 102241 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/22-1hosts-lite.json) |
 | 1Hosts Xtra (aggressive; disabled by default) | 未启用 | — | 未生成 |
-| hBlock hosts | 成功 | 478945 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/24-hblock-hosts.json) |
+| hBlock hosts | 成功 | 479082 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/24-hblock-hosts.json) |
 | yhosts | 成功 | 6715 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/25-yhosts.json) |
 | AWAvenue Ads Rule | 成功 | 969 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/26-awavenue-ads-rule.json) |
-| REIJI007 DNS Lite | 成功 | 740090 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/27-reiji007-dns-lite.json) |
+| REIJI007 DNS Lite | 成功 | 740247 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/27-reiji007-dns-lite.json) |
 | REIJI007 Clash YAML | 失败 | — | 未生成 |
 | DandelionSprout Anti-Malware | 成功 | 11602 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/29-dandelionsprout-anti-malware.json) |
 | NoCoin | 成功 | 198 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/30-nocoin.json) |
-| EasyList China + EasyList | 成功 | 54550 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/31-easylist-china-easylist.json) |
+| EasyList China + EasyList | 成功 | 54735 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/31-easylist-china-easylist.json) |
 | CJX Annoyance List | 成功 | 522 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/32-cjx-annoyance-list.json) |
 | 乘风 Adblock Plus Rule | 成功 | 270 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/33-adblock-plus-rule.json) |
 | DandelionSprout adfilt | 成功 | 388 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/34-dandelionsprout-adfilt.json) |
@@ -85,7 +85,7 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 | Loyalsoldier Surge reject | 成功 | 194282 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/36-loyalsoldier-surge-reject.json) |
 | Sukka non-IP reject | 成功 | 160 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/37-sukka-non-ip-reject.json) |
 | Sukka domainset reject | 成功 | 1155 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/38-sukka-domainset-reject.json) |
-| Sukka Shadowrocket domainset | 成功 | 145729 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/39-sukka-shadowrocket-domainset.json) |
+| Sukka Shadowrocket domainset | 成功 | 145834 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/39-sukka-shadowrocket-domainset.json) |
 | Sukka Shadowrocket non-IP reject | 成功 | 160 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/40-sukka-shadowrocket-non-ip-reject.json) |
 | ACL4SSR BanAD | 成功 | 563 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/41-acl4ssr-banad.json) |
 | ACL4SSR BanProgramAD | 成功 | 989 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/42-acl4ssr-banprogramad.json) |
@@ -100,8 +100,8 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 | 217heidai Full AdGuard/ABP | 成功 | 11139 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/51-217heidai-full-adguard-abp.json) |
 | 217heidai Surge Full | 成功 | 241656 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/52-217heidai-surge-full.json) |
 | 217heidai Surge Lite | 未启用 | — | 未生成 |
-| anti-AD Surge Domain Set | 成功 | 100686 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/54-anti-ad-surge-domain-set.json) |
-| anti-AD Surge Rules | 成功 | 100686 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/55-anti-ad-surge-rules.json) |
+| anti-AD Surge Domain Set | 成功 | 100682 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/54-anti-ad-surge-domain-set.json) |
+| anti-AD Surge Rules | 成功 | 100682 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/55-anti-ad-surge-rules.json) |
 | blackmatrix7 AdvertisingLite Shadowrocket | 未启用 | — | 未生成 |
 | blackmatrix7 Privacy Shadowrocket | 未启用 | — | 未生成 |
 | Sukka extra domainset | 未启用 | — | 未生成 |
