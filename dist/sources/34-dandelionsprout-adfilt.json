@@ -128,6 +128,7 @@
       "domain:ekstrabladet.dk",
       "domain:emag.ro",
       "domain:email-marriott.com",
+      "domain:entire.com",
       "domain:entradas.com",
       "domain:epicgames.com",
       "domain:epidemicsound.com",
@@ -393,6 +394,6 @@
       "domain:zoominfo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - DandelionSprout adfilt (388 domains)"
+    "remarks": "AdBlock - DandelionSprout adfilt (389 domains)"
   }
 ]

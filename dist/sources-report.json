@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T17:16:27.134210+00:00",
-  "unique_domains": 1343312,
+  "generated_at": "2026-10-31T22:05:25.316981+00:00",
+  "unique_domains": 1343452,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -27,7 +27,7 @@
       "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 100012,
+      "domains": 100848,
       "json_file": "sources/03-anti-ad-adguard.json"
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://anti-ad.net/easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 94333,
+      "domains": 95168,
       "json_file": "sources/04-anti-ad-easylist.json"
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 213292,
+      "domains": 213387,
       "json_file": "sources/05-hagezi-pro.json"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 235400,
+      "domains": 235538,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 185208,
+      "domains": 185267,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 205511,
+      "domains": 205578,
       "json_file": "sources/16-cats-team-adrules-dns.json"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 221290,
+      "domains": 221352,
       "json_file": "sources/17-cats-team-adrules-abp.json"
     },
     {
@@ -141,7 +141,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
       "format": "surge",
       "status": "ok",
-      "domains": 205492,
+      "domains": 205559,
       "json_file": "sources/18-cats-team-adrules-surge.json"
     },
     {
@@ -211,7 +211,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 740652,
+      "domains": 740817,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +242,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 55166,
+      "domains": 55243,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -266,7 +266,7 @@
       "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 388,
+      "domains": 389,
       "json_file": "sources/34-dandelionsprout-adfilt.json"
     },
     {
@@ -274,7 +274,7 @@
       "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "format": "plain",
       "status": "ok",
-      "domains": 194660,
+      "domains": 195040,
       "json_file": "sources/35-loyalsoldier-reject-list.json"
     },
     {
@@ -306,7 +306,7 @@
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
       "format": "plain",
       "status": "ok",
-      "domains": 146043,
+      "domains": 146198,
       "json_file": "sources/39-sukka-shadowrocket-domainset.json"
     },
     {
@@ -421,7 +421,7 @@
       "url": "https://anti-ad.net/surge2.txt",
       "format": "surge",
       "status": "ok",
-      "domains": 100682,
+      "domains": 101518,
       "json_file": "sources/54-anti-ad-surge-domain-set.json"
     },
     {
@@ -429,7 +429,7 @@
       "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
       "format": "surge",
       "status": "ok",
-      "domains": 100682,
+      "domains": 101518,
       "json_file": "sources/55-anti-ad-surge-rules.json"
     },
     {
