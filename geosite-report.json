@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-31T17:22:04.495917+00:00",
+  "ads_domains": 351472,
+  "sources": [
+    {
+      "tag": "217heidai",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
+      "status": "ok",
+      "domains": 241656
+    },
+    {
+      "tag": "anti-ad",
+      "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
+      "status": "ok",
+      "domains": 100012
+    },
+    {
+      "tag": "hagezi",
+      "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
+      "status": "ok",
+      "domains": 213292
+    },
+    {
+      "tag": "loyalsoldier",
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
+      "status": "ok",
+      "domains": 194660
+    }
+  ]
+}
