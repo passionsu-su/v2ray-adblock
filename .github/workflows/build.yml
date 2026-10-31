@@ -3,6 +3,11 @@ name: Build v2rayNG AdBlock
 on:
   push:
     branches: [main]
+    paths:
+      - "sources.json"
+      - "custom/**"
+      - "scripts/build.py"
+      - ".github/workflows/build.yml"
   schedule:
     - cron: "17 */12 * * *"
   workflow_dispatch:
@@ -10,9 +15,11 @@ on:
 permissions:
   contents: write
 
+# Serialize both main-branch and geosite publication workflows.
+# Do not cancel a running build; queue competing runs instead.
 concurrency:
-  group: build-v2ray-adblock
-  cancel-in-progress: false
+  group: v2ray-adblock-publish
+  queue: max
 
 jobs:
   build:
