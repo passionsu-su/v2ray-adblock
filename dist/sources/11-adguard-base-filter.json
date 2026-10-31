@@ -13361,6 +13361,7 @@
       "domain:t98.nudevista.com",
       "domain:t99.nudevista.com",
       "domain:tabletennisdaily.com",
+      "domain:taboola-display.com",
       "domain:taboola.com",
       "domain:tafimedia.com",
       "domain:tag.adkernel.com",
@@ -16422,6 +16423,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (16417 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (16418 domains)"
   }
 ]
