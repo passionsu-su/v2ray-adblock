@@ -38,7 +38,21 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 - Xray / v2rayNG 路由：`geosite:ads`（或 `geosite:category-ads-all`）→ block；`geosite:cn` → direct。
 - Clash Meta for Android：「Meta 特性 → 导入 GeoSite 数据库」选择下载好的 `geosite.dat`，保持 Geodata 模式启用；DNS 可用 `geosite:cn,private`、`geosite:gfw`，规则可写 `GEOSITE,ads,REJECT`。
 
-其他产物同在 `geosite` 分支：`geosite-adblock.dat`（仅广告分类）、`geosite.db` / `geosite-adblock.db`（sing-box）、`ads.mrs`、`heidai-adblockdns.mrs`、`hagezi-pro.mrs`（mihomo 规则集）。
+### geosite 分支全部下载地址
+
+以下文件均由 Actions 发布在 `geosite` 分支，链接为可直接下载的 Raw 地址：
+
+| 文件 | 格式 / 用途 | 下载地址 |
+|---|---|---|
+| `geosite.dat` | Xray / V2Ray / Clash Meta 完整分类数据库（含广告分类） | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite.dat) |
+| `geosite-adblock.dat` | Xray / V2Ray 广告分类数据库 | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite-adblock.dat) |
+| `geosite.db` | sing-box 完整分类数据库 | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite.db) |
+| `geosite-adblock.db` | sing-box 广告分类数据库 | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite-adblock.db) |
+| `ads.mrs` | mihomo 广告规则集 | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/ads.mrs) |
+| `heidai-adblockdns.mrs` | mihomo 217heidai 广告 DNS 规则集 | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/heidai-adblockdns.mrs) |
+| `hagezi-pro.mrs` | mihomo HaGeZi Pro 规则集 | [Raw 下载](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/hagezi-pro.mrs) |
+
+也可打开 [geosite 分支文件目录](https://github.com/passionsu-su/v2ray-adblock/tree/geosite) 查看全部文件及更新记录。
 
 ## 各来源独立 JSON
 
