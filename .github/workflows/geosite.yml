@@ -17,9 +17,11 @@ on:
 permissions:
   contents: write
 
+# Share one lock with build.yml so main commits and geosite publication
+# cannot race each other. Keep runs queued rather than cancelling active work.
 concurrency:
-  group: build-geosite-adblock
-  cancel-in-progress: false
+  group: v2ray-adblock-publish
+  queue: max
 
 jobs:
   build:
@@ -38,7 +40,7 @@ jobs:
       - name: Build mihomo .mrs
         run: |
           V=v1.19.33
-          curl -sL -o mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/$V/mihomo-linux-amd64-compatible-$V.gz
+          curl -fsSL -o mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/$V/mihomo-linux-amd64-compatible-$V.gz
           gunzip -f mihomo.gz && chmod +x mihomo
           for f in geosite-out/mrs-src/*.txt; do
             n=$(basename "$f" .txt)
@@ -48,7 +50,7 @@ jobs:
           ls -l geosite-out/*.mrs
       - name: Verify with Xray
         run: |
-          curl -sL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          curl -fsSL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
           unzip -oq xray.zip -d xraybin
           cp geosite-out/geosite-adblock.dat xraybin/
           cat > test.json <<'EOF'
@@ -67,7 +69,7 @@ jobs:
       - name: Verify .db with sing-box
         run: |
           V=1.11.15
-          curl -sL -o sb.tgz https://github.com/SagerNet/sing-box/releases/download/v$V/sing-box-$V-linux-amd64.tar.gz
+          curl -fsSL -o sb.tgz https://github.com/SagerNet/sing-box/releases/download/v$V/sing-box-$V-linux-amd64.tar.gz
           tar xzf sb.tgz
           ./sing-box-$V-linux-amd64/sing-box geosite -f geosite-out/geosite-adblock.db lookup ad.doubleclick.net | grep -q ads
           ./sing-box-$V-linux-amd64/sing-box geosite -f geosite-out/geosite.db lookup ad.doubleclick.net | grep -q "(ads)"
