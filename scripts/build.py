@@ -106,6 +106,19 @@ def add(out, token):
     if d:
         out.add(d)
 
+SAFE_MODIFIERS = {"important", "all", "document", "doc", "popup"}
+
+def whole_host_tail(tail):
+    """True when an ABP/AdGuard rule tail means 'block the whole host'."""
+    tail = tail.strip()
+    if tail in ("", "^", "^|", "|", "/", "^/"):
+        return True
+    m = re.fullmatch(r"\^?\|?\$(.+)", tail)
+    if not m:
+        return False
+    mods = {x.strip().lower() for x in m.group(1).split(",") if x.strip()}
+    return bool(mods) and mods <= SAFE_MODIFIERS
+
 def parse(text):
     out = set()
     for raw in text.replace("\ufeff", "").splitlines():
@@ -119,13 +132,16 @@ def parse(text):
                 add(out, token)
             continue
         # AdGuard / ABP domain anchors and URL anchors
-        if s.startswith("||"):
-            host = re.split(r"[\^/$*|]", s[2:], maxsplit=1)[0]
-            add(out, host)
-            continue
-        if s.startswith("|https://") or s.startswith("|http://"):
-            host = re.split(r"[/^|:$]", re.sub(r"^\|https?://", "", s), maxsplit=1)[0]
-            add(out, host)
+        # Only whole-host rules are convertible. Rules with a URL path
+        # (||qq.com/ads/x.js), wildcards or request-type/domain modifiers
+        # ($third-party, $script, $domain=...) block a single resource in a
+        # browser; turning them into a domain rule would block the whole site.
+        if s.startswith("||") or s.startswith("|https://") or s.startswith("|http://"):
+            body = re.sub(r"^\|\|", "", s)
+            body = re.sub(r"^\|https?://", "", body)
+            m = re.match(r"^([A-Za-z0-9.-]+)(.*)$", body)
+            if m and whole_host_tail(m.group(2)):
+                add(out, m.group(1))
             continue
         # Clash / Surge / Shadowrocket: only exact/suffix domain semantics
         if re.match(r"(?i)^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-SET),", s):
