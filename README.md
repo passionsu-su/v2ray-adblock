@@ -7,6 +7,7 @@
 - `dist/v2rayng-adblock.json`：v2rayNG 可导入的 JSON 规则数组
 - `dist/v2rayng-adblock.min.json`：紧凑版
 - `dist/domains.txt`：去重域名
+- `dist/*-cn.*` / `dist/*-global.*`：国内 / 国外拆分版（见下方「国内 / 国外拆分版」）
 - `dist/sources-report.json`：逐来源抓取状态、解析数量和错误原因
 - `dist/sources/*.json`：每个成功转换的来源单独生成一个 v2rayNG JSON；下方表格自动列出下载地址
 
@@ -17,6 +18,17 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-a
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains.txt
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-report.json
 ```
+
+## 国内 / 国外拆分版
+
+按域名归属拆分：命中 [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) 国内域名列表（解析服务器在国内）或 .cn 等国内顶级域的归为「国内」（Daraz、Lazada、AliExpress 等面向海外的站点除外），其余归为「国外」。随主规则每 12 小时自动更新。只想拦国内 App 广告、规则又太大时，可只导入国内版。
+
+<!-- SPLIT_TABLE_START -->
+| 分类 | 域名数 | v2rayNG JSON | 紧凑版 JSON | 域名列表 |
+|---|---:|---|---|---|
+| 国内 | 构建后更新 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-cn.txt |
+| 国外 | 构建后更新 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-global.txt |
+<!-- SPLIT_TABLE_END -->
 
 ## 完整 geosite.dat（Xray / V2Ray / Clash Meta / mihomo）
 
