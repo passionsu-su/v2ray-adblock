@@ -1,6 +1,8 @@
 {
-  "generated_at": "2026-10-31T22:05:25.316981+00:00",
-  "unique_domains": 1343452,
+  "generated_at": "2026-11-01T02:29:14.292869+00:00",
+  "unique_domains": 1343680,
+  "cn_domains": 25413,
+  "global_domains": 1318267,
   "source_success": 45,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -57,7 +59,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 235538,
+      "domains": 235423,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -71,7 +73,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 185267,
+      "domains": 185364,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -79,7 +81,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 8820,
+      "domains": 8823,
       "json_file": "sources/10-adguard-chinese-filter.json"
     },
     {
@@ -187,7 +189,7 @@
       "url": "https://hblock.molinero.dev/hosts_adblock.txt",
       "format": "hosts",
       "status": "ok",
-      "domains": 479325,
+      "domains": 480605,
       "json_file": "sources/24-hblock-hosts.json"
     },
     {
@@ -211,7 +213,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 740817,
+      "domains": 740879,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -242,7 +244,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 55243,
+      "domains": 55312,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -282,7 +284,7 @@
       "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/reject.txt",
       "format": "surge",
       "status": "ok",
-      "domains": 194660,
+      "domains": 195040,
       "json_file": "sources/36-loyalsoldier-surge-reject.json"
     },
     {
