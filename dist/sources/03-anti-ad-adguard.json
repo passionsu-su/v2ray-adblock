@@ -22819,7 +22819,6 @@
       "domain:da.bodenhaus.de",
       "domain:da.daji.com",
       "domain:da.freo.nl",
-      "domain:da.hornbach",
       "domain:da.hunantv.com",
       "domain:da.maif.fr",
       "domain:da.netease.com",
@@ -29587,7 +29586,6 @@
       "domain:enfuozgtraoyq.site",
       "domain:enfuxdajulidn.site",
       "domain:engage-emea.jll.com",
-      "domain:engage.3m",
       "domain:engage.alphastarcm.com",
       "domain:engage.atriosystems.com",
       "domain:engage.avalara.com",
@@ -79415,7 +79413,6 @@
       "domain:ssc.slobodnaevropa.org",
       "domain:ssc.smithsonianchannel.com",
       "domain:ssc.smithsonianchannellatam.com",
-      "domain:ssc.southpark",
       "domain:ssc.supertv.it",
       "domain:ssc.svaboda.org",
       "domain:ssc.svoboda.org",
@@ -100853,6 +100850,6 @@
       "domain:zzzmxvoxooaat.site"
     ],
     "enabled": true,
-    "remarks": "AdBlock - anti-AD AdGuard (100848 domains)"
+    "remarks": "AdBlock - anti-AD AdGuard (100845 domains)"
   }
 ]
