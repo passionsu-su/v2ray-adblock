@@ -668,7 +668,6 @@
 51mypc.cn
 51posj.cn
 51posuiji.org.cn
-51q.com.cn
 51taifu.com
 51usz.com
 51wxyx.cn
@@ -710,7 +709,6 @@
 55.la
 555sq.com.cn
 555vps.cn
-5566333.cn
 55726zubo56686.com
 55880.cn
 55zzz.cn
@@ -1481,6 +1479,7 @@ activation.easeus.com
 activation.wps.cn
 active.baofeng.com
 active.sangfor.com
+active.tc.skysrt.com
 activeqq.3g.qq.com
 actives.youku.com
 activities.alibaba.com
@@ -3459,7 +3458,6 @@ aqgyju.cn
 aqpvglv.cn
 aqrokdw.cn
 aquarius8.cn
-aqubzryzaqdxe.active.tc.skysrt.com
 aqyad.com
 ar.hao123.com
 ar.hl.cn
@@ -5291,6 +5289,7 @@ clientlognew.hzage.cn
 clientlogsf.music.163.com
 clientlogusf.music.163.com
 clientupdate.drivethelife.com
+clk.ad.xelements.cn
 clk.gentags.net
 clk.madserving.com
 clk.optaim.com
@@ -6260,6 +6259,7 @@ dc.letv.com
 dc.meitustat.com
 dc.oppomobile.com
 dc.sigmob.cn
+dc.stat.nearme.com.cn
 dc.tensgpt.com
 dc1.networkbench.com
 dc2.csdn.net
@@ -7707,7 +7707,6 @@ esa-reg-eup.myoppo.com
 escortevenly.com
 eshop.sintech.cn
 estixfl.cn
-estrongs.com
 esudrp.cn
 esuzm.cn
 et.emarbox.com
@@ -12946,7 +12945,6 @@ m.l93stb.cn
 m.la71f.cn
 m.laigame7.net
 m.le78p.cn
-m.lengren.com.cn
 m.lengyamei.cn
 m.lf20pa.cn
 m.lfshpt.cn
@@ -13050,7 +13048,6 @@ m.sz05f.cn
 m.szmt02.cn
 m.szmt11.cn
 m.szmt18.cn
-m.sztjdz.com.cn
 m.t3j6a.cn
 m.t528zl.cn
 m.t98rzq.cn
@@ -13631,7 +13628,6 @@ microsoft-chinese.cn
 microsoft.updata.net.cn
 microsotf.cn
 microsser.cn
-microvirt.com
 mid.houyi.baofeng.net
 midas.rong360.com
 middleware.ksapisrv.com
@@ -17711,6 +17707,7 @@ sentry.dreambig.work
 sentry.duozhuayu.net
 sentry.eks.hoyoverse.com
 sentry.epay.163.com
+sentry.erp321.com
 sentry.fintopia.tech
 sentry.galaxy-immi.com
 sentry.gametaptap.com
@@ -17718,6 +17715,7 @@ sentry.gitcode.com
 sentry.globalsources.com
 sentry.gryphline.com
 sentry.guangyapan.com
+sentry.heytea-co.com.e.aliyunwaf5.com
 sentry.huxiu.com
 sentry.hypergryph.com
 sentry.idiaoyan.cn
@@ -18113,7 +18111,6 @@ skynet.bilivideo.com
 skytec.com.cn
 skzlz.cn
 sl-log.oray.net
-sl-tk.oray.com
 sl.adbiding.com
 sl.hpplay.cn
 sl00ufi.cn
@@ -20405,7 +20402,6 @@ unityads.unitychina.cn
 unjs.jingyanben.com
 unmsrvh.cn
 unnqyqq.cn
-unpm-upaas.uc.cn
 unqrroh.cn
 unstat.baidu.com
 unta.cn
@@ -20543,7 +20539,6 @@ userid.xiaomi.com
 userimg.qunar.com
 userprofile.push.heytapmobi.com
 users.51.la
-userver-upaas.uc.cn
 usg-tms-system-soft-template-078bb3cf07ac46bf8b30ae23a0efe047.obs.cn-north-4.myhuaweicloud.com
 ushaqi.com
 usn.cc
