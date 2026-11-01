@@ -12,6 +12,67 @@ UA = "passionsu-su-v2ray-adblock/2.1"
 MAX_BYTES = 30 * 1024 * 1024
 MIN_SUCCESS = 4
 MIN_DOMAINS = 5000
+RAW = "https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/"
+# felixonmars 列表按“域名解析服务器在国内”收录，比直连列表更贴近“国内域名”
+# （直连列表里还含 doubleclick/2mdn 等海外广告网络，不适合用于归类）。
+CN_LISTS = [
+    "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf",
+    "https://testingcf.jsdelivr.net/gh/felixonmars/dnsmasq-china-list@master/accelerated-domains.china.conf",
+]
+# 托管在阿里云但面向海外市场的电商站点，归为国外
+NOT_CN = {"daraz.com", "daraz.pk", "daraz.lk", "daraz.com.bd", "daraz.com.np",
+          "lazada.com", "lazada.co.id", "lazada.co.th", "lazada.com.my", "lazada.com.ph", "lazada.sg", "lazada.vn",
+          "aliexpress.com", "aliexpress.us", "aliexpress.ru", "miravia.es", "trendyol.com"}
+CN_TLDS = {"cn", "xn--fiqs8s", "xn--fiqz9s", "xn--55qx5d"}
+
+def load_cn_set():
+    """国内域名集合：优先 china-direct-domain，失败回退 felixonmars。"""
+    for url in CN_LISTS:
+        try:
+            out = set()
+            for line in fetch(url).splitlines():
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if line.startswith("server=/"):
+                    line = line.split("/")[1]
+                for pre in ("domain:", "full:", "DOMAIN-SUFFIX,", "+."):
+                    if line.startswith(pre):
+                        line = line[len(pre):]
+                line = line.split(",")[0].strip().lower().lstrip(".")
+                if "." in line:
+                    out.add(line)
+            if len(out) > 10000:
+                return out
+        except Exception as exc:
+            print(f"[WARN] CN list {url}: {exc}", file=sys.stderr)
+    raise SystemExit("Refusing publish: no China domain list available")
+
+def is_cn(domain, cn_set):
+    labels = domain.split(".")
+    if labels[-1] in CN_TLDS:
+        return True
+    for i in range(len(labels) - 1):
+        suffix = ".".join(labels[i:])
+        if suffix in NOT_CN:
+            return False
+        if suffix in cn_set:
+            return True
+    return False
+
+def write_set(name_suffix, domains, remark):
+    rules = [{
+        "port": "",
+        "outboundTag": "block",
+        "domain": ["domain:" + d for d in domains],
+        "enabled": True,
+        "remarks": f"{remark} ({len(domains)} domains)"
+    }]
+    (OUT / f"v2rayng-adblock{name_suffix}.json").write_text(
+        json.dumps(rules, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (OUT / f"v2rayng-adblock{name_suffix}.min.json").write_text(
+        json.dumps(rules, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+    (OUT / f"domains{name_suffix}.txt").write_text("\n".join(domains) + "\n", encoding="utf-8")
 
 def domain_ok(value):
     s = value.strip().lower().rstrip(".")
@@ -170,9 +231,16 @@ def main():
         json.dumps(rules, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8"
     )
     (OUT / "domains.txt").write_text("\n".join(domains) + "\n", encoding="utf-8")
+    cn_set = load_cn_set()
+    cn_domains = [d for d in domains if is_cn(d, cn_set)]
+    global_domains = [d for d in domains if not is_cn(d, cn_set)]
+    write_set("-cn", cn_domains, "AdBlock 国内")
+    write_set("-global", global_domains, "AdBlock 国外")
     report_data = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "unique_domains": len(domains),
+        "cn_domains": len(cn_domains),
+        "global_domains": len(global_domains),
         "source_success": successes,
         "source_total": len(sources),
         "allowlist_entries": len(allow),
@@ -201,6 +269,13 @@ def main():
         readme = readme.split(start_marker, 1)[0] + block + readme.split(end_marker, 1)[1]
     else:
         readme += "\n\n## 各来源独立 JSON\n\n" + block + "\n"
+    s2, e2 = "<!-- SPLIT_TABLE_START -->", "<!-- SPLIT_TABLE_END -->"
+    lines = ["| 分类 | 域名数 | v2rayNG JSON | 紧凑版 JSON | 域名列表 |", "|---|---:|---|---|---|"]
+    for label, suf, cnt in (("国内", "-cn", len(cn_domains)), ("国外", "-global", len(global_domains))):
+        lines.append(f"| {label} | {cnt} | {RAW}v2rayng-adblock{suf}.json | {RAW}v2rayng-adblock{suf}.min.json | {RAW}domains{suf}.txt |")
+    split_block = s2 + "\n" + "\n".join(lines) + "\n" + e2
+    if s2 in readme and e2 in readme:
+        readme = readme.split(s2, 1)[0] + split_block + readme.split(e2, 1)[1]
     readme_path.write_text(readme, encoding="utf-8")
     print(f"Generated {len(per_source)} per-source JSON files.")
     print(f"Generated {len(domains)} unique aggregate domains; {successes}/{len(sources)} enabled sources succeeded.")
