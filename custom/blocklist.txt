@@ -1,1 +1,23 @@
 # Add one domain per line to force it into the merged blocklist.
+
+# 微信广告专项（同 free-nodes 配置）
+# 朋友圈广告
+wxsnsdy.wxs.qq.com
+wxsnsdythumb.wxs.qq.com
+wxsnsdyvip.wxs.qq.com
+wxsnsdy.tc.qq.com
+# 公众号文章内广告
+adsmind.gdtimg.com
+adsmind.apdcdn.tc.qq.com
+pgdt.gtimg.cn
+pgdt.gtimg.com
+# 公众号底部广告
+gdt.qq.com
+e.qq.com
+l.qq.com
+adsfile.qq.com
+# 小程序广告
+ad.weixin.qq.com
+# 视频号广告
+ad.video.qq.com
+wa.gtimg.com
