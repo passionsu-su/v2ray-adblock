@@ -35,20 +35,28 @@ jobs:
         run: python scripts/build.py
       - name: Generate artifact QR codes
         run: python scripts/generate_qr.py
-      - name: Commit changed outputs only
+      - name: Commit changed outputs only (race-safe)
         run: |
-          git add dist/ qr-codes/ README.md
-          if git diff --cached --quiet; then
-            echo "No output changes."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update v2rayNG adblock rules and QR codes"
-          for attempt in 1 2 3; do
-            git pull --rebase origin main
-            if git push; then exit 0; fi
+          for attempt in 1 2 3 4 5; do
+            # Rebase conflicts are avoided: always regenerate from the newest main.
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/build.py
+            python scripts/generate_qr.py
+            git add dist/ qr-codes/ README.md
+            if git diff --cached --quiet; then
+              echo "No output changes."
+              exit 0
+            fi
+            git commit -m "chore: update v2rayNG adblock rules and QR codes"
+            if git push origin HEAD:main; then
+              echo "Published outputs successfully."
+              exit 0
+            fi
+            echo "Push raced with another commit; retrying from latest main (attempt $attempt)."
             sleep $((attempt * 3))
           done
-          echo "Push failed after three rebase attempts" >&2
+          echo "Push failed after five fresh-build attempts" >&2
           exit 1
