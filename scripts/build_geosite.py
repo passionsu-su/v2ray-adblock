@@ -3,8 +3,10 @@
 
 Sources: 217heidai DNS Full, anti-AD AdGuard, HaGeZi Pro, Loyalsoldier reject list.
 Tag inside the dat:
-  ads   all four sources merged, parent-domain deduplicated
-Usage in a routing rule:  "domain": ["ext:geosite-adblock.dat:ads"]
+  ads         all four sources merged, parent-domain deduplicated
+  ads-cn      the China-hosted part of ads (dnsmasq-china-list / .cn)
+  ads-global  everything else in ads
+Usage in a routing rule:  "domain": ["ext:geosite-adblock.dat:ads"]  (or :ads-cn / :ads-global)
 Also writes geosite-adblock.db (sing-box geosite format, code "ads").
 """
 from __future__ import annotations
@@ -13,7 +15,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build import parse, fetch, custom  # reuse the existing parser
+from build import parse, fetch, custom, load_cn_set, is_cn  # reuse the existing parser
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "geosite-out"
@@ -96,7 +98,12 @@ def main():
     if len(per) < 3 or len(ads) < MIN_DOMAINS:
         raise SystemExit(f"Refusing publish: {len(per)} sources, {len(ads)} domains")
 
+    cn_set = load_cn_set()
+    ads_cn = [d for d in ads if is_cn(d, cn_set)]
+    ads_global = [d for d in ads if not is_cn(d, cn_set)]
     data = bytearray(encode_geosite("ads", ads))
+    data += encode_geosite("ads-cn", ads_cn)
+    data += encode_geosite("ads-global", ads_global)
     OUT.mkdir(exist_ok=True)
     (OUT / "geosite-adblock.dat").write_bytes(bytes(data))
     (OUT / "geosite-adblock.db").write_bytes(encode_singbox_db("ads", ads))
@@ -111,9 +118,11 @@ def main():
     (OUT / "geosite-report.json").write_text(json.dumps({
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "ads_domains": len(ads),
+        "ads_cn_domains": len(ads_cn),
+        "ads_global_domains": len(ads_global),
         "sources": report,
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"ads={len(ads)} size={len(data)/1048576:.1f} MiB")
+    print(f"ads={len(ads)} ads-cn={len(ads_cn)} ads-global={len(ads_global)} size={len(data)/1048576:.1f} MiB")
 
 
 if __name__ == "__main__":
