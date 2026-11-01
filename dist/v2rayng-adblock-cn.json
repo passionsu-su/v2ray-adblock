@@ -767,6 +767,7 @@
       "domain:51offer.com",
       "domain:51posj.cn",
       "domain:51posuiji.org.cn",
+      "domain:51q.com.cn",
       "domain:51taifu.com",
       "domain:51test.net",
       "domain:51testing.com",
@@ -1918,6 +1919,7 @@
       "domain:ad.us.sinaimg.cn",
       "domain:ad.v3mh.com",
       "domain:ad.v6.kuaishou.cn",
+      "domain:ad.video.qq.com",
       "domain:ad.vivo.com.cn",
       "domain:ad.weibo.com",
       "domain:ad.weixin.qq.com",
@@ -3220,6 +3222,7 @@
       "domain:api-zhibo.qtfm.cn",
       "domain:api.0.0.0.0.cn",
       "domain:api.0530hz.cn",
+      "domain:api.17le.com.cn",
       "domain:api.1q8h.cn",
       "domain:api.22lianmeng.com",
       "domain:api.52youtu.com",
@@ -6353,6 +6356,7 @@
       "domain:cuqpi.cn",
       "domain:current.sina.com.cn",
       "domain:cut.qumi.com",
+      "domain:cutheatergroup.cn",
       "domain:cuvtnzv.cn",
       "domain:cv.1o26.com",
       "domain:cvda.17173.com",
@@ -7297,6 +7301,7 @@
       "domain:downlaod.xiaocen.com",
       "domain:download-google.hl.cn",
       "domain:download-juui-plugin.hismarttv.com",
+      "domain:download-sougou.com.cn",
       "domain:download-upgrade.hismarttv.com",
       "domain:download.123cw.cn",
       "domain:download.2345.cn",
@@ -23858,6 +23863,7 @@
       "domain:wxsnsdy.video.qq.com",
       "domain:wxsnsdy.wxs.qq.com",
       "domain:wxsnsdythumb.wxs.qq.com",
+      "domain:wxsnsdyvip.wxs.qq.com",
       "domain:wxstatic.cn",
       "domain:wxvsj.com.cn",
       "domain:wxwm1.ikuailian.com",
@@ -25418,6 +25424,6 @@
       "domain:zzz4.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (25413 domains)"
+    "remarks": "AdBlock 国内 (25419 domains)"
   }
 ]

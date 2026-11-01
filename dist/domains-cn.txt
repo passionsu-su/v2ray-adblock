@@ -762,6 +762,7 @@
 51offer.com
 51posj.cn
 51posuiji.org.cn
+51q.com.cn
 51taifu.com
 51test.net
 51testing.com
@@ -1913,6 +1914,7 @@ ad.truerun.com
 ad.us.sinaimg.cn
 ad.v3mh.com
 ad.v6.kuaishou.cn
+ad.video.qq.com
 ad.vivo.com.cn
 ad.weibo.com
 ad.weixin.qq.com
@@ -3215,6 +3217,7 @@ api-z.weidian.com
 api-zhibo.qtfm.cn
 api.0.0.0.0.cn
 api.0530hz.cn
+api.17le.com.cn
 api.1q8h.cn
 api.22lianmeng.com
 api.52youtu.com
@@ -6348,6 +6351,7 @@ cupid.qiyi.com
 cuqpi.cn
 current.sina.com.cn
 cut.qumi.com
+cutheatergroup.cn
 cuvtnzv.cn
 cv.1o26.com
 cvda.17173.com
@@ -7292,6 +7296,7 @@ downali.game.uc.cn
 downlaod.xiaocen.com
 download-google.hl.cn
 download-juui-plugin.hismarttv.com
+download-sougou.com.cn
 download-upgrade.hismarttv.com
 download.123cw.cn
 download.2345.cn
@@ -23853,6 +23858,7 @@ wxsnsdy.tc.qq.com
 wxsnsdy.video.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
+wxsnsdyvip.wxs.qq.com
 wxstatic.cn
 wxvsj.com.cn
 wxwm1.ikuailian.com
