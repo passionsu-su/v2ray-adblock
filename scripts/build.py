@@ -254,16 +254,18 @@ def main():
     readme_path = ROOT / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
     start_marker, end_marker = "<!-- SOURCE_JSON_TABLE_START -->", "<!-- SOURCE_JSON_TABLE_END -->"
-    rows = ["| 来源 | 状态 | 域名数 | 独立 JSON |", "|---|---:|---:|---|"]
+    rows = ["| 来源 | 状态 | 域名数 | 独立 JSON | 二维码 |", "|---|---:|---:|---|---|"]
     for row in report:
         if row.get("status") == "ok":
             url = f"https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/{row['json_file']}"
+            qr_url = f"https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/{Path(row['json_file']).stem}.png"
             state, count, link = "成功", str(row.get("domains", 0)), f"[下载 JSON]({url})"
+            qr = f"![扫码]({qr_url})"
         elif row.get("status") == "disabled":
-            state, count, link = "未启用", "—", "未生成"
+            state, count, link, qr = "未启用", "—", "未生成", "—"
         else:
-            state, count, link = "失败", "—", "未生成"
-        rows.append(f"| {row['name']} | {state} | {count} | {link} |")
+            state, count, link, qr = "失败", "—", "未生成", "—"
+        rows.append(f"| {row['name']} | {state} | {count} | {link} | {qr} |")
     block = start_marker + "\n" + "\n".join(rows) + "\n" + end_marker
     if start_marker in readme and end_marker in readme:
         readme = readme.split(start_marker, 1)[0] + block + readme.split(end_marker, 1)[1]
