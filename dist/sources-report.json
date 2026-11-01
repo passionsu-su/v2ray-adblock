@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T05:18:26.338833+00:00",
-  "unique_domains": 1327644,
-  "cn_domains": 23817,
-  "global_domains": 1303827,
+  "generated_at": "2026-11-01T06:00:29.500603+00:00",
+  "unique_domains": 1327323,
+  "cn_domains": 23808,
+  "global_domains": 1303515,
   "source_success": 44,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -59,7 +59,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 235983,
+      "domains": 232023,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -244,7 +244,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 49526,
+      "domains": 49540,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {

@@ -35,7 +35,6 @@
 0527zp.com
 0530hz.cn
 0532ci.com.cn
-0538ly.cn
 0575bbs.com
 0577renliu.net.cn
 0591jiajiao.com.cn
@@ -6282,7 +6281,6 @@ dcps.nuomi.com
 dcsd.cnnywz.cn
 dctykq.cn
 dcys.ijinshan.com
-dd-seo.cn
 dd.browser.360.cn
 dd.hl.cn
 dd.iask.cn
@@ -7223,7 +7221,6 @@ e.sogou.com
 e.sqrxh.cn
 e.stat.ykimg.com
 e.sugajo.cn
-e.swujhkc.cn
 e.tapdb.ap-sg.tapapis.com
 e.tapdb.net
 e.tf.360.cn
@@ -8322,7 +8319,6 @@ freeotp.cn.pages.dnsoe4.com
 freeride.com.cn
 freshmate.com.cn
 frhopo.cn
-fric.cn
 frjxdv.cn
 frog.yuanfudao.com
 frontend-perf-service.e.kuaishou.com
@@ -8473,7 +8469,6 @@ g3ao2q.cn
 g3user.com
 g4.iqilu.com
 g52bl.cn
-g63.fun
 g6rfh.cn
 g8f.ifeng.com
 g9hc4.cn
@@ -12772,7 +12767,6 @@ m.aetetv.cn
 m.agugux.cn
 m.ahinun.cn
 m.ahwczn.cn
-m.ailiby.cn
 m.ailix.cn
 m.amhmhg.cn
 m.analytics.126.net
@@ -12892,7 +12886,6 @@ m.grtnahd.cn
 m.guvdfs.cn
 m.gz-bz.cn
 m.gzrljx.cn
-m.gzxiuyuan.cn
 m.h0x.cn
 m.h24q5c.cn
 m.h2tywo.cn
@@ -12952,7 +12945,6 @@ m.l620e.cn
 m.l93stb.cn
 m.la71f.cn
 m.laigame7.net
-m.lanshiwan.cn
 m.le78p.cn
 m.lengren.com.cn
 m.lengyamei.cn
@@ -13049,7 +13041,6 @@ m.slshiye.cn
 m.sowz.cn
 m.srnoh.cn
 m.sugajo.cn
-m.swujhkc.cn
 m.symaa.cn
 m.symac.cn
 m.symad.cn

@@ -53,8 +53,8 @@ v2rayNG 的「从二维码导入规则集」和「从剪贴板导入规则集」
 <!-- SPLIT_TABLE_START -->
 | 分类 | 域名数 | v2rayNG JSON | 紧凑版 JSON | 域名列表 |
 |---|---:|---|---|---|
-| 国内 | 23817 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-cn.txt |
-| 国外 | 1303827 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-global.txt |
+| 国内 | 23808 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-cn.txt |
+| 国外 | 1303515 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-global.txt |
 <!-- SPLIT_TABLE_END -->
 
 ## 完整 geosite.dat（Xray / V2Ray / Clash Meta / mihomo）
@@ -106,7 +106,7 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 | anti-AD EasyList | 成功 | 95165 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/04-anti-ad-easylist.json) |
 | HaGeZi Pro | 成功 | 213387 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/05-hagezi-pro.json) |
 | HaGeZi Ultimate (aggressive; disabled by default) | 未启用 | — | 未生成 |
-| OISD Big | 成功 | 235983 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/07-oisd-big.json) |
+| OISD Big | 成功 | 232023 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/07-oisd-big.json) |
 | OISD Small (alternative) | 未启用 | — | 未生成 |
 | AdGuard DNS filter | 成功 | 185360 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/09-adguard-dns-filter.json) |
 | AdGuard Chinese filter | 成功 | 5817 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/10-adguard-chinese-filter.json) |
@@ -130,7 +130,7 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 | REIJI007 Clash YAML | 失败 | — | 未生成 |
 | DandelionSprout Anti-Malware | 成功 | 11588 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/29-dandelionsprout-anti-malware.json) |
 | NoCoin | 成功 | 58 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/30-nocoin.json) |
-| EasyList China + EasyList | 成功 | 49526 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/31-easylist-china-easylist.json) |
+| EasyList China + EasyList | 成功 | 49540 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/31-easylist-china-easylist.json) |
 | CJX Annoyance List | 成功 | 115 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/32-cjx-annoyance-list.json) |
 | 乘风 Adblock Plus Rule | 成功 | 129 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/33-adblock-plus-rule.json) |
 | DandelionSprout adfilt | 失败 | — | 未生成 |
