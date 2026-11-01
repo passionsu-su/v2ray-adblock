@@ -10,6 +10,9 @@ on:
       - scripts/merge_singbox_geosite.py
       - custom/**
       - .github/workflows/geosite.yml
+  workflow_run:
+    workflows: ["Build v2rayNG AdBlock"]
+    types: [completed]
   schedule:
     - cron: "41 */12 * * *"
   workflow_dispatch:

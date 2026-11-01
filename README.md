@@ -25,7 +25,7 @@ v2rayNG 的「从二维码导入规则集」和「从剪贴板导入规则集」
 
 **方式 A：广告专用资源文件（推荐）**
 
-1. 设置 → 资源文件 → 添加：`https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite-adblock.dat`，文件名保持 `geosite-adblock.dat`，点更新下载。
+1. 设置 → 资源文件 → 添加（内容为本仓库汇总总规则，含 `ads`、`ads-cn`、`ads-global` 三个分类，约 50 MB）：`https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite-adblock.dat`，文件名保持 `geosite-adblock.dat`，点更新下载。
 2. 设置 → 路由设置 → 右上角菜单 → 从二维码导入规则集（或复制下面的文本后选「从剪贴板导入规则集」）。
 
 | 规则 | 二维码 | 复制文本 |
@@ -59,7 +59,7 @@ v2rayNG 的「从二维码导入规则集」和「从剪贴板导入规则集」
 
 ## 完整 geosite.dat（Xray / V2Ray / Clash Meta / mihomo）
 
-基于 Loyalsoldier 原版，保留全部分类（`cn`、`gfw`、`google`、`private`、`geolocation-!cn` 等），并新增广告分类 `category-ads-all` 和别名 `ads`（合并 217heidai、anti-AD、HaGeZi Pro、Loyalsoldier reject）。约 24 MB，Actions 每 12 小时随规则一起更新，发布在 `geosite` 分支。
+基于 Loyalsoldier 原版，保留全部分类（`cn`、`gfw`、`google`、`private`、`geolocation-!cn` 等），并把本仓库汇总后的总规则（`dist/domains.txt`）并入广告分类 `category-ads-all` 和别名 `ads`。约 50 MB，主规则每次构建完成后自动重新生成，发布在 `geosite` 分支。
 
 ```
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/geosite/geosite.dat

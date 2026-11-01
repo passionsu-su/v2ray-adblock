@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Build geosite-adblock.dat for v2rayNG / Xray / V2Ray.
 
-Sources: 217heidai DNS Full, anti-AD AdGuard, HaGeZi Pro, Loyalsoldier reject list.
+Source: the repository's own merged rule set (dist/domains.txt, all enabled
+sources + custom blocklist - allowlist, produced by scripts/build.py).
+HaGeZi Pro / 217heidai are still fetched only for their standalone .mrs files.
 Tag inside the dat:
-  ads         all four sources merged, parent-domain deduplicated
+  ads         the merged rule set, parent-domain deduplicated
   ads-cn      the China-hosted part of ads (dnsmasq-china-list / .cn)
   ads-global  everything else in ads
 Usage in a routing rule:  "domain": ["ext:geosite-adblock.dat:ads"]  (or :ads-cn / :ads-global)
@@ -19,13 +21,14 @@ from build import parse, fetch, custom, load_cn_set, is_cn  # reuse the existing
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "geosite-out"
+MERGED_LOCAL = ROOT / "dist" / "domains.txt"
+MERGED_URL = "https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains.txt"
+# Only used for the standalone hagezi-pro.mrs / heidai-adblockdns.mrs files.
 SOURCES = [
     ("217heidai", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
-    ("anti-ad", "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt"),
     ("hagezi", "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt"),
-    ("loyalsoldier", "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"),
 ]
-MIN_DOMAINS = 50000
+MIN_DOMAINS = 200000
 ROOT_DOMAIN = 2  # v2ray Domain.Type.RootDomain ("domain:")
 
 
@@ -80,23 +83,26 @@ def dedup_parents(domains):
 def main():
     allow = custom("allowlist.txt")
     forced = custom("blocklist.txt")
-    per, merged, report = {}, set(), []
+    if MERGED_LOCAL.exists():
+        text, origin = MERGED_LOCAL.read_text(encoding="utf-8"), str(MERGED_LOCAL.relative_to(ROOT))
+    else:
+        text, origin = fetch(MERGED_URL), MERGED_URL
+    merged = {l.strip().lower() for l in text.splitlines() if l.strip() and not l.startswith("#")}
+    merged |= forced
+    merged -= allow
+    ads = dedup_parents(merged)
+    if len(ads) < MIN_DOMAINS:
+        raise SystemExit(f"Refusing publish: merged set has only {len(ads)} domains")
+    report = [{"tag": "merged", "url": origin, "status": "ok", "domains": len(merged)}]
+    per = {}
     for tag, url in SOURCES:
         try:
             got = parse(fetch(url)) - allow
             if len(got) < 1000:
                 raise ValueError(f"only {len(got)} domains")
             per[tag] = got
-            merged |= got
-            report.append({"tag": tag, "url": url, "status": "ok", "domains": len(got)})
         except Exception as exc:
-            report.append({"tag": tag, "url": url, "status": "error", "error": str(exc)})
-            print(f"[WARN] {tag}: {exc}", file=sys.stderr)
-    merged |= forced
-    merged -= allow
-    ads = dedup_parents(merged)
-    if len(per) < 3 or len(ads) < MIN_DOMAINS:
-        raise SystemExit(f"Refusing publish: {len(per)} sources, {len(ads)} domains")
+            print(f"[WARN] {tag} (mrs only): {exc}", file=sys.stderr)
 
     cn_set = load_cn_set()
     ads_cn = [d for d in ads if is_cn(d, cn_set)]
