@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-r
 | 分类 | 域名数 | v2rayNG JSON | 紧凑版 JSON | 域名列表 |
 |---|---:|---|---|---|
 | 国内 | 25413 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-cn.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-cn.txt |
-| 国外 | 1318267 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-global.txt |
+| 国外 | 1318295 | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/v2rayng-adblock-global.min.json | https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains-global.txt |
 <!-- SPLIT_TABLE_END -->
 
 ## 完整 geosite.dat（Xray / V2Ray / Clash Meta / mihomo）
@@ -94,10 +94,10 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 | anti-AD EasyList | 成功 | 95168 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/04-anti-ad-easylist.json) |
 | HaGeZi Pro | 成功 | 213387 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/05-hagezi-pro.json) |
 | HaGeZi Ultimate (aggressive; disabled by default) | 未启用 | — | 未生成 |
-| OISD Big | 成功 | 235423 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/07-oisd-big.json) |
+| OISD Big | 成功 | 235439 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/07-oisd-big.json) |
 | OISD Small (alternative) | 未启用 | — | 未生成 |
 | AdGuard DNS filter | 成功 | 185364 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/09-adguard-dns-filter.json) |
-| AdGuard Chinese filter | 成功 | 8823 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/10-adguard-chinese-filter.json) |
+| AdGuard Chinese filter | 成功 | 8825 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/10-adguard-chinese-filter.json) |
 | AdGuard Base filter | 成功 | 16418 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/11-adguard-base-filter.json) |
 | StevenBlack hosts | 成功 | 76738 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/12-stevenblack-hosts.json) |
 | blackmatrix7 Advertising AdGuard | 成功 | 290184 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/13-blackmatrix7-advertising-adguard.json) |
@@ -118,7 +118,7 @@ https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/
 | REIJI007 Clash YAML | 失败 | — | 未生成 |
 | DandelionSprout Anti-Malware | 成功 | 11602 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/29-dandelionsprout-anti-malware.json) |
 | NoCoin | 成功 | 198 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/30-nocoin.json) |
-| EasyList China + EasyList | 成功 | 55312 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/31-easylist-china-easylist.json) |
+| EasyList China + EasyList | 成功 | 55322 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/31-easylist-china-easylist.json) |
 | CJX Annoyance List | 成功 | 522 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/32-cjx-annoyance-list.json) |
 | 乘风 Adblock Plus Rule | 成功 | 270 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/33-adblock-plus-rule.json) |
 | DandelionSprout adfilt | 成功 | 389 | [下载 JSON](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources/34-dandelionsprout-adfilt.json) |
