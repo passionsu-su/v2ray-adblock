@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Build geosite-adblock.dat for v2rayNG / Xray / V2Ray.
 
-Source: the repository's own merged rule set (dist/domains.txt, all enabled
-sources + custom blocklist - allowlist, produced by scripts/build.py).
-HaGeZi Pro / 217heidai are still fetched only for their standalone .mrs files.
+Sources (high-star, low false-positive ad lists):
+  217heidai DNS Full, anti-AD AdGuard, AdGuard DNS filter, AdGuard Chinese filter,
+  AdGuard Base filter, blackmatrix7 Advertising AdGuard, HaGeZi Pro.
 Tag inside the dat:
   ads         the merged rule set, parent-domain deduplicated
   ads-cn      the China-hosted part of ads (dnsmasq-china-list / .cn)
@@ -21,14 +21,17 @@ from build import parse, fetch, custom, load_cn_set, is_cn  # reuse the existing
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "geosite-out"
-MERGED_LOCAL = ROOT / "dist" / "domains.txt"
-MERGED_URL = "https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains.txt"
-# Only used for the standalone hagezi-pro.mrs / heidai-adblockdns.mrs files.
 SOURCES = [
     ("217heidai", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
+    ("anti-ad", "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt"),
+    ("adguard-dns", "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"),
+    ("adguard-chinese", "https://filters.adtidy.org/extension/ublock/filters/224.txt"),
+    ("adguard-base", "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt"),
+    ("blackmatrix7", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt"),
     ("hagezi", "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt"),
 ]
-MIN_DOMAINS = 200000
+MIN_DOMAINS = 150000
+MIN_SOURCES = 5
 ROOT_DOMAIN = 2  # v2ray Domain.Type.RootDomain ("domain:")
 
 
@@ -83,26 +86,23 @@ def dedup_parents(domains):
 def main():
     allow = custom("allowlist.txt")
     forced = custom("blocklist.txt")
-    if MERGED_LOCAL.exists():
-        text, origin = MERGED_LOCAL.read_text(encoding="utf-8"), str(MERGED_LOCAL.relative_to(ROOT))
-    else:
-        text, origin = fetch(MERGED_URL), MERGED_URL
-    merged = {l.strip().lower() for l in text.splitlines() if l.strip() and not l.startswith("#")}
-    merged |= forced
-    merged -= allow
-    ads = dedup_parents(merged)
-    if len(ads) < MIN_DOMAINS:
-        raise SystemExit(f"Refusing publish: merged set has only {len(ads)} domains")
-    report = [{"tag": "merged", "url": origin, "status": "ok", "domains": len(merged)}]
-    per = {}
+    per, merged, report = {}, set(), []
     for tag, url in SOURCES:
         try:
             got = parse(fetch(url)) - allow
             if len(got) < 1000:
                 raise ValueError(f"only {len(got)} domains")
             per[tag] = got
+            merged |= got
+            report.append({"tag": tag, "url": url, "status": "ok", "domains": len(got)})
         except Exception as exc:
-            print(f"[WARN] {tag} (mrs only): {exc}", file=sys.stderr)
+            report.append({"tag": tag, "url": url, "status": "error", "error": str(exc)})
+            print(f"[WARN] {tag}: {exc}", file=sys.stderr)
+    merged |= forced
+    merged -= allow
+    ads = dedup_parents(merged)
+    if len(per) < MIN_SOURCES or len(ads) < MIN_DOMAINS:
+        raise SystemExit(f"Refusing publish: {len(per)} sources, {len(ads)} domains")
 
     cn_set = load_cn_set()
     ads_cn = [d for d in ads if is_cn(d, cn_set)]
