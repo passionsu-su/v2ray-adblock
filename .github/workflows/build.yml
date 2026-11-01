@@ -7,6 +7,7 @@ on:
       - "sources.json"
       - "custom/**"
       - "scripts/build.py"
+      - "scripts/generate_qr.py"
       - ".github/workflows/build.yml"
   schedule:
     - cron: "17 */12 * * *"
@@ -15,8 +16,6 @@ on:
 permissions:
   contents: write
 
-# Serialize both main-branch and geosite publication workflows.
-# Do not cancel a running build; queue competing runs instead.
 concurrency:
   group: v2ray-adblock-publish
   queue: max
@@ -30,18 +29,22 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install QR generator
+        run: python -m pip install "qrcode[pil]"
       - name: Build and validate
         run: python scripts/build.py
+      - name: Generate artifact QR codes
+        run: python scripts/generate_qr.py
       - name: Commit changed outputs only
         run: |
-          git add dist/ README.md
+          git add dist/ qr-codes/ README.md
           if git diff --cached --quiet; then
             echo "No output changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update v2rayNG adblock rules"
+          git commit -m "chore: update v2rayNG adblock rules and QR codes"
           for attempt in 1 2 3; do
             git pull --rebase origin main
             if git push; then exit 0; fi
