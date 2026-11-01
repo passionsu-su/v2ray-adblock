@@ -19,6 +19,21 @@ https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/domains.t
 https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/dist/sources-report.json
 ```
 
+## 成品二维码（扫码导入）
+
+二维码直接编码对应成品的 Raw 下载链接。客户端支持扫码读取 URL 时，可直接扫描；二维码图片会随每次构建自动更新。
+
+| 成品 | 二维码 |
+|---|---|
+| 汇总 JSON | ![汇总 JSON 二维码](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/aggregate.png) |
+| 汇总紧凑版 JSON | ![汇总紧凑版二维码](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/aggregate-min.png) |
+| 国内 JSON | ![国内 JSON 二维码](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/china.png) |
+| 国外 JSON | ![国外 JSON 二维码](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/global.png) |
+| 国内 geosite.dat | ![geosite.dat 二维码](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/geosite-dat.png) |
+| 广告专用 geosite-adblock.dat | ![geosite-adblock.dat 二维码](https://raw.githubusercontent.com/passionsu-su/v2ray-adblock/main/qr-codes/geosite-adblock-dat.png) |
+
+各来源独立 JSON 的二维码见下方「各来源独立 JSON」表格。其余拆分版、域名列表和 geosite 成品二维码均保存在 [qr-codes 目录](https://github.com/passionsu-su/v2ray-adblock/tree/main/qr-codes)。
+
 ## 国内 / 国外拆分版
 
 按域名归属拆分：命中 [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) 国内域名列表（解析服务器在国内）或 .cn 等国内顶级域的归为「国内」（Daraz、Lazada、AliExpress 等面向海外的站点除外），其余归为「国外」。随主规则每 12 小时自动更新。只想拦国内 App 广告、规则又太大时，可只导入国内版。
