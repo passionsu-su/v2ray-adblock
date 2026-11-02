@@ -1365,6 +1365,7 @@ aass111.tos-cn-beijing.volces.com
 aass1122.tos-cn-beijing.volces.com
 aassp.wgzty.cn
 aauisg64017.cn
+aawwf.hkg.bcebos.com
 aazcio.cn
 ab.cnbanbao.com
 ab.dydab.com
@@ -1478,7 +1479,6 @@ activation.easeus.com
 activation.wps.cn
 active.baofeng.com
 active.sangfor.com
-active.tc.skysrt.com
 activeqq.3g.qq.com
 actives.youku.com
 activities.alibaba.com
@@ -2291,6 +2291,7 @@ adszs.com
 adt.cpatrk.net
 adt.xdrig.com
 adtaipo.com
+adtarget.fcbarcelona.cn
 adtbcs.cn
 adtest.adwo.com
 adtest.agrantsem.com
@@ -3251,6 +3252,7 @@ apistat.gao7.com
 apistat.wasu.cn
 apitd.net
 apiuccenter.ucweb.com
+apiv3.pagenote.cn
 apiv4-iyes.youku.com
 apiwmda.58.com.cn
 apiwz.midukanshu.com
@@ -6256,7 +6258,6 @@ dc.letv.com
 dc.meitustat.com
 dc.oppomobile.com
 dc.sigmob.cn
-dc.stat.nearme.com.cn
 dc.tensgpt.com
 dc1.networkbench.com
 dc2.csdn.net
@@ -7529,7 +7530,6 @@ email.gh-mail.capvision.com
 email.gh-mail.didiglobal.com
 email.gh-mail.xiaopeng.com
 email.global.metal.com
-email.grouk.com
 email.haimi.com
 email.ic5.cn
 email.info.itiger.com
@@ -7690,6 +7690,7 @@ err.taobao.com
 err.tmall.com
 err.ua.iegcom.com
 err.up.vivoglobal.com
+err.www.mi.com
 erreport.tudou.com
 errlog.umeng.com
 errnewlog.umeng.com
@@ -7876,6 +7877,7 @@ exvl.cn
 exwxrfz.cn
 exwz.cn
 exxfttj.cn
+eye.ilnet.cn
 eyewand.cn
 eyhv.cn
 eyiyoxz.xyz
@@ -8877,8 +8879,10 @@ go.nottingham.edu.cn
 go.openmind-technologies.com.cn
 go.pardot.wondershare.com
 go.phantomcameras.cn
+go.railfreight.cn
 go.sohu.com
 go.soprema.cn
+go.spectro.com.cn
 go.spectrosci.com.cn
 go.teledynelecroy.com.cn
 go.tuev.cn
@@ -10567,6 +10571,7 @@ insenz.com
 inside.baidu.com
 inside.rtbasia.com
 insight.ucweb.com
+insights.herrmannultrasonic.cn
 inst.360safe.com
 install.kugou.com
 install2.kugou.com
@@ -13742,6 +13747,7 @@ mjtt.cn
 mjvr.cn
 mjxtiht.cn
 mjywk.cn
+mk01.toshiba-semicon-storage.com
 mk6n4ym.cn
 mk795.cn
 mkadsearch.lizhifm.com
@@ -17749,6 +17755,7 @@ sentry.xiaoyuzhoufm.com
 sentry.xindong.com
 sentry.xunlei.com
 sentry.youdao.com
+sentry.zhaopin.com
 sentry.zhuanzhuan.com
 sentry.zwoastro.cn
 sentry1.lingkou.xyz
@@ -18376,6 +18383,7 @@ ss2bjo.oss-cn-beijing.aliyuncs.com
 ssac.suning.com
 ssai-ads.api.leiniao.com
 ssai2-ads.api.leiniao.com
+ssc.nicactive.tc.skysrt.com
 sscefsol.com.cn
 sscjchina.com.cn
 ssdkauth.hpplay.cn
@@ -18696,6 +18704,7 @@ statistic.csdn.net
 statistic.live.126.net
 statistic.qzone.qq.com
 statistic.takungpao.com
+statistic.weimobdc.com
 statistic.xiaoxiezi886.cn
 statistic.zhaopin.cn
 statistical-report.djiservice.org
