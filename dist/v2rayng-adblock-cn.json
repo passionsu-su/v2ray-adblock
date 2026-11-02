@@ -1448,7 +1448,6 @@
       "domain:access.pangolin-sdk-toutiao-b.com",
       "domain:access.toggle.qq.com",
       "domain:accio.ai",
-      "domain:accoun.fnmgr.cn",
       "domain:accoun.ouglwnl.cn",
       "domain:accscdn.m.taobao.com",
       "domain:accwww9.53kf.com",
@@ -2901,7 +2900,6 @@
       "domain:apd-vodp2plogin.teg.tencent-cloud.net",
       "domain:apd-vodp2preport.teg.tencent-cloud.net",
       "domain:apdfmhp.cn",
-      "domain:apecceosummit2026.cn",
       "domain:apf-wps.com.cn",
       "domain:apfobmfr.cn",
       "domain:api-4know-em.hismarttv.com",
@@ -4960,7 +4958,6 @@
       "domain:cds.51y5.net",
       "domain:cdsget.51y5.net",
       "domain:cdshusen.cn",
-      "domain:cdsskl.cn",
       "domain:cdu.cc",
       "domain:cduy.cn",
       "domain:cdxyb.cn",
@@ -11073,7 +11070,6 @@
       "domain:jobsfe.funshion.com",
       "domain:jogbxpg.cn",
       "domain:joinbee.cn",
-      "domain:joint-turquoise-ajfkbwvy.edgeone.app",
       "domain:joiwnq2.cn",
       "domain:joizzxo.cn",
       "domain:jollyspring.com",
@@ -21896,7 +21892,6 @@
       "domain:www.alienskins.cn",
       "domain:www.allyes.com",
       "domain:www.amort.cn",
-      "domain:www.apecceosummit2026.cn",
       "domain:www.app.storage.yunvm.com",
       "domain:www.appadhoc.com",
       "domain:www.appcpa.co",
@@ -21934,7 +21929,6 @@
       "domain:www.bsrkt.com",
       "domain:www.cc4008001935.cn",
       "domain:www.cdn.ad.xiaomi.com",
-      "domain:www.cdsskl.cn",
       "domain:www.chanet.com.cn",
       "domain:www.chemdraw.com.cn",
       "domain:www.chenggao.cn",
@@ -23808,6 +23802,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23803 domains)"
+    "remarks": "AdBlock 国内 (23797 domains)"
   }
 ]
