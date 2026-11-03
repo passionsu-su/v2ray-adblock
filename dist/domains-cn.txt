@@ -518,6 +518,7 @@
 37.sinawap.com
 3721zh.com
 377zt.cn
+378740215-dp7qxraq62v5.edgeone.cool
 3798.com
 37cs.com
 37kx1.com
@@ -8952,6 +8953,7 @@ goteacher.cn
 goto.sogou.com
 goto.stnts.com
 goto.www.iciba.com
+goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
@@ -13023,6 +13025,7 @@ m.reachmax.cn
 m.rgjrq.cn
 m.rkw29.cn
 m.rmuqvq.cn
+m.royalbank.com.cn
 m.rp71l.cn
 m.rwganw.cn
 m.s0o5g.cn
@@ -15361,7 +15364,6 @@ paybank.wzckwzx.cn
 payment.yodo1api.com
 paypay-card.ftkdlnp.cn
 paypay-card.gjqrczf.cn
-paypay-card.hpvtwnt.cn
 paypay-card.lmljujl.cn
 paypay-card.rofpckh.cn
 paypay-card.rwnyplb.cn
@@ -16154,7 +16156,6 @@ qevcxo.cn
 qewoysy.cn
 qezpjlp.cn
 qfcdgy.cn
-qfh5tgyv.cn
 qflwh.cn
 qfnoyix.cn
 qfxdvti.cn
@@ -16843,6 +16844,7 @@ router.miwifi.com
 router.tracking.miui.com
 routertips.video.qq.com
 roxewwq.cn
+royalbank.com.cn
 rp.baidu.cn
 rp.baidu.com
 rp.crasheye.cn
@@ -19441,6 +19443,7 @@ timeserver.cnzz.net
 timon.zijieapi.com
 tingba.cn
 tingmin.com.cn
+tingriver.cn
 tingyun.com
 tinkshop.cn
 tinnar.cn

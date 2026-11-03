@@ -523,6 +523,7 @@
       "domain:37.sinawap.com",
       "domain:3721zh.com",
       "domain:377zt.cn",
+      "domain:378740215-dp7qxraq62v5.edgeone.cool",
       "domain:3798.com",
       "domain:37cs.com",
       "domain:37kx1.com",
@@ -8957,6 +8958,7 @@
       "domain:goto.sogou.com",
       "domain:goto.stnts.com",
       "domain:goto.www.iciba.com",
+      "domain:goto1.72.chat",
       "domain:gotoip.com.cn",
       "domain:gotoip55.com",
       "domain:gotonav.com",
@@ -13028,6 +13030,7 @@
       "domain:m.rgjrq.cn",
       "domain:m.rkw29.cn",
       "domain:m.rmuqvq.cn",
+      "domain:m.royalbank.com.cn",
       "domain:m.rp71l.cn",
       "domain:m.rwganw.cn",
       "domain:m.s0o5g.cn",
@@ -15366,7 +15369,6 @@
       "domain:payment.yodo1api.com",
       "domain:paypay-card.ftkdlnp.cn",
       "domain:paypay-card.gjqrczf.cn",
-      "domain:paypay-card.hpvtwnt.cn",
       "domain:paypay-card.lmljujl.cn",
       "domain:paypay-card.rofpckh.cn",
       "domain:paypay-card.rwnyplb.cn",
@@ -16159,7 +16161,6 @@
       "domain:qewoysy.cn",
       "domain:qezpjlp.cn",
       "domain:qfcdgy.cn",
-      "domain:qfh5tgyv.cn",
       "domain:qflwh.cn",
       "domain:qfnoyix.cn",
       "domain:qfxdvti.cn",
@@ -16848,6 +16849,7 @@
       "domain:router.tracking.miui.com",
       "domain:routertips.video.qq.com",
       "domain:roxewwq.cn",
+      "domain:royalbank.com.cn",
       "domain:rp.baidu.cn",
       "domain:rp.baidu.com",
       "domain:rp.crasheye.cn",
@@ -19446,6 +19448,7 @@
       "domain:timon.zijieapi.com",
       "domain:tingba.cn",
       "domain:tingmin.com.cn",
+      "domain:tingriver.cn",
       "domain:tingyun.com",
       "domain:tinkshop.cn",
       "domain:tinnar.cn",
@@ -23811,6 +23814,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23806 domains)"
+    "remarks": "AdBlock 国内 (23809 domains)"
   }
 ]
