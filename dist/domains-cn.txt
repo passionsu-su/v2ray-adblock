@@ -1,3 +1,4 @@
+0.0.7902.cn
 0.up.qingdaonews.com
 00-1321729461.cos.ap-guangzhou.myqcloud.com
 00-gov.cn
@@ -1480,6 +1481,7 @@ activation.easeus.com
 activation.wps.cn
 active.baofeng.com
 active.sangfor.com
+active.tc.skysrt.com
 activeqq.3g.qq.com
 actives.youku.com
 activities.alibaba.com
@@ -1692,6 +1694,7 @@ ad.neoimaging.cn
 ad.new.oe.hmgreat.com
 ad.newzgc.com
 ad.nvdvr.cn
+ad.ofweek.com
 ad.open.api.jihuoniao.com
 ad.otomedream.com
 ad.ourgame.com
@@ -3323,7 +3326,6 @@ app-monitor.ele.me
 app-posthog.bi-sage.site
 app-push.2q10.com
 app-sentry.taou.com
-app-sougou.com.cn
 app-sougou.hl.cn
 app-teams.hl.cn
 app-tj.adinall.com
@@ -3419,7 +3421,6 @@ appres.camera360.com
 apps-chrome-zh.hl.cn
 apps-feishu.com.cn
 apps-google-hl.hl.cn
-apps-offiice-wps.com.cn
 apps-wps.com.cn
 apps.ad.snappea.com
 apps.bytesfield.com
@@ -4773,7 +4774,6 @@ cb.l.qq.com
 cb.lomark.cn
 cb8lvgd.cn
 cbdm.weathercn.com
-cbgolf.cn
 cbgyhe.cn
 cbh.hl.cn
 cbhwekr.cn
@@ -4865,7 +4865,6 @@ cdn-api.appadhoc.com
 cdn-exp-sg-recommend.pt.xiaomi.com
 cdn-file.ludashi.com
 cdn-gcs.outfit7.com
-cdn-go.com.cn
 cdn-gw-dv.vip
 cdn-haokanapk.baidu.com
 cdn-new-ad.wtzw.com
@@ -5099,11 +5098,8 @@ chqsw.cn
 chraome-google.hl.cn
 chrlome-google.hl.cn
 chroame-google.hl.cn
-chrom-cn.com.cn
 chrom-zhcn.com.cn
 chrome-chrome-cn.hl.cn
-chrome-google-com.com.cn
-chrome-zhgoogle.com.cn
 chrome.polamus.com
 chrome.sungyun.cn
 chromegoogle.cn
@@ -5431,7 +5427,6 @@ cn-hangzhou.dualstack.log.usd.alibabadns.com
 cn-protonvpn.com.cn
 cn-qingdao.dualstack.log.usd.alibabadns.com
 cn-wps-zh.com.cn
-cn-wps.com.cn
 cn-www-google.com.cn
 cn-www-google.hl.cn
 cn-zh-ort-stsdk.vivoglobal.com
@@ -13498,6 +13493,7 @@ metaversemolecule.com
 metaword.cn
 metheny.cn
 metok.sys.miui.com
+metric-sz.ccd.cmbchina.com
 metric.huya.com
 metric.nuonuo.com
 metrics-ad-drcn.dt.hihonorcloud.com
@@ -14776,7 +14772,6 @@ ofd.meng-an.cn
 offer.alibaba.com
 offerstrack.net
 offfice-wps.hl.cn
-offfiice-wps.com.cn
 office-feishu.com.cn
 office-wps-hl.hl.cn
 officedesignappl0auth-1316860111.cos.na-ashburn.myqcloud.com
@@ -16221,7 +16216,6 @@ qinongyouxuan.cn
 qipskd.cn
 qipt.1632j6.cn
 qishmusic.com.cn
-qishui-cc.com.cn
 qishui-com.hl.cn
 qishui-douyln.com.cn
 qishui-eom.com.cn
@@ -17749,6 +17743,7 @@ sentry.ruguoapp.com
 sentry.seayoo.com
 sentry.sec.miui.com
 sentry.shoplazza.com
+sentry.shuziwenbo.cn
 sentry.tapsvc.com
 sentry.trademessenger.com
 sentry.waterdropfilter.com
@@ -18385,7 +18380,6 @@ ss2bjo.oss-cn-beijing.aliyuncs.com
 ssac.suning.com
 ssai-ads.api.leiniao.com
 ssai2-ads.api.leiniao.com
-ssc.nicactive.tc.skysrt.com
 sscefsol.com.cn
 sscjchina.com.cn
 ssdkauth.hpplay.cn
@@ -21481,6 +21475,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn

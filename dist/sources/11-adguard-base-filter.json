@@ -2053,6 +2053,7 @@
       "domain:access.notifysrv.com",
       "domain:accounting.notifysrv.com",
       "domain:accounts.goasrv.com",
+      "domain:accountut.com",
       "domain:acdbc409c2.30c774812d.com",
       "domain:acf60dec54.f435ee855c.com",
       "domain:acquaintjokinglyscoring.com",
@@ -2752,6 +2753,7 @@
       "domain:beetlejuice.go-static.info",
       "domain:beixisys.com",
       "domain:bellelin752.goaserv.com",
+      "domain:bellnewyork.org",
       "domain:benchcrafted.go-static.info",
       "domain:benchibaomalaohujiyouxi.goasrv.com",
       "domain:benchiyulechengxinyuhao.go-static.info",
@@ -6212,6 +6214,7 @@
       "domain:hellyeahtitjobs.goaserv.com",
       "domain:help.japandigest.info",
       "domain:helpdesk.goasrv.com",
+      "domain:helpfulmaple.com",
       "domain:hem.goaserv.com",
       "domain:hema-be-nl.goasrv.com",
       "domain:hendrasmara.goaserv.com",
@@ -7408,6 +7411,7 @@
       "domain:lynx.inovo.io",
       "domain:lynx.lumy.network",
       "domain:lynx.simpleparish.com",
+      "domain:lzopmoas.in",
       "domain:lzoqkmi1y31n892ovon9kfx.oelup71j7mpj6ch4u.cyou",
       "domain:m.1xhutg27xghu8mhl6lnvh.cfd",
       "domain:m.6bnbt9kx42z2lrtz792qj8c.cyou",
@@ -12526,6 +12530,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (12521 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (12525 domains)"
   }
 ]
