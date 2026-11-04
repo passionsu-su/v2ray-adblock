@@ -457,6 +457,7 @@
       "domain:e.jparking.cn",
       "domain:e.pubtailer.com",
       "domain:e2elog.fetnet.net",
+      "domain:eas.etherscan.com",
       "domain:eaus2watcab01.blob.core.windows.net",
       "domain:eaus2watcab02.blob.core.windows.net",
       "domain:ecmc.bdimg.com",
@@ -1160,6 +1161,6 @@
       "domain:zuimeitianqi.inveno.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - Sukka domainset reject (1155 domains)"
+    "remarks": "AdBlock - Sukka domainset reject (1156 domains)"
   }
 ]

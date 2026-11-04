@@ -3,7 +3,6 @@
     "port": "",
     "outboundTag": "block",
     "domain": [
-      "domain:0.0.7902.cn",
       "domain:0.up.qingdaonews.com",
       "domain:00-1321729461.cos.ap-guangzhou.myqcloud.com",
       "domain:00-gov.cn",
@@ -2790,6 +2789,7 @@
       "domain:analytics.infility.cn",
       "domain:analytics.jiuzhilan.com",
       "domain:analytics.julebu.co",
+      "domain:analytics.likefont.com",
       "domain:analytics.ly200.com",
       "domain:analytics.m5stack.com",
       "domain:analytics.map.qq.com",
@@ -16510,6 +16510,7 @@
       "domain:rapi.cmgadx.com",
       "domain:rating6.kingsoft-office-service.com",
       "domain:raw.okwan.cn",
+      "domain:rawchat.cn",
       "domain:ray2jing.808.nuno.cn",
       "domain:rayli.adsame.com",
       "domain:rayli.com.cn",
@@ -17769,6 +17770,7 @@
       "domain:sentry.waterdropfilter.com",
       "domain:sentry.xiaopeng.com",
       "domain:sentry.xiaoyuzhoufm.com",
+      "domain:sentry.xinchenai.com",
       "domain:sentry.xindong.com",
       "domain:sentry.xunlei.com",
       "domain:sentry.youdao.com",
@@ -18611,6 +18613,7 @@
       "domain:stat.zdnet.com.cn",
       "domain:stat.zol.com.cn",
       "domain:stat.zuimeitianqi.com",
+      "domain:stat1-mlycdn.bmyy520.com.cdn.ns1011.com",
       "domain:stat2.corp.56.com",
       "domain:stat2.openinstall.io",
       "domain:stat2.pixpin.cn",
@@ -20344,6 +20347,7 @@
       "domain:ums-telemetry-eu-par.heytapmobi.com",
       "domain:ums-telemetry-india.heytapmobi.com",
       "domain:ums-telemetry-sgp.heytapmobi.com",
+      "domain:ums-telemetry.oppoer.me",
       "domain:umsns.com",
       "domain:umtrack.com",
       "domain:umtrack0.com",
@@ -23820,6 +23824,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23815 domains)"
+    "remarks": "AdBlock 国内 (23819 domains)"
   }
 ]
