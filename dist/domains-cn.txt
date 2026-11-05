@@ -182,7 +182,6 @@
 12322app.com
 1234.zgxue.com
 123cha.com
-123dprint.cn
 123hala.com
 123lm.com
 12551-1311572332.cos.ap-shanghai.myqcloud.com
@@ -219,7 +218,6 @@
 16612.cc
 168.com
 168.it168.com
-169xiu.cn
 16aq.cn
 16n3c.cn
 17.huanqiu.com
@@ -249,7 +247,6 @@
 198game.com
 19fzl.cn
 19oxfkn.cn
-1cc7.cn
 1fv3b.cn
 1fw35mn5y7h-sdk.rum.aliyuncs.com
 1h4ig.cn
@@ -856,7 +853,6 @@
 73336zubo25326.com
 74p030.cn
 74vc.cn
-752k.cn
 7577.cc
 757g7g.cn
 75ww.com
@@ -960,7 +956,6 @@
 86695755.cn
 8800.org
 8800271.com.cn
-882848.cn
 88362zubo95838.com
 8866.org
 888.tv.sohu.com
@@ -1037,7 +1032,6 @@
 8t100.cn
 8t2.di91ba.cn
 8t5vd.cn
-8ty1wo.cn
 8v1.cn
 8v61j.cn
 8x5vviy4r2.com
@@ -1113,7 +1107,6 @@
 9b0v.cn
 9c1g.cn
 9c1k.cn
-9c9t.cn
 9cow.cn
 9cp.cn
 9d6k.cn
@@ -4168,7 +4161,6 @@ bigdata.downza.com
 bigdata.xiaomi.com
 bigwww.com
 bihaipack.com
-bihazjl.cn
 bilezdq.cn
 bilibili.cn
 bill.agent.56.com
@@ -4331,7 +4323,6 @@ boardy.huanqiu.com
 bobo.163.com
 bobo.com
 bobo.corp.163.com
-bobochi.com.cn
 bohanhengtian.cn
 boins.com.cn
 boitim.oss-eu-west-2.aliyuncs.com
@@ -4837,7 +4828,6 @@ cctvgb.com.cn
 ccuyuna.cn
 ccxhpipe.cn
 ccymzg.cn
-cczxc.cn
 cd-best.cn
 cd.bendibao.com
 cd.dabansuan.cn
@@ -5444,6 +5434,7 @@ cn.api.push.le.com
 cn.app.chat.xiaomi.net
 cn.chroomee-google.hl.cn
 cn.obs.cn-north-1.myhuaweicloud.com
+cn.seletc-binance.com.cn
 cn4-rum-openway.guance.com
 cnaa123.com
 cnadid.cn
@@ -7768,7 +7759,6 @@ euuh.cn
 ev88.com
 eva2.csdn.net
 evefashion.cn
-evenew.cn
 event-log-api-data-platform-data-lake-prod.gryphline.com
 event-log-api-ipv6.gryphline.com
 event-tracking-project.log-global.aliyuncs.com.w.cdngslb.com
@@ -8768,7 +8758,6 @@ gid.tapapis.cn
 giem-whatsapp.hl.cn
 gif.lu.sogoucdn.com
 gift.douyucdn.cn
-giiihs.cn
 gimg.baidu.com
 gimg.bitauto.com
 gimg.iqilu.com
@@ -8935,7 +8924,6 @@ google-google-gooogle.hl.cn
 google-guge.hl.cn
 google-zh.hl.cn
 google-zhcn-chrome.com.cn
-google.77388.cn
 google.tj.cn
 googleadservices.com.cn
 googleadsserving.cn
@@ -8957,6 +8945,7 @@ goteacher.cn
 goto.sogou.com
 goto.stnts.com
 goto.www.iciba.com
+goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
@@ -9488,7 +9477,6 @@ hfawdgz.cn
 hfctx.cn
 hfeqomclkjxct.cn
 hfjhr.cn
-hfjtkw.cn
 hfoyjg.cn
 hfqdipw.cn
 hfqjs.cn
@@ -9855,7 +9843,6 @@ hulauf.cn
 hulewangsi.cn
 hulichuang.mobi
 huluxia.net
-hunanitv.cn
 hunantv-ipdx.cn.miaozhen.com
 hunantv.m.cn.miaozhen.com
 hungfei.com
@@ -9880,7 +9867,6 @@ huosai.xiaomi.com
 huoyiad1.cn
 huoyiad2.cn
 huoying666.com
-hupcsg.cn
 hupneyv.cn
 hupuzhibo.cn
 hurom365.cn
@@ -10192,7 +10178,6 @@ igehuo.com
 igetui.com
 igexin.com
 igig87.cn
-igmxtx.cn
 igouwu.uc.cn
 igtchzp.cn
 igtx.cn
@@ -11064,7 +11049,6 @@ jmylj.cn
 jn1biifafz.cn
 jncacp.cn
 jnclym4.cn
-jnfjky.cn
 jngapkf.cn
 jnm.o41qed.cn
 jnmqym4.cn
@@ -11395,7 +11379,6 @@ kauomod.cn
 kawf.cn
 kb-render.alicdn.com
 kb.youzu.com
-kb423.cn
 kb8ixcm.cn
 kbabqnd.cn
 kbae.qiqqh.cn
@@ -11506,7 +11489,6 @@ kjtol.cn
 kju369.cn
 kjwysxs.cn
 kk.hl.cn
-kk25.cn
 kkb-google.hl.cn
 kkbnzz.cn
 kkd-google.com.cn
@@ -12116,7 +12098,6 @@ lletsvpn.hl.cn
 lline.com.cn
 llk.dlingtalk.cn
 lllfe.cn
-llllmg.cn
 llmb.cn
 lls11100ko.com
 lm.35.com
@@ -13490,7 +13471,6 @@ member.coocaa.com
 memelq.acs.org
 mendoc.cn
 menghuanzhilv.cn
-menglaoda.cn
 menwww.com
 meow24.cn
 mepodownload.mediatek.com
@@ -14567,7 +14547,6 @@ nmwbank.cn
 nn.hl.cn
 nnfls.com.cn
 nnocsin.cn
-nntvw.cn
 nnuc.cn
 nnvx.cn
 noahos.cn
@@ -14666,7 +14645,6 @@ nuxyz.cn
 nv.souid.com
 nvdi.cn
 nveqipk.cn
-nvmbh.cn
 nvrkw.cn
 nvshenfan.com
 nvshuyun.com
@@ -14821,7 +14799,6 @@ ohwx.7cjsh.cn
 oicp.net
 oie.com.cn
 oieo.cn
-oiggo.cn
 oikqfwv.cn
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
@@ -15114,7 +15091,6 @@ owads.audioadx.com
 owatch.cn
 oway.mobi
 owdfxgc.cn
-owrajsn.cn
 owtl.e0yp21.cn
 owusxlr.cn
 oxi23.cn
@@ -15368,7 +15344,6 @@ paybank.bokxboy.cn
 paybank.bslitxm.cn
 paybank.ddahucf.cn
 paybank.scutemm.cn
-paybank.skgmabo.cn
 paybank.tvujzxv.cn
 paybank.utsonzx.cn
 paybank.uzzpwsd.cn
@@ -15378,7 +15353,6 @@ paypay-card.ftkdlnp.cn
 paypay-card.gjqrczf.cn
 paypay-card.lmljujl.cn
 paypay-card.rwnyplb.cn
-paypay-card.vwcwbgn.cn
 paypay-card.xbygjtd.cn
 paypayinsurance.cn
 payrisk-tmx.didiglobal.com
@@ -15740,7 +15714,6 @@ pmshy.cn
 pmvlwjy.cn
 pn-cover.cdn.bcebos.com
 pn36.cn
-pndnvw.cn
 pnewsapp.tc.qq.com
 png.lu.sogoucdn.com
 pngmin.cn
@@ -18300,6 +18273,7 @@ soorbka.cn
 soperson.com
 sopqvhe.cn
 sore-indigo-cf1xx4cwja.edgeone.app
+sosogou.oss-cn-hongkong.aliyuncs.com
 sosrom.cn
 sou-gou.com.cn
 soua.com
@@ -21936,7 +21910,6 @@ www.betterzip.net
 www.betterzipcn.com
 www.beyondcompare.cc
 www.biddingx.com
-www.bihazjl.cn
 www.billionfocus.com
 www.bingdianhuanyuan.cn
 www.biqubao.com
@@ -22166,7 +22139,6 @@ www.ntfsformac.cn
 www.nvshenfan.com
 www.nwww.gkxs.com
 www.o7h.net
-www.oiggo.cn
 www.online.sh.cn
 www.ooniu.com
 www.open-uc.cn
