@@ -1,5 +1,4 @@
 0.up.qingdaonews.com
-00-1321729461.cos.ap-guangzhou.myqcloud.com
 00-gov.cn
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -768,7 +767,6 @@
 5yrra.deshuangwang.cn
 5yv2e.cn
 5yw4n.cn
-6-1321729461.cos.ap-guangzhou.myqcloud.com
 603ka.cn
 60608787.com
 606w.cn
@@ -1028,7 +1026,6 @@
 8o9m.cn
 8ox.cn
 8p30k.cn
-8r9x.eyoh9.dalians.cn
 8t100.cn
 8t2.di91ba.cn
 8t5vd.cn
@@ -4272,7 +4269,6 @@ bksoup.v.qq.com
 bkt.clouddn.com
 bkujqma.cn
 bkvps.com
-bkw7.due.dalians.cn
 bkwn.cn
 bkxuprh.cn
 bkyhq.cn
@@ -4285,7 +4281,6 @@ blackhole-m.m.jd.com
 blackhole.m.jd.com
 blb.winasdaq.com
 blb2s77r.cn
-blblbl-1359435016.cos.ap-guangzhou.myqcloud.com
 blddnwt.cn
 blfyquz.cn
 blink-upload.bayescom.com
@@ -8055,7 +8050,6 @@ feiishuu.com.cn
 feilan5.cn
 feipaihehuoren.cn
 feishu-app.com.cn
-feishu-app.hl.cn
 feishu-fs.com.cn
 feishu-gw.com.cn
 feishu-pc.cn
@@ -9930,7 +9924,6 @@ hyfyuan.com
 hygqtz.cn
 hyjdz.cn
 hykt.gotoip3.com
-hym.unhd.dalians.cn
 hypeapp.cn
 hypers.com
 hypers.com.cn
@@ -11503,7 +11496,6 @@ kkpgv2.xunlei.com
 kkpqhqu.cn
 kktly.cn
 kkuu.oss-cn-hongkong.aliyuncs.com
-kkz.ej5.dalians.cn
 kl-feishu.com.cn
 kl.67it.com
 kl.yditweb.cn
@@ -14600,7 +14592,6 @@ ns1.vicp.net
 ns2.cnzz.com
 ns2.vicp.net
 ns2.xidian.edu.cn
-ns2n.dwh.dalians.cn
 nsclick.baidu.cn
 nsclick.baidu.com
 nsclickvideo.baidu.com
@@ -15438,7 +15429,6 @@ pd.ads.cn.miaozhen.com
 pd.dopa.com.cn
 pd.sogou.com
 pd3a.cn
-pd6b.67dtt.dalians.cn
 pdc.micloud.xiaomi.net
 pdfexpert.cc
 pdfxd.com
@@ -15983,7 +15973,6 @@ pushservice.10010.com
 pusure.com
 puwxbcb.cn
 puy2.cn
-puz.ddjiayou.cn
 puzwb.cn
 pv.5211game.com
 pv.anzhi.com
@@ -18544,6 +18533,7 @@ stat.pandora.xiaomi.com
 stat.pchome.net
 stat.ppstream.com
 stat.pptv.com
+stat.qf.v-56.com
 stat.sd.360.cn
 stat.shanghai.gov.cn
 stat.simba.taobao.com
@@ -19117,7 +19107,6 @@ taboola.com.cn
 tabyee.cn
 tac.aiclk.com
 tad.suning.com
-tadata.ddjiayou.cn
 taf2.cn
 tag.admaster.com.cn
 tag.cdnmaster.cn
@@ -21466,7 +21455,6 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
-weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
