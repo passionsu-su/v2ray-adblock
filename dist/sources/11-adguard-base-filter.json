@@ -4734,6 +4734,7 @@
       "domain:dv663fc06d35i.cloudfront.net",
       "domain:dvac.goaserv.com",
       "domain:dvv009j588zal.cloudfront.net",
+      "domain:dvwztnx4ab3fl.cloudfront.net",
       "domain:dwdy7xir.xyz",
       "domain:dwf6crl4raal7.cloudfront.net",
       "domain:dwlv.xyz",
@@ -12730,6 +12731,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (12725 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (12726 domains)"
   }
 ]
