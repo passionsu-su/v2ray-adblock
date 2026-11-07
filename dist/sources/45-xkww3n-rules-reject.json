@@ -260,6 +260,7 @@
       "domain:collector.cdp.cnn.com",
       "domain:collector.pi.spectrum.net",
       "domain:collector.prod.expedia.com",
+      "domain:collector.snowplow.supercell.com",
       "domain:commercial.shouji.360.cn",
       "domain:conf.international.baidu.com",
       "domain:config.sdk.kochava.dewrain.life",
@@ -868,6 +869,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (863 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (864 domains)"
   }
 ]
