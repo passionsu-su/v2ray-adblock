@@ -1477,7 +1477,6 @@ activation.easeus.com
 activation.wps.cn
 active.baofeng.com
 active.sangfor.com
-active.tc.skysrt.com
 activeqq.3g.qq.com
 actives.youku.com
 activities.alibaba.com
@@ -6255,6 +6254,7 @@ dc.letv.com
 dc.meitustat.com
 dc.oppomobile.com
 dc.sigmob.cn
+dc.stat.nearme.com.cn
 dc.tensgpt.com
 dc1.networkbench.com
 dc2.csdn.net
@@ -11937,6 +11937,7 @@ liagand.cn
 liana.cn
 liandaomobi.com
 lianfuhuang.cn
+liang2023.cn
 lianglili2.cn
 liangyi360.com
 lianjikeji.cn
@@ -13432,6 +13433,7 @@ mdrecv.app.cntvwb.cn
 mdsfzh.cn
 mdt.qq.com
 mdvdns.com
+mdws.caissepopclare.cactive.tc.skysrt.com
 mdzvoi.cn
 me.afp.chinanews.com
 me.com.x9wj2.cn
@@ -16212,6 +16214,7 @@ qishui-eom.com.cn
 qishui-gf.com.cn
 qishui-vip.com.cn
 qishui-yinle.hl.cn
+qishui-yinyue.com.cn
 qishui-zn.hl.cn
 qishui.bj.cn
 qishuide.com.cn
@@ -17685,7 +17688,6 @@ sentry.cvtapi.com
 sentry.d.mi.com
 sentry.d.xiaomi.net
 sentry.deemos.com
-sentry.deepturing.cn
 sentry.deyecloud.com
 sentry.douyucdn.cn
 sentry.dreambig.work
@@ -20796,6 +20798,8 @@ v5-se-zjwztc-reading-ad.qznovelvod.com
 v5-se2-bjtc-reading-ad.qznovelvod.com
 v5-se2-gddgtc-reading-ad.qznovelvod.com
 v5-se2-jltc-reading-ad.qznovelvod.com
+v5-se2-yz-reading-ad.qznovelvod.com
+v5-se2-zjnbtc-reading-ad.qznovelvod.com
 v5.cnzz.com
 v5.img.360kuai.com
 v5.juzi.cn
@@ -22497,7 +22501,6 @@ xhsxgmt.cn
 xhsxgnt.cn
 xhyd.uxyrl.cn
 xhydrs.cn
-xia.abbyychina.com
 xia.bartender.cc
 xia.beyondcompare.cc
 xia.bingdianhuanyuan.cn
@@ -22660,6 +22663,7 @@ xls.czliangsheng.cn
 xls.go.sohu.com
 xlstat.izuiyou.com
 xluz.cn
+xlzxsh.cn
 xm.hl.cn
 xm223.cn
 xmadsdk.cos.tx.xmcdn.com
