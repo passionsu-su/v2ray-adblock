@@ -1114,9 +1114,7 @@
       "domain:9dtiny.cn",
       "domain:9e0u.cn",
       "domain:9e7gb.cn",
-      "domain:9f113d434f8c49f0.com",
       "domain:9f1i3az.cn",
-      "domain:9fb02234.00sb.cn",
       "domain:9fum.ifeng.com",
       "domain:9h5qq.cn",
       "domain:9h6qq.cn",
@@ -7447,6 +7445,7 @@
       "domain:ehd.baike.com",
       "domain:ehdj.njguluyu.cn",
       "domain:eheb8.cn",
+      "domain:ehntc.cn",
       "domain:ei.cnzz.com",
       "domain:ei2v.amaumxx.cn",
       "domain:ei4f.cn",
@@ -8945,7 +8944,6 @@
       "domain:googleminiapps.cn",
       "domain:googlepay.cn",
       "domain:googleplus.party",
-      "domain:googleppy.com",
       "domain:googlespider1.cn",
       "domain:gooleweb.com.cn",
       "domain:gooogel.cn",
@@ -8958,6 +8956,7 @@
       "domain:goto.sogou.com",
       "domain:goto.stnts.com",
       "domain:goto.www.iciba.com",
+      "domain:goto1.72.chat",
       "domain:gotoip.com.cn",
       "domain:gotoip55.com",
       "domain:gotonav.com",
@@ -18671,6 +18670,7 @@
       "domain:static.youdm.cn",
       "domain:static.youmi.net",
       "domain:static.youzu.com",
+      "domain:static.zongheng.com",
       "domain:static01.baomihua.com",
       "domain:static1.baifendian.com",
       "domain:static1.searchbox.baidu.com",
@@ -22283,7 +22283,6 @@
       "domain:www.xtwjx.cn",
       "domain:www.xuanhk.com",
       "domain:www.xuefenxi.com",
-      "domain:www.xwd0gkcx.6lnov0.cn",
       "domain:www.xxeden.com",
       "domain:www.xxxfeng.com",
       "domain:www.ycsshb.cn",
@@ -23794,6 +23793,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23789 domains)"
+    "remarks": "AdBlock 国内 (23788 domains)"
   }
 ]

@@ -1109,9 +1109,7 @@
 9dtiny.cn
 9e0u.cn
 9e7gb.cn
-9f113d434f8c49f0.com
 9f1i3az.cn
-9fb02234.00sb.cn
 9fum.ifeng.com
 9h5qq.cn
 9h6qq.cn
@@ -7442,6 +7440,7 @@ eh.bxche.com.cn
 ehd.baike.com
 ehdj.njguluyu.cn
 eheb8.cn
+ehntc.cn
 ei.cnzz.com
 ei2v.amaumxx.cn
 ei4f.cn
@@ -8940,7 +8939,6 @@ googlechrom.hl.cn
 googleminiapps.cn
 googlepay.cn
 googleplus.party
-googleppy.com
 googlespider1.cn
 gooleweb.com.cn
 gooogel.cn
@@ -8953,6 +8951,7 @@ goteacher.cn
 goto.sogou.com
 goto.stnts.com
 goto.www.iciba.com
+goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
@@ -18666,6 +18665,7 @@ static.wooboo.com.cn
 static.youdm.cn
 static.youmi.net
 static.youzu.com
+static.zongheng.com
 static01.baomihua.com
 static1.baifendian.com
 static1.searchbox.baidu.com
@@ -22278,7 +22278,6 @@ www.xtcdbb.cn
 www.xtwjx.cn
 www.xuanhk.com
 www.xuefenxi.com
-www.xwd0gkcx.6lnov0.cn
 www.xxeden.com
 www.xxxfeng.com
 www.ycsshb.cn
