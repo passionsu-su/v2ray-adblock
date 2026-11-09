@@ -785,6 +785,7 @@
       "domain:tracking.shinycolors.enza.fun",
       "domain:tracking.shoptogether.buy.com",
       "domain:tracking.ws.eurosport.com",
+      "domain:tracklet.prod.tech.as-nmt.de",
       "domain:trckng.web55708.greatnet-hosting.de",
       "domain:trk.analytics.wisetracker.co.kr",
       "domain:tunion-api.m.taobao.com",
@@ -869,6 +870,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (864 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (865 domains)"
   }
 ]
