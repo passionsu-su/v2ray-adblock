@@ -299,7 +299,6 @@
 2005net.net
 20091222.com
 2009dddd.cn
-2009llll.cn
 2013pan.cn
 2016.bkill.net
 2016.sina.cn
@@ -913,6 +912,7 @@
 7xsf3h.com1.z0.glb.clouddn.com
 7zip-com.hl.cn
 7zip.top.pages.dnsoe4.com
+7zva1jn.44j4oo2a.cn
 8.jrj.com
 8.jrj.com.cn
 801.tianya.cn
@@ -1017,6 +1017,7 @@
 8i1xc.cn
 8j24h.cn
 8jrc564wtf.cn
+8k64sz0.44j4oo2a.cn
 8k69vb6421.com
 8le8le.com
 8ls3n.cn
@@ -2643,7 +2644,6 @@ aki-gb-sdklog.kurogames.net
 aknusp.cn
 akqrt.cn
 akrwi.cn
-akzdyvv.cn
 al.autohome.com.cn
 al.newxue.com
 albsgdq.cn
@@ -2719,7 +2719,6 @@ am77p.cn
 ama.adwo.com
 amae.zjcapital.cn
 amap-aos-info-nogw.amap.com
-amberlf.cn
 amdc-sibling.alipay.com.cn
 amdc-thirdparty.alipay.com
 amdc.alipay.com
@@ -3031,7 +3030,6 @@ api-z.weidian.com
 api-zhibo.qtfm.cn
 api.0.0.0.0.cn
 api.0530hz.cn
-api.17le.com.cn
 api.1q8h.cn
 api.22lianmeng.com
 api.52youtu.com
@@ -4330,6 +4328,7 @@ blink-upload.bayescom.com
 blink.bayescom.com
 blk.bonapp.cn
 bllbaby.cn
+blog.ihlnmap.cn
 blog.ivup.cn
 blog.stetgzs.cn
 blog.tuziip.com
@@ -7367,7 +7366,6 @@ edm.globalsources.com
 edoedrl.cn
 edty.com
 edu-ad-test-cdn.cdn.bcebos.com
-edu-media.cn
 eduace.com.cn
 eduad.baidu.com
 eduancm.com
@@ -7472,7 +7470,6 @@ eh.bxche.com.cn
 ehd.baike.com
 ehdj.njguluyu.cn
 eheb8.cn
-ehntc.cn
 ei.cnzz.com
 ei2v.amaumxx.cn
 ei4f.cn
@@ -7978,7 +7975,6 @@ fakrg0e.cn
 faktura-nzbdcddw.edgeone.cool
 fakxqq.cn
 falal.cn
-falaliqq.cn
 falgin.cn
 familytaste.cn
 fancy-cm.cn.miaozhen.com
@@ -8985,6 +8981,7 @@ goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
+gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -9035,6 +9032,7 @@ gqoi.cn
 gqwu.cn
 grand.ele.me
 grandcomms.cn
+grayr.abx.ipd.hihonor.com
 greatwit.cn
 greenadoption.cn
 greenhouseglobal.cn
@@ -9334,6 +9332,7 @@ h99.cn
 h9p9.cn
 haa3j9plpi-default-cn.rum.aliyuncs.com
 habkjav.cn
+habrion.cn
 habtcng.cn
 hacker.com.cn
 hades.qyer.com
@@ -11579,7 +11578,6 @@ kn.thuyki.cn
 kn.tzsmab.cn
 kn.ylrca.cn
 kn.ynmhg.cn
-kn.zhipinbook.cn
 knaxfbg.cn
 knehcrw.cn
 knet.cn
@@ -12878,7 +12876,6 @@ m.ektktg.cn
 m.emshx.cn
 m.ennmt.com
 m.enrogwm.cn
-m.ensts.cn
 m.eoeoev.cn
 m.eozozw.cn
 m.ercos.cn
@@ -13624,7 +13621,6 @@ mgux.cn
 mgzjin.cn
 mgzs.cdn.bcebos.com
 mh1.zhengdongwuye.cn
-mh8888.cn
 mhaw.cn
 mhd.1391.com
 mhdjkx.cn
@@ -14351,7 +14347,6 @@ native-log-collect.gryphline.com
 native.feedback.miui.com
 nativeapp.toutiao.com
 nauklh.cn
-nav-binance.com.cn
 nav.browser.miui.com
 nav.cn.ronghub.com
 nav.sec.miui.com
@@ -15391,7 +15386,6 @@ paybank.ddahucf.cn
 paybank.scutemm.cn
 paybank.tvujzxv.cn
 paybank.utsonzx.cn
-paybank.uzzpwsd.cn
 paybank.wzckwzx.cn
 payment.yodo1api.com
 paypay-card.gjqrczf.cn
@@ -16653,6 +16647,10 @@ release.baidu.com
 relish.com.cn
 relliun.cn
 remfebd.cn
+remoteconfig-dra.platform.hihonorcloud.com
+remoteconfig-drcn.platform.hihonorcloud.com
+remoteconfig-dre.platform.hihonorcloud.com
+remoteconfig-uat-drcn.platform.hihonorcloud.com
 remotedu.cn
 renacious.nwwadq.cn
 render-server.cdn.bcebos.com
@@ -16833,6 +16831,7 @@ rmkfmm.cn
 rmoeu.mercury.sogou.com
 rmonitor.qq.com
 rmpad.imtt.qq.com
+rms-behavior-collect-drcn.hihonorcdn.com
 rms-drcn.platform.dbankcloud.cn
 rmtx.ra.icast.cn
 rmtxpv.ra.icast.cn
@@ -20608,6 +20607,7 @@ usug.baidu.com
 ut.gtags.net
 ut2.shuqistat.com
 utag.ijinshan.com
+uteas.cn
 util.nphoto.net
 utility.baidu.cn
 utility.baidu.com
@@ -20745,7 +20745,6 @@ v.vlion.cn
 v.wdgrtug.cn
 v.wdmdejd.cn
 v.wifiwin.cn
-v.wjlzs.cn
 v.wyykxyp.cn
 v.xbjcgs.cn
 v.xinshide.cn
@@ -21529,6 +21528,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -22433,7 +22433,6 @@ wyynike.cn
 wyzq.rehuwang.com
 wyzxn.cn
 wz.37wan.com
-wz382.cn
 wzaigo.com
 wzdq.cn
 wzfjsh.cn
