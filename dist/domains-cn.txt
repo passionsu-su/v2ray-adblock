@@ -1,3 +1,4 @@
+0.0.0active.tc.skysrt.com
 0.up.qingdaonews.com
 00-gov.cn
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -1475,7 +1476,6 @@ activation.easeus.com
 activation.wps.cn
 active.baofeng.com
 active.sangfor.com
-active.tc.skysrt.com
 activeqq.3g.qq.com
 actives.youku.com
 activities.alibaba.com
@@ -1579,6 +1579,7 @@ ad.95306.cn
 ad.a.yximgs.com
 ad.adhouyi.cn
 ad.adtrack.enlightent.cn
+ad.advst.cibnvst.com
 ad.advst.cp33.ott.cibntv.net
 ad.adwo.com
 ad.agrantsem.com
@@ -1592,6 +1593,7 @@ ad.api.3g.youku.com
 ad.api.attribuly.com
 ad.api.mobile.youku.com
 ad.api.moji.com
+ad.api.open.jihuoniao.com
 ad.api.youshiad.cn
 ad.baihemob.com
 ad.bayescom.com
@@ -1737,7 +1739,9 @@ ad.thsi.cn
 ad.tom.com
 ad.toutiao.com
 ad.track.66mobi.com
+ad.track.jihuoniao.com
 ad.truerun.com
+ad.tvblack.com
 ad.us.sinaimg.cn
 ad.v3mh.com
 ad.v6.kuaishou.cn
@@ -2819,6 +2823,7 @@ analytics.oceanengine.com.w.cdngslb.com
 analytics.ooofoo.com
 analytics.partnerboost.com
 analytics.qiqiuyun.net
+analytics.rwkv.cn
 analytics.selfboot.cn
 analytics.shop.hisense.com
 analytics.shop.hisense.com.cdngtm.com
@@ -4695,7 +4700,6 @@ c.wdgrtug.cn
 c.wdmdejd.cn
 c.webp2p.letv.com
 c.wechat.jx.cn
-c.wjlzs.cn
 c.wkanx.com
 c.wrating.com
 c.wuliu800.com.cn
@@ -5572,7 +5576,6 @@ collector.dcdn.baidu.com
 collector.szlcsc.com
 collector.wasu.cn
 collector2c.zhihuishu.com
-colonial-chocolate-9onfwalt.edgeone.app
 com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 com.down.sandai.net
@@ -6282,7 +6285,6 @@ dc.letv.com
 dc.meitustat.com
 dc.oppomobile.com
 dc.sigmob.cn
-dc.stat.nearme.com.cn
 dc.tensgpt.com
 dc1.networkbench.com
 dc2.csdn.net
@@ -7470,6 +7472,7 @@ eh.bxche.com.cn
 ehd.baike.com
 ehdj.njguluyu.cn
 eheb8.cn
+ehntc.cn
 ei.cnzz.com
 ei2v.amaumxx.cn
 ei4f.cn
@@ -8392,6 +8395,7 @@ fwlaw.cn
 fwlgepp.cn
 fwlrv.cn
 fwmbjrl.cn
+fwzyuvg.cn
 fx6j3.cn
 fxc.aiquxs.com
 fxgate.baidu.com
@@ -10740,7 +10744,6 @@ itcj.cn
 item.mediav.com
 itemifs.tanx.com
 iteye.com
-itlinks.com.cn
 itpest.cn
 itrolexshop.com
 its.fugetech.com
@@ -11959,7 +11962,6 @@ lhcyii.cn
 lhgwcvw.cn
 lhippac.cn
 lhxwnzht.cn
-liadano.com.cn
 liagand.cn
 liana.cn
 liandaomobi.com
@@ -12224,6 +12226,7 @@ log.51changdu.com
 log.51cto.com
 log.51wnl-cq.com
 log.9wuli.com
+log.accessflux.com.w.kunlungr.com
 log.ad.xiaomi.com
 log.ailingmao.com
 log.aispeech.com
@@ -13368,6 +13371,7 @@ materiel.junshidao.com
 mathtype.cn
 matomo.5688.cn
 matomo.fatda.cn
+matomo.mdjpxw.com.06b85755.cdnhwcpsd13.com
 matomo.meldingcloud.com
 matomo.meldingcloud.com.w.cdngslb.com
 matomo4397.123245.com
@@ -13680,7 +13684,6 @@ migu.kssws.ks-cdn.com
 mihui.com
 mijifen.com
 mil.gbzumh.cn
-mil.rfjckj.cn
 milan100.cn
 milecctv.cn
 milink.pandora.xiaomi.com
@@ -17756,6 +17759,7 @@ sentry.ituchong.com
 sentry.jingyunyilian.com
 sentry.joybest.com.cn
 sentry.jtexpress.com.cn
+sentry.kkmh.com
 sentry.kookapp.cn
 sentry.kuaishou.com
 sentry.ldplayer.net
@@ -18715,7 +18719,6 @@ static.wooboo.com.cn
 static.youdm.cn
 static.youmi.net
 static.youzu.com
-static.zongheng.com
 static01.baomihua.com
 static1.baifendian.com
 static1.searchbox.baidu.com
@@ -18805,7 +18808,6 @@ steamcommunity.cn
 steamgift.site
 steamproxy.net
 steeltrader.com.cn
-stelliers.cn
 stevenblue.cn
 stfyygv.cn
 stg-data-f.ads.heytapmobi.com
@@ -21528,7 +21530,6 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
-weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -23005,7 +23006,6 @@ ycxjtd.com
 ycypzx.cn
 yd-fanyi.hl.cn
 yd126.com
-yddgh.aiquna.com.cn
 ydgsvls.cn
 yditweb.cn
 ydjs.zol.com.cn

@@ -3,6 +3,7 @@
     "port": "",
     "outboundTag": "block",
     "domain": [
+      "domain:0.0.0active.tc.skysrt.com",
       "domain:0.myikas.com",
       "domain:0.net.easyjet.com",
       "domain:0.r.msn.com",
@@ -8122,7 +8123,6 @@
       "domain:active-trk7.com",
       "domain:active.baofeng.com",
       "domain:active.sangfor.com",
-      "domain:active.tc.skysrt.com",
       "domain:active24stats.nl",
       "domain:activeconversion.com",
       "domain:activedancer.com",
