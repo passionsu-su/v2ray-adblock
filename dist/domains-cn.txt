@@ -2839,7 +2839,6 @@ aoe-clash.hl.cn
 aoe-google.com.cn
 aoe-google.hl.cn
 aoe-wps.hl.cn
-aofeida.com
 aokkwzg.cn
 aol32.cn
 aoo-google.hl.cn
@@ -7296,7 +7295,6 @@ eh.bxche.com.cn
 ehd.baike.com
 ehdj.njguluyu.cn
 eheb8.cn
-ehntc.cn
 ei.cnzz.com
 ei2v.amaumxx.cn
 ei4f.cn
@@ -7902,7 +7900,6 @@ feedback.cn.ronghub.com
 feedback.intl.miui.com
 feedback.miui.com
 feedback.uc.cn
-feedback.whalecloud.com
 feedbackstorage.blob.core.chinacloudapi.cn
 feedbackws.fe.apple-dns.cn
 feedbackws.icloud.com.cn
@@ -8800,6 +8797,7 @@ goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
+gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -11676,7 +11674,6 @@ lecuiwangluo.com
 ledaren.cn
 ledger.net.cn
 ledou.dl.uu.cc
-legend.ac.cn
 lego-tech.zhuanzhuan.com
 lego.mmstat.com
 lego.zhuanzhuan.com
@@ -13724,6 +13721,7 @@ mon11-misc-lq.fqnovel.com
 mon11-misc-lq.toutiaoapi.com
 mon11-misc.fqnovel.com
 mon3-misc-lf.fqnovel.com
+mon3-misc.fqnovel.com
 money.qz828.com
 monidashi.cn
 monidashi.com.cn
@@ -17457,6 +17455,7 @@ sentry.manmanbuy.com
 sentry.meitu-int.com
 sentry.meitu-int.com.c.vedcdnlb.com
 sentry.monitoring.ugnas.com
+sentry.mp.sohu.com
 sentry.music.163.com
 sentry.myoas.net
 sentry.netease.com
@@ -18319,6 +18318,7 @@ static-s.iqiyi.com
 static-ssl.mediav.com
 static-ssp.yidianzixun.com
 static-tapad.tapdb.net
+static-us-img.skywork.ai
 static-xl.a.88cdn.com
 static-xl9-ssl.xunlei.com
 static.189works.com
@@ -19170,6 +19170,7 @@ tj.koudaitong.com
 tj.kugou.com
 tj.qiumibao.com
 tj.u17t.com
+tj.uuname.cn
 tj.video.qq.com
 tj.vidown.cn
 tj.youzanyun.com

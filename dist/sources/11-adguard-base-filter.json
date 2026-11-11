@@ -4048,6 +4048,7 @@
       "domain:convergeselect.net",
       "domain:convertap.com",
       "domain:cool.gaygo.tv",
+      "domain:coolaspen.tech",
       "domain:coolbuy.go-static.info",
       "domain:coolreturn.go-static.info",
       "domain:copperascove.u2you.go-static.info",
@@ -5239,6 +5240,7 @@
       "domain:familiar.lp.goaserv.com",
       "domain:familycard.goaserv.com",
       "domain:famosas-sedescuidan.go-static.info",
+      "domain:fancyotter.me",
       "domain:fancyrat.calebporzio.com",
       "domain:fancyrat.flatuicolors.com",
       "domain:fancyrat.keurslager-goeminne.be",
@@ -5705,6 +5707,7 @@
       "domain:finance.tbllem.com",
       "domain:findme.goasrv.com",
       "domain:fineart.go-static.info",
+      "domain:finebucket.info",
       "domain:finetune32.go-static.info",
       "domain:fingerprint-veri.info",
       "domain:fioreriasarmeola.goaserv.com",
@@ -12733,6 +12736,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (12728 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (12731 domains)"
   }
 ]
