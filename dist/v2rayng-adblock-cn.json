@@ -5328,7 +5328,6 @@
       "domain:cn-chrom.hl.cn",
       "domain:cn-com-binance.com.cn",
       "domain:cn-deepseek.com.cn",
-      "domain:cn-feed-whatsapp.com.cn",
       "domain:cn-feishu.com.cn",
       "domain:cn-google-ch.com.cn",
       "domain:cn-google-com.com.cn",
@@ -5801,6 +5800,7 @@
       "domain:cwhsmgs1.cn",
       "domain:cwj2h.cn",
       "domain:cwphgqu.cn",
+      "domain:cwvmjgk.cn",
       "domain:cwzx.dengfenzhang.cn",
       "domain:cx0001.cn",
       "domain:cxad.cn",
@@ -8798,7 +8798,6 @@
       "domain:goto.sogou.com",
       "domain:goto.stnts.com",
       "domain:goto.www.iciba.com",
-      "domain:goto1.72.chat",
       "domain:gotoip.com.cn",
       "domain:gotoip55.com",
       "domain:gotonav.com",
@@ -10790,6 +10789,7 @@
       "domain:jing.58.com",
       "domain:jingcaiedc.cn",
       "domain:jingezhao.cn",
+      "domain:jingguigui.cn",
       "domain:jinghuazhijia.com",
       "domain:jingjia.qq.com",
       "domain:jinglongtang.cn",
@@ -11905,6 +11905,7 @@
       "domain:ll.hudong.com",
       "domain:ll.songlaoban.cn",
       "domain:llanotextiles.cn",
+      "domain:lldkidm.cn",
       "domain:lletd.cn",
       "domain:lletsvpn.hl.cn",
       "domain:lline.com.cn",
@@ -14811,7 +14812,6 @@
       "domain:otantgi.cn",
       "domain:otbeksf.cn",
       "domain:otbsrk.cn",
-      "domain:otbtaw.cn",
       "domain:otel.olivia.miyoushe.com.a2.initxa.com",
       "domain:otfx.cn",
       "domain:otfy.cn",
@@ -19759,6 +19759,7 @@
       "domain:tzjybeidou.58.com",
       "domain:tzlit.cn",
       "domain:tzmhqll.cn",
+      "domain:tzrhfml.cn",
       "domain:tzsc.cn",
       "domain:tzuyruz.cn",
       "domain:tzyzlow.cn",
@@ -21076,6 +21077,8 @@
       "domain:web.sogou.com",
       "domain:web.w300.vhostgo.com",
       "domain:web.whatsapsapp.hl.cn",
+      "domain:web01.xmzxzty.cn",
+      "domain:web02.xmzxzty.cn",
       "domain:web1.51.la",
       "domain:web2-chrome.com.cn",
       "domain:web2.51.la",
@@ -23229,6 +23232,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23224 domains)"
+    "remarks": "AdBlock 国内 (23227 domains)"
   }
 ]

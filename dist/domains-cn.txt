@@ -5323,7 +5323,6 @@ cn-beijing-c.dualstack.log.usd.alibabadns.com
 cn-chrom.hl.cn
 cn-com-binance.com.cn
 cn-deepseek.com.cn
-cn-feed-whatsapp.com.cn
 cn-feishu.com.cn
 cn-google-ch.com.cn
 cn-google-com.com.cn
@@ -5796,6 +5795,7 @@ cwgshkz.cn
 cwhsmgs1.cn
 cwj2h.cn
 cwphgqu.cn
+cwvmjgk.cn
 cwzx.dengfenzhang.cn
 cx0001.cn
 cxad.cn
@@ -8793,7 +8793,6 @@ goteacher.cn
 goto.sogou.com
 goto.stnts.com
 goto.www.iciba.com
-goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
@@ -10785,6 +10784,7 @@ jimeilm.com
 jing.58.com
 jingcaiedc.cn
 jingezhao.cn
+jingguigui.cn
 jinghuazhijia.com
 jingjia.qq.com
 jinglongtang.cn
@@ -11900,6 +11900,7 @@ ll-sentry.lianlianpay.com
 ll.hudong.com
 ll.songlaoban.cn
 llanotextiles.cn
+lldkidm.cn
 lletd.cn
 lletsvpn.hl.cn
 lline.com.cn
@@ -14806,7 +14807,6 @@ ota.ptqy.gitv.tv
 otantgi.cn
 otbeksf.cn
 otbsrk.cn
-otbtaw.cn
 otel.olivia.miyoushe.com.a2.initxa.com
 otfx.cn
 otfy.cn
@@ -19754,6 +19754,7 @@ tzjovzs.cn
 tzjybeidou.58.com
 tzlit.cn
 tzmhqll.cn
+tzrhfml.cn
 tzsc.cn
 tzuyruz.cn
 tzyzlow.cn
@@ -21071,6 +21072,8 @@ web.novogene.com
 web.sogou.com
 web.w300.vhostgo.com
 web.whatsapsapp.hl.cn
+web01.xmzxzty.cn
+web02.xmzxzty.cn
 web1.51.la
 web2-chrome.com.cn
 web2.51.la
