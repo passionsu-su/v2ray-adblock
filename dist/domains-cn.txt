@@ -8796,7 +8796,6 @@ goto.www.iciba.com
 gotoip.com.cn
 gotoip55.com
 gotonav.com
-gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -17487,7 +17486,6 @@ sentry.zwoastro.cn
 sentry1.lingkou.xyz
 sentry2-pan01.yingxiong.com
 sentry2.lx.netease.com
-sentry2.weshineapp.com
 seordl.cn
 sepro.baidu.com
 serconsole.vicp.cc
@@ -21078,7 +21076,6 @@ web1.51.la
 web2-chrome.com.cn
 web2.51.la
 web2.da.mgtv.com
-web2u.cn
 web605.cn
 webanalytics.logitech.com.cn
 webanalytics.logitechg.com.cn
@@ -21525,7 +21522,6 @@ www.abbyychina.com
 www.ad-survey.com
 www.ad7.com
 www.admaster.com.cn
-www.ads8.com
 www.adsage.cn
 www.adsame.com
 www.adsmogo.net
@@ -21726,7 +21722,6 @@ www.tbk-app.com
 www.thztv.net
 www.touclick.com
 www.toutiaopage.com
-www.ttcdn.cn
 www.ttyyuuoo.com
 www.u88.cn
 www.ujian.cc
@@ -22203,6 +22198,7 @@ xshellcn.com
 xsjyun.cn
 xsolid.baidu.com
 xsrypte.cn
+xss-1253555722.cos.ap-singapore.myqcloud.com
 xsti.cn
 xsvgpjl.cn
 xsyhy.cn

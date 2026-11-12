@@ -8801,7 +8801,6 @@
       "domain:gotoip.com.cn",
       "domain:gotoip55.com",
       "domain:gotonav.com",
-      "domain:gotowww.72.chat",
       "domain:gou-sogou.com.cn",
       "domain:gou.wps.cn",
       "domain:goulanmeng.cn",
@@ -17492,7 +17491,6 @@
       "domain:sentry1.lingkou.xyz",
       "domain:sentry2-pan01.yingxiong.com",
       "domain:sentry2.lx.netease.com",
-      "domain:sentry2.weshineapp.com",
       "domain:seordl.cn",
       "domain:sepro.baidu.com",
       "domain:serconsole.vicp.cc",
@@ -21083,7 +21081,6 @@
       "domain:web2-chrome.com.cn",
       "domain:web2.51.la",
       "domain:web2.da.mgtv.com",
-      "domain:web2u.cn",
       "domain:web605.cn",
       "domain:webanalytics.logitech.com.cn",
       "domain:webanalytics.logitechg.com.cn",
@@ -21530,7 +21527,6 @@
       "domain:www.ad-survey.com",
       "domain:www.ad7.com",
       "domain:www.admaster.com.cn",
-      "domain:www.ads8.com",
       "domain:www.adsage.cn",
       "domain:www.adsame.com",
       "domain:www.adsmogo.net",
@@ -21731,7 +21727,6 @@
       "domain:www.thztv.net",
       "domain:www.touclick.com",
       "domain:www.toutiaopage.com",
-      "domain:www.ttcdn.cn",
       "domain:www.ttyyuuoo.com",
       "domain:www.u88.cn",
       "domain:www.ujian.cc",
@@ -22208,6 +22203,7 @@
       "domain:xsjyun.cn",
       "domain:xsolid.baidu.com",
       "domain:xsrypte.cn",
+      "domain:xss-1253555722.cos.ap-singapore.myqcloud.com",
       "domain:xsti.cn",
       "domain:xsvgpjl.cn",
       "domain:xsyhy.cn",
@@ -23232,6 +23228,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23227 domains)"
+    "remarks": "AdBlock 国内 (23223 domains)"
   }
 ]
