@@ -1711,6 +1711,7 @@ ad.youku.com
 ad.yun.wifi8.com
 ad.zamae.cn
 ad.zdworks.com
+ad.zglyun.com
 ad.zhangyue.com
 ad.zhidian3g.cn
 ad.zhuanzhuan.com
@@ -4258,6 +4259,7 @@ boardy.huanqiu.com
 bobo.163.com
 bobo.com
 bobo.corp.163.com
+bobochi.com.cn
 bohanhengtian.cn
 boins.com.cn
 boitim.oss-eu-west-2.aliyuncs.com
@@ -4657,6 +4659,7 @@ camelee.cn
 camelote.cn
 campaign.advich.com
 campaign.hach.com.cn
+can11.cn
 cane.intel.cn
 canva.obs.cn-north-1.myhuaweicloud.com
 canvas-cdn.gdt.qq.com
@@ -6008,7 +6011,6 @@ daoyoudao.com
 dap.pagechoice.net
 dap.vmall.com
 daque.cn
-darb.qmobilityse.cn
 darm.cn
 darren01.oss-cn-beijing.aliyuncs.com
 darvin-ec.ads.heytapmobi.com
@@ -9496,7 +9498,6 @@ honorsearch-dre.hiboard.hihonorcloud.com
 hook.gitv.pandora.xiaomi.com
 hoplink.ksosoft.com
 horizon-continental.cn
-hot-binance.com.cn
 hot-stories.cn
 hot.browser.intl.miui.com
 hot.browser.miui.com
@@ -10783,7 +10784,6 @@ jimeilm.com
 jing.58.com
 jingcaiedc.cn
 jingezhao.cn
-jingguigui.cn
 jinghuazhijia.com
 jingjia.qq.com
 jinglongtang.cn
@@ -15113,7 +15113,6 @@ paybank.annovmc.cn
 paybank.bslitxm.cn
 paybank.ddahucf.cn
 paybank.tvujzxv.cn
-paybank.utsonzx.cn
 paybank.wzckwzx.cn
 payment.yodo1api.com
 paypay-card.gjqrczf.cn
@@ -15483,6 +15482,7 @@ pnrt-stsdk.vivoglobal.com
 pnrt.stsdk.vivo.com.cn
 pnsen.dolphin-browser.com
 po.funshion.com
+po1c0tw4b2.com
 poedlov.cn
 pofang.com
 pofooz.cn
@@ -15904,6 +15904,7 @@ qgnu18wo.sina.cn
 qgrnyis.cn
 qguwoq.cn
 qh-qishuiyinyue.hl.cn
+qh7ptb6mc.com
 qhdast.com
 qhdmqzc.cn
 qhdzljxsb.cn
@@ -18716,6 +18717,7 @@ szpbg.cn
 szplgk.cn
 szpnc.cn
 szpnp.cn
+szpro360.com
 szqipin.cn
 szvxwqp.cn
 szwjzl.cn
@@ -21070,8 +21072,6 @@ web.novogene.com
 web.sogou.com
 web.w300.vhostgo.com
 web.whatsapsapp.hl.cn
-web01.xmzxzty.cn
-web02.xmzxzty.cn
 web1.51.la
 web2-chrome.com.cn
 web2.51.la
