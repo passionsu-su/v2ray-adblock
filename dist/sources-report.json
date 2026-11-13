@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T06:39:56.668096+00:00",
-  "unique_domains": 1379969,
-  "cn_domains": 23223,
-  "global_domains": 1356746,
+  "generated_at": "2026-11-13T19:42:12.102117+00:00",
+  "unique_domains": 1380684,
+  "cn_domains": 23276,
+  "global_domains": 1357408,
   "source_success": 44,
   "source_total": 65,
   "allowlist_entries": 0,
@@ -45,7 +45,7 @@
       "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 224729,
+      "domains": 225612,
       "json_file": "sources/05-hagezi-pro.json"
     },
     {
@@ -59,7 +59,7 @@
       "url": "https://big.oisd.nl",
       "format": "adguard",
       "status": "ok",
-      "domains": 227845,
+      "domains": 228187,
       "json_file": "sources/07-oisd-big.json"
     },
     {
@@ -73,7 +73,7 @@
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 190201,
+      "domains": 190406,
       "json_file": "sources/09-adguard-dns-filter.json"
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 5953,
+      "domains": 5957,
       "json_file": "sources/10-adguard-chinese-filter.json"
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 12731,
+      "domains": 12732,
       "json_file": "sources/11-adguard-base-filter.json"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 210597,
+      "domains": 210786,
       "json_file": "sources/16-cats-team-adrules-dns.json"
     },
     {
@@ -135,7 +135,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 202154,
+      "domains": 202330,
       "json_file": "sources/17-cats-team-adrules-abp.json"
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
       "format": "surge",
       "status": "ok",
-      "domains": 210597,
+      "domains": 210786,
       "json_file": "sources/18-cats-team-adrules-surge.json"
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://raw.githubusercontent.com/REIJI007/AdBlock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
       "format": "dns",
       "status": "ok",
-      "domains": 794320,
+      "domains": 794537,
       "json_file": "sources/27-reiji007-dns-lite.json"
     },
     {
@@ -244,7 +244,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt",
       "format": "adguard",
       "status": "ok",
-      "domains": 50533,
+      "domains": 50762,
       "json_file": "sources/31-easylist-china-easylist.json"
     },
     {
@@ -307,7 +307,7 @@
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
       "format": "plain",
       "status": "ok",
-      "domains": 149570,
+      "domains": 149644,
       "json_file": "sources/39-sukka-shadowrocket-domainset.json"
     },
     {
@@ -355,7 +355,7 @@
       "url": "https://rules.xkww3n.cyou/yaml/reject.yaml",
       "format": "clash",
       "status": "ok",
-      "domains": 878,
+      "domains": 879,
       "json_file": "sources/45-xkww3n-rules-reject.json"
     },
     {

@@ -2078,6 +2078,7 @@ ads.inteyun.cn
 ads.ishansong.com
 ads.jianchiapp.com
 ads.linkedin.cn
+ads.mi.com
 ads.mobring.co
 ads.mojicdn.com
 ads.music.126.net
@@ -3520,6 +3521,7 @@ at-img2.tdimg.com
 at-img3.tdimg.com
 at.hl.cn
 at.pinduoduo.com
+at.tv.global.mi.com
 at.umeng.com
 at.umtrack.com
 at1.doubanio.com
@@ -3559,6 +3561,7 @@ aty.hd.sohu.com
 aty.sohu.com
 au-google.hl.cn
 au.ff.avast.sec.miui.com
+au.tv.global.mi.com
 au.umeng.co
 au.umeng.com
 au.w.inmobi.cn
@@ -3981,6 +3984,7 @@ bdwmhz.120askimages.com
 bdx.playnext.cn
 bdxs.playnetx.cn
 bdyingxiaocms.cdn.bcebos.com
+be.tv.global.mi.com
 bea-s.dinghuoche.com
 beacon-ad.ztgame.com
 beacon-ad.ztgame.com.cdn.dnsv1.com
@@ -4311,6 +4315,7 @@ bqqsdv73724.cn
 bqsjb.cn
 bqsm.com.cn
 br-p.vivoglobal.com
+br.tv.global.mi.com
 bra-saopaulo.ufileos.com
 brance.play.cp81.ott.cibntv.net
 brand.sogou.com
@@ -4448,6 +4453,7 @@ by.dm5.com
 by.dyq.cn
 by.mbai.cn
 by.tel.cdndm.com
+by.tv.global.mi.com
 bybiat.hl.cn
 bybict.hl.cn
 bybidt.hl.cn
@@ -4626,6 +4632,7 @@ c81.ipanocloud.com
 c82d5.cn
 ca.banmamedia.com
 ca.gtimg.com
+ca.tv.global.mi.com
 ca.w8.com.cn
 ca.yangshengtv.com
 ca.zol.com.cn
@@ -4921,6 +4928,7 @@ cgzu.b0lc.cn
 ch-deepseek.com.cn
 ch-i4.com.cn
 ch-qishui-music.com.cn
+ch.tv.global.mi.com
 chabeihu.hl.cn
 challenge.360in.com
 chance-ad.com
@@ -5091,6 +5099,7 @@ cl-vcode-api.vivoglobal.com
 cl-vcode-od.vivoglobal.com
 cl-xny.cn
 cl.hl.cn
+cl.tv.global.mi.com
 cl.webterren.com
 cl0.webterren.com
 cl2.webterren.com
@@ -5690,6 +5699,7 @@ cqzspt888.cn
 cr-nielsen.com
 cr-status.iqiyi.com
 cr.m.liebao.cn
+cr.tv.global.mi.com
 crab.baidu.com
 cralp.cn
 crash-reporting.duowan.com
@@ -6194,6 +6204,7 @@ de.as.cp61.ott.cibntv.net
 de.as.pptv.com
 de.pandora.xiaomi.com
 de.soolinen.com
+de.tv.global.mi.com
 de093o.cn
 dealerconnection.cn
 debug.mssp.adunite.com
@@ -6241,7 +6252,9 @@ detect.hismarttv.com
 detect.mb.qq.com
 dev-prdt.illumina.com.cn
 dev-push.m.youku.com
+dev.api.zhuti.n.xiaomi.com
 dev.iyuba.cn
+dev.market.n.xiaomi.com
 dev.oadz.com
 dev.staging.api.developer.n.xiaomi.com
 dev.tg.wan.360.cn
@@ -6846,6 +6859,7 @@ duxiaomanfintech.com
 dv.amtwcvh.cn
 dv8c1t.cn
 dvb.pandora.xiaomi.com
+dvb.pre.pandora.xiaomi.com
 dvclhmt.cn
 dvgr.cn
 dvkbfj.cn
@@ -7284,6 +7298,7 @@ efmh.cn
 efo25978.eeo1h1.cn
 efusc.com
 efxh.cn
+eg.tv.global.mi.com
 eghyahl.cn
 egjq.com.cn
 eglglh.cn
@@ -7558,6 +7573,7 @@ errors.aliyun.com
 errortracking.snapp.site
 ers.baidu.com
 erutxdk.cn
+es.tv.global.mi.com
 esa-reg-eup.myoppo.com
 escortevenly.com
 eshop.sintech.cn
@@ -7715,6 +7731,8 @@ experiment.appadhoc.com
 ext.baidu.com
 extlog.snssdk.com
 extmoney.i1608.com
+extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
+extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
@@ -7901,6 +7919,9 @@ feedback-dre.platform.hicloud.com
 feedback.cn.ronghub.com
 feedback.intl.miui.com
 feedback.miui.com
+feedback.pt.intl.xiaomi.com
+feedback.pt.rus.xiaomi.com
+feedback.pt.xiaomi.com
 feedback.uc.cn
 feedbackstorage.blob.core.chinacloudapi.cn
 feedbackws.fe.apple-dns.cn
@@ -8148,6 +8169,7 @@ fr-api.xmpush.global.xiaomi.com
 fr-register.xmpush.global.xiaomi.com
 fr.feedback.xmpush.global.xiaomi.com
 fr.resolver.msg.global.xiaomi.net
+fr.tv.global.mi.com
 fragpunk.com
 frame.enet.com.cn
 fraud-detection.engine.miui.com
@@ -8431,6 +8453,7 @@ gaycloud.cn
 gayeah.cn
 gazoeft.cn
 gb.corp.163.com
+gb.tv.global.mi.com
 gb686.cn
 gbbcraf.cn
 gbitcoin.cn
@@ -8846,6 +8869,7 @@ gqdfgyz.cn
 gqgfrgx.cn
 gqoi.cn
 gqwu.cn
+gr.tv.global.mi.com
 grand.ele.me
 grandcomms.cn
 grayr.abx.ipd.hihonor.com
@@ -9122,7 +9146,6 @@ h3a.t.r.vpath.net
 h45pmx1.cn
 h4b0srs.cn
 h5-api.feiersmart.com
-h5-ru.video.intl.xiaomi.com
 h5.analytics.126.net
 h5.eagllwin.com
 h5.gdt.qq.com
@@ -9393,6 +9416,7 @@ hk-ch-google.hl.cn
 hk-datareceiver.aki-game.net
 hk-sentry.pingpongx.com
 hk.napi.ucweb.com
+hk.tv.global.mi.com
 hk50606.cn
 hkdyys.cn
 hkkeafj.cn
@@ -9541,6 +9565,7 @@ hqs9.cnzz.com
 hqtlw.cn
 hqycr.cn
 hqzcths.cn
+hr.tv.global.mi.com
 hr41.cn
 hrcmzp.cn
 hreport.meituan.com
@@ -9624,6 +9649,7 @@ htvh.vf5yb4.cn
 htxcl.com.cn
 htxz.yndushi.cn
 hu.hl.cn
+hu.tv.global.mi.com
 hu.xbhy.com
 huabian.com
 huadasp.cn
@@ -9932,6 +9958,7 @@ id-third-appstore.vivoglobal.com
 id.juzi.cn
 id.mail.wo.cn
 id.push.heytapmobi.com
+id.tv.global.mi.com
 id1.cn
 id6.me
 ida.cnool.net
@@ -10479,6 +10506,7 @@ ipv4dns.com
 ipv6.kg.qq.com
 ipv6.music.163.com
 ipxjps.cn
+iq.tv.global.mi.com
 iq24ne.cn
 iqgoukn.cn
 iqiyi.irs01.com
@@ -10527,6 +10555,7 @@ issuecdn.baidupcs.com
 istartsurf.com
 isub.snssdk.com
 isub.snssdk.com.bytedns.net
+it.tv.global.mi.com
 it028.net.cn
 it5.cc
 itaoxiaoshuo.com
@@ -12204,7 +12233,6 @@ loggw.alipay.com
 loggw.alipay.com.cn
 loggw.alipaydns.com
 logic.cpm.cm.kankan.com
-login.bitbrowserw.cn
 login.paddlewaver.com
 login.tanlgc.cn
 loginlog.sdo.com
@@ -13403,6 +13431,7 @@ miaozhen.atm.youku.com
 miaozhen.com
 miav-cse.avlyun.com
 mibi.api.xiaomi.com
+mibi.stat.pt.xiaomi.com
 mibi.xiaomi.com
 mibook-10006092.cos.myqcloud.com
 mic.mob.com
@@ -13586,6 +13615,7 @@ mm.hl.cn
 mm.jbzj.com
 mm.maxthon.cn
 mm.paizi.net
+mm.tv.global.mi.com
 mma.admaster.com.cn
 mmahqzg.cn
 mmcc.yxlady.com
@@ -13737,6 +13767,7 @@ monitor-web.dotfashion.cn
 monitor.adxsenmeng.com
 monitor.l.qq.com
 monitor.music.qq.com
+monitor.pt.ai.xiaomi.com
 monitor.qq.com
 monitor.scf.pt.xiaomi.com
 monitor.uu.qq.com
@@ -13985,6 +14016,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 mx.biquge.info
+mx.tv.global.mi.com
 mxana.tacool.com
 mxevdii.cn
 mxhbkj.cn
@@ -13995,6 +14027,7 @@ my-hr.cn
 my-material.zone1.meitudata.com
 my.chinaz.com
 my.gz2010.cn
+my.tv.global.mi.com
 myad.cn
 myad.toocle.com
 myams.cn
@@ -14295,6 +14328,7 @@ nl-rcd.iqiyi.com
 nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
 nl.rcd.ptqy.gitv.tv
+nl.tv.global.mi.com
 nlmrjnew.oss-cn-shanghai.aliyuncs.com
 nlog.baidu.com
 nlog.droid4x.cn
@@ -14802,6 +14836,7 @@ osxl.cn
 ot.jizy.cn
 ot7.wagbridge.advertisement.tanx.com
 ota.cdn.pandora.xiaomi.com
+ota.foreign.coloros.com
 ota.ptqy.gitv.tv
 otantgi.cn
 otbeksf.cn
@@ -15417,6 +15452,7 @@ pjuulzj.cn
 pjwk.cn
 pjyu.golden1.sogou.com
 pjzmbhf.cn
+pk.tv.global.mi.com
 pk331.cn
 pkbook.com.cn
 pkbrxja.cn
@@ -15426,6 +15462,7 @@ pkkjxs.cn
 pkoplink.com
 pl.cp12.wasu.tv
 pl.cp31.ott.cibntv.net
+pl.tv.global.mi.com
 pl.youku.com
 plastic-wood.cn
 plat.videojj.com
@@ -15644,6 +15681,7 @@ pszs388.cn
 pt-wps.com.cn
 pt.5211game.com
 pt.clickdata.37wan.com
+pt.tv.global.mi.com
 pt6v.cn
 ptbus.com
 ptengine.cn
@@ -16695,6 +16733,7 @@ ru-vcode-or.vivoglobal.com
 ru.feedback.xmpush.global.xiaomi.com
 ru.mmstat.com
 ru.resolver.msg.global.xiaomi.net
+ru.tv.global.mi.com
 ru.video.intl.xiaomi.com
 ruan.cn
 ruangkayu.cn
@@ -16710,6 +16749,7 @@ rumt-sg.com
 rumt-zh.com
 runduobj.cn
 runtai369.cn
+rus.foreign.coloros.com
 rus.miui.com
 ruskhw.cn
 ruvideo.cdn.pandora.intl.xiaomi.com
@@ -17024,6 +17064,7 @@ sa.api.intl.miui.com
 sa.sina.cn
 sa.suning.cn
 sa.tuisong.baidu.com
+sa.tv.global.mi.com
 sa0.tuisong.baidu.com
 sa1.tuisong.baidu.com
 sa1atik.cn
@@ -17316,6 +17357,7 @@ sdzhongke.cn
 sdzwsrc.ksapisrv.com
 se.360.cn
 se.api.agrantsem.com
+se.tv.global.mi.com
 sea.napi.ucweb.com
 sea.net.edu.cn
 seal.alphassl.com
@@ -17426,7 +17468,6 @@ sentry.duozhuayu.net
 sentry.eks.hoyoverse.com
 sentry.epay.163.com
 sentry.epay.ntes53.netease.com
-sentry.erp321.com
 sentry.fintopia.tech
 sentry.galaxy-immi.com
 sentry.gametaptap.com
@@ -17436,7 +17477,6 @@ sentry.gryphline.com
 sentry.guangyapan.com
 sentry.heytea-co.com.e.aliyunwaf5.com
 sentry.huxiu.com
-sentry.hypergryph.com
 sentry.idiaoyan.cn
 sentry.ingka-system.cn
 sentry.ingka-system.cn.w.kunluncan.com
@@ -17460,9 +17500,11 @@ sentry.music.163.com
 sentry.myoas.net
 sentry.netease.com
 sentry.ngarihealth.com
+sentry.niimbot.com
 sentry.oihlecz.com.whecloud.com
 sentry.oray.com
 sentry.pay.xiaomi.com
+sentry.pt.xiaomi.com
 sentry.qiandao.com
 sentry.qt.qq.com
 sentry.ruguoapp.com
@@ -17481,7 +17523,6 @@ sentry.xinchenai.com
 sentry.xindong.com
 sentry.xunlei.com
 sentry.youdao.com
-sentry.zhaopin.com
 sentry.zhuanzhuan.com
 sentry.zwoastro.cn
 sentry1.lingkou.xyz
@@ -17816,6 +17857,7 @@ sjoy7rq.cn
 sjy-stone.com.cn
 sjzhushou.com
 sk.hl.cn
+sk.tv.global.mi.com
 skconf.f.360.cn
 skdaj.cn
 skdisplay.jd.com
@@ -18000,6 +18042,7 @@ songlaoban.cn
 songshijiazu.cn
 sonsang.cn
 soorbka.cn
+sooyun-yun.com.cn
 soperson.com
 sopqvhe.cn
 sore-indigo-cf1xx4cwja.edgeone.app
@@ -18177,6 +18220,7 @@ staging-notify.sec.miui.com
 staging.admin.e.mi.com
 staging.api.zhuti.n.xiaomi.com
 staging.appapi.n.xiaomi.com
+staging.market.n.xiaomi.com
 staging.stat.pt.xiaomi.com
 star-media.cn
 star-seo.oss-ap-northeast-1.aliyuncs.com
@@ -19081,6 +19125,7 @@ tgymhwt.cn
 tgz-telegram.hl.cn
 th-a.pinduoduo.com
 th.pinduoduo.com
+th.tv.global.mi.com
 th21333.com
 th7.cn
 thechosen1.cn
@@ -19414,6 +19459,7 @@ tr.attribuly.com
 tr.dwjq.com.cn
 tr.jianshu.com
 tr.p.360.cn
+tr.tv.global.mi.com
 tr691.cn
 tra2.api.baifendian.com
 trace-h5sdk.vivo.com.cn
@@ -19811,6 +19857,7 @@ u7x.cn
 u8.hujiang.com
 u88.cn
 u8ad.com
+ua.tv.global.mi.com
 uapi-ads.vivo.com.cn
 uapi.ads.heytapmobi.com
 uaqe.cn
@@ -20210,6 +20257,7 @@ us.hl.cn
 us.l.qq.com
 us.log.slb.avlyun.com
 us.statusapi.micloud.xiaomi.net
+us.tv.global.mi.com
 us.ynuf.alipay.com
 us01-analysis.ymcart.com
 us1-rum-openway.guance.com
@@ -20672,6 +20720,7 @@ video-va.g1d.net
 video.c-ctrip.com
 video.da.mgtv.com
 video.dispatch.tc.qq.com
+video.intl.xiaomi.com
 video.kts.g.mi.com
 video.market.xiaomi.com
 video.mpush.qq.com
@@ -20769,6 +20818,7 @@ vmzqwz.cn
 vn-ebay.quxlpuj.cn
 vn-sng.ufileos.com
 vn.obs.cn-north-1.myhuaweicloud.com
+vn.tv.global.mi.com
 vnadssb.com
 vncq.cn
 vnet.cn
@@ -20787,6 +20837,7 @@ voice-service.uc.cn
 voiceads.cn
 voicecloud.cn
 voihkjd.cn
+voip.game.xiaomi.com
 vol.txdwc.cn
 volc.bj.ad.track.66mobi.com
 volceapplog.com
@@ -21150,6 +21201,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21261,7 +21313,6 @@ wl.hd.sohu.com
 wl.hl.cn
 wl.houyi.baofeng.net
 wl.jd.com
-wl.voip.game.xiaomi.com
 wlgxaij.cn
 wlhcb.cn
 wlkpa.cn
@@ -22453,6 +22504,7 @@ yidop.com
 yidu.cc
 yidu.cn
 yidulu.cn
+yifayiapp.oss-cn-hongkong.aliyuncs.com
 yigao.com
 yihu.s06th.cn
 yihubaiying.com
@@ -22807,6 +22859,7 @@ z8o.cn
 z9.cnzz.com
 z97g.cn
 za-p.vivoglobal.com
+za.tv.global.mi.com
 zaixianvip.cn
 zaixianvip.net
 zaixianweiyuanchuang.cn

@@ -341,6 +341,7 @@
       "domain:events.gfe.nvidia.com",
       "domain:events.iap.unity3d.com",
       "domain:events.mz.unity3d.com",
+      "domain:events.plus.yandex.net",
       "domain:events.prd.api.discomax.com",
       "domain:events.production.us1.pgw-pci.klarna.net",
       "domain:events.release.narrativ.com",
@@ -883,6 +884,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (878 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (879 domains)"
   }
 ]
