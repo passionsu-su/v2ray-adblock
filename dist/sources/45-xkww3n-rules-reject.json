@@ -399,6 +399,7 @@
       "domain:hit.stats.futurio.us",
       "domain:hpplay.cdn.cibn.cc",
       "domain:huatuocode.huatuo.qq.com",
+      "domain:hudong.alicdn.com",
       "domain:huodong.ios.shouji.360.cn",
       "domain:hw-ot-ad.a.yximgs.com",
       "domain:hwa.his.huawei.com",
@@ -547,11 +548,13 @@
       "domain:obus-in.dc.heytapmobile.com",
       "domain:ogads-pa.clients6.google.com",
       "domain:one01.stright.bizris.com",
+      "domain:opehs.tanx.com",
       "domain:open.e.kuaishou.cn",
       "domain:open.e.kuaishou.com",
       "domain:opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io",
       "domain:orsdls.di.runestone.samsung.com",
       "domain:osm-onead.cdn.hinet.net",
+      "domain:ossgw.alicdn.com",
       "domain:otel-collector.reliability.smartnews.net",
       "domain:p.analitik.bik.gov.tr",
       "domain:p.aty.sohu.com",
@@ -649,6 +652,7 @@
       "domain:sb.scorecard.research.com",
       "domain:scout.data.funkedigital.de",
       "domain:sdk-cache.video.ptqy.gitv.tv",
+      "domain:sdk-config.tanx.com",
       "domain:sdk.mentamob.com",
       "domain:sdk.out.usbla.net",
       "domain:sdkapp.uve.weibo.com",
@@ -884,6 +888,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (879 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (883 domains)"
   }
 ]

@@ -398,6 +398,7 @@
 324.com
 32414.com
 3245dsfsd.cdgongfang.cn
+325497.cn
 325szdv.cn
 33.autohome.com.cn
 33.pcpop.com
@@ -1421,6 +1422,7 @@ activation.easeus.com
 activation.wps.cn
 active.baofeng.com
 active.sangfor.com
+active.tc.skysrt.com
 activeqq.3g.qq.com
 actives.youku.com
 activities.alibaba.com
@@ -2076,7 +2078,6 @@ ads.icloseli.cn
 ads.imovideo.ru
 ads.inteyun.cn
 ads.ishansong.com
-ads.jianchiapp.com
 ads.linkedin.cn
 ads.mi.com
 ads.mobring.co
@@ -2866,6 +2867,7 @@ apd-pcdnvodstat.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
+apd-vodp2plogin.teg.tencent-cloud.net
 apd-vodp2preport.teg.tencent-cloud.net
 apdfmhp.cn
 apf-wps.com.cn
@@ -3049,6 +3051,7 @@ api.hdtv.letv.com
 api.hfyhjg.cn
 api.higame.hismarttv.com
 api.hismarttv.com
+api.hoisin.hw.coocaatv.com
 api.htp.hubcloud.com.cn
 api.hybrid.xiaomi.com
 api.hzsanjiaomao.com
@@ -3213,6 +3216,7 @@ apiyd.my91app.com
 apk-ssl.tancdn.com
 apk.gelinboer.cn
 apk.shouji.koowo.com
+apk.sky.fs.skysrt.com
 apk.zsyj.com.cn
 apkevery.com
 apkinfo.voole.com
@@ -5218,6 +5222,7 @@ client-api.ele.me
 client-dmp.suishenyun.cn
 client-monitor.tantanapp.com
 client-uc.heytapmobi.com
+client-upload.cn-shanghai.log.aliyuncs.com
 client.show.qq.com
 client.tenddata.com
 client.tv.uc.cn
@@ -6859,6 +6864,7 @@ dtnaximya.360doc.cn
 dtpqhwk.cn
 dtsxn.cn
 dtths.cn
+du-app.cn-hangzhou.log.aliyuncs.com
 du.163.com
 du.biqukan.com
 du.jd.com
@@ -7189,6 +7195,7 @@ e1.feather.ifeng.com
 e1eb.cn
 e647ob.cn
 e6g804q.cn
+e810.cn
 e818.com.cn
 e9emh.cn
 ea0jlu8jie.cn
@@ -8851,7 +8858,6 @@ googlealiyun.cn
 googlechrom.hl.cn
 googleminiapps.cn
 googlepay.cn
-googleplus.party
 googlespider1.cn
 gooleweb.com.cn
 gooogel.cn
@@ -9734,6 +9740,7 @@ hubcloud.com.cn
 hubiazhi.com
 hubpd.com
 hubstat.sandai.net
+hudong.alicdn.com
 hudong.pl.youku.com
 hueekqx.cn
 hugelog.fcbox.com
@@ -9820,6 +9827,7 @@ hxbt.haha5.cn
 hxdwsfg.cn
 hxfu.nz53h.cn
 hxgccl.cn
+hxgirl.cn
 hxhx9.cn
 hxjs.tool.hexun.com
 hxqu.com
@@ -11027,7 +11035,6 @@ jrs-huya.hl.cn
 js-1.pchome.net
 js-ad.a.yximgs.com
 js.139y.com
-js.1688988.com
 js.23yy.com
 js.263y.com
 js.4hw.com.cn
@@ -13863,6 +13870,7 @@ moupdate10332052.wps.cn
 mouruidesign.cn
 moutaihotel.cn
 movie.miaiche.cn
+movie.tc.skysrt.com
 moviebox.baofeng.net
 moviets.tc.qq.com
 movii-loft.cn
@@ -13901,7 +13909,6 @@ mr621.cn
 mrclown.cn
 mreod.cn
 mrjfsc.cn
-mrlxc51byo.com
 mrruuov.cn
 mryqtym.cn
 ms-report.uu.cc
@@ -16554,6 +16561,7 @@ res.aduu.cn
 res.bid.ljrtb.cn
 res.cocounion.com
 res.gwifi.com.cn
+res.hoisin.coocaatv.com
 res.hubcloud.com.cn
 res.hunantv.com
 res.icast.cn
@@ -17621,6 +17629,7 @@ sentry.xinchenai.com
 sentry.xindong.com
 sentry.xunlei.com
 sentry.youdao.com
+sentry.zhaopin.com
 sentry.zhuanzhuan.com
 sentry.zwoastro.cn
 sentry1.lingkou.xyz
@@ -17778,6 +17787,8 @@ shicao.icantv.cn
 shiguangyx.cn
 shihe.cn
 shihualandun.cn
+shihuo-new.log.shihuocdn.cn
+shihuo.log.shihuocdn.cn
 shijincx.cn
 shijixinrui.cn
 shijuezhongguo.cdn.bcebos.com
@@ -17804,7 +17815,6 @@ shop.yinyuetai.com
 shop.youzu.com
 shop115048570.taobao.com
 shop17741405.m.youzan.com
-shop265.com
 shoplinks.cn
 shoppingads.cn
 shoppkk.com
@@ -19924,7 +19934,6 @@ tyrghj.cn
 tysdk.95516.com
 tytx.m.cn.miaozhen.com
 tyyjzs.cn
-tz.1688988.com
 tz.sec.xiaomi.com
 tzcfyre.cn
 tzh019.cn
@@ -21343,7 +21352,6 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
-weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21837,6 +21845,7 @@ www.jihehuaban.com.cn
 www.jinshanju.com
 www.jiubuhua.com
 www.jixunkyy.cn
+www.jj123.com.cn
 www.jmine.cn
 www.jpush.cn
 www.js7xc.com
