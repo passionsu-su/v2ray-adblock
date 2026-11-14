@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-11-14T06:59:21.895248+00:00",
+  "ads_domains": 444941,
+  "ads_cn_domains": 15056,
+  "ads_global_domains": 429885,
+  "sources": [
+    {
+      "tag": "217heidai",
+      "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
+      "status": "ok",
+      "domains": 241656
+    },
+    {
+      "tag": "anti-ad",
+      "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
+      "status": "ok",
+      "domains": 101983
+    },
+    {
+      "tag": "adguard-dns",
+      "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "status": "ok",
+      "domains": 190610
+    },
+    {
+      "tag": "adguard-chinese",
+      "url": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
+      "status": "ok",
+      "domains": 5960
+    },
+    {
+      "tag": "adguard-base",
+      "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
+      "status": "ok",
+      "domains": 12732
+    },
+    {
+      "tag": "blackmatrix7",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt",
+      "status": "ok",
+      "domains": 290184
+    },
+    {
+      "tag": "hagezi",
+      "url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
+      "status": "ok",
+      "domains": 226838
+    }
+  ]
+}
