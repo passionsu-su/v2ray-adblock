@@ -1601,6 +1601,7 @@ ad.hpplay.cn
 ad.huajiao.com
 ad.hunyuan.tencent.com
 ad.hzyoka.com
+ad.ihuman.com
 ad.ikonke.com
 ad.india.xiaomi.com
 ad.intl.xiaomi.com
@@ -1674,6 +1675,7 @@ ad.snaptube.app
 ad.snaptube.app.eo.dnse3.com
 ad.sohu.com
 ad.southcn.com
+ad.spin-view.com
 ad.szhsx.net
 ad.tatatimes.com
 ad.tencentmusic.com
@@ -1895,6 +1897,7 @@ adm-smc-cn.heytapmobi.com
 adm.10jqka.com.cn
 adm.265g.com
 adm.52swine.com
+adm.adroi.com.cn
 adm.baidu.cn
 adm.baidu.com
 adm.cloud.cnfol.com
@@ -2048,6 +2051,7 @@ ads.aplus.pptv.com
 ads.aplusapi.pptv.com
 ads.bestads.com.queniuaa.com
 ads.ccstock.cn
+ads.cdn.951dns.com
 ads.ce.cn
 ads.cecb2b.com
 ads.china.com
@@ -2314,6 +2318,7 @@ advert.api.thejoyrun.com
 advert.lx.netease.com
 advert.mafengwo.cn
 advert.mting.info
+advert.qubiankeji.com
 advertcn.com
 advertise.baicizhan.com
 advertise.baicizhan.org
@@ -2375,6 +2380,8 @@ adx-saas.advlion.com
 adx-sdk.lenovomm.com
 adx-sg.ads.heytapmobi.com
 adx-static.ksosoft.com
+adx-v1.halomobi.com
+adx-v3.halomobi.com
 adx.36kr.com
 adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
@@ -2394,11 +2401,15 @@ adx.maplehaze.cn
 adx.op.cp18.ott.cibntv.net
 adx.pro.cn
 adx.sogaha.cn
+adx.spin-view.com
 adx.tanx.com
 adx.timewit.cn
 adx.tuia.cn
 adx.tv.mi.com
+adx.v2w.mojichina.com
+adx.whongtec.com
 adx.xiaodutv.com
+adx.yayaad.com
 adx.yiche.com
 adx.yixin.im
 adx.ys7.com
@@ -2908,6 +2919,7 @@ api-analytics-de.huami.com
 api-analytics-de.zepp.com
 api-analytics-in.huami.com
 api-analytics-sg.huami.com
+api-analytics-us.huami.com
 api-analytics-us.zepp.com
 api-analytics-us3.zepp.com
 api-analytics.huami.com
@@ -2925,6 +2937,7 @@ api-ext.mediav.com
 api-flow.flyme.cn
 api-flow.meizu.com
 api-fp-retry-bj.fengkongcloud.com
+api-fp-retry-eur.fengkongcloud.com
 api-fp-retry-na.fengkongcloud.com
 api-fp-retry-sa.fengkongcloud.com
 api-game-ssl.xunlei.com
@@ -3625,6 +3638,7 @@ authbe.sec.intl.miui.com
 authmail.edgeone.app
 authsms.hk.gslb.mob.com
 auto-people-com-cn.eflex.cn
+auto.chatgptown.cn
 autobedo.com.cn
 autobild.adsame.com
 autohotkey.top.pages.dnsoe5.com
@@ -4410,7 +4424,6 @@ bstzcs.cn
 bsv.atm.youku.com
 bswsmlp.cn
 bt-telegram.com.cn
-bt.nmgjyyun.cn
 bt1.patexplorer.com
 bt641499.gotoip4.com
 btaawy.cn
@@ -5486,6 +5499,7 @@ collect.alipay.com
 collect.babybus.com
 collect.bz.mgtv.com
 collect.camera360.com
+collect.happyelements.com
 collect.hupu.com
 collect.iteam-dress.com
 collect.kugou.com
@@ -6097,6 +6111,7 @@ data-in.ads.oppomobile.com
 data-news.cdn.cootekservice.com
 data-pic.cdn.cootekservice.com
 data-sdk-uuid-log.d.meituan.net
+data-sdk-uuid-log.d1.mykeeta.com
 data-sdk-uuid-report.dreport.meituan.net
 data-track-global.yingxiong.com
 data-track-global.yingxiong.com.a1.initaa.com
@@ -6290,6 +6305,7 @@ denghaishan1.cn
 denpne.modelones.com
 deskt.cn
 detail.taobao.com
+detaillog-br-base.zego.im
 detaillog-eu-base.zego.im
 detaillog-global-dual.coolbcloud.com
 detaillog-global-dual.coolccloud.com
@@ -6300,6 +6316,10 @@ detaillog-global.coolecloud.com
 detaillog-global.coolzcloud.com
 detaillog-global.zego.im
 detaillog-hk-base.zego.im
+detaillog-in-base.zego.im
+detaillog-jp-base.zego.im
+detaillog-me-base.zego.im
+detaillog-us-base.zego.im
 detaillog1506224533-api.zego.im
 detaillog1920856217-api.coolzcloud.com
 detaillog371905334-api.coolzcloud.com
@@ -8194,9 +8214,14 @@ fp-it-acc.portal101.cn
 fp-it-tracker.fengkongcloud.com
 fp-it.fengkongcloud.com
 fp-na-it-acc.fengkongcloud.com
+fp-na-it-tracker.fengkongcloud.com
+fp-na-it.fengkongcloud.com
 fp-sa-it-acc.fengkongcloud.com
+fp-sa-it-tracker.fengkongcloud.com
 fp-sa-it.fengkongcloud.com
+fp-sz.fengkongcloud.com
 fp-upload.dun.163.com
+fp.fengkongcloud.com
 fp.fraudmetrix.cn
 fp.jj59.com
 fp.nanrenwo.net
@@ -8594,6 +8619,7 @@ getui.net
 gexq.cn
 gf-qishuiapp.com.cn
 gf.umenglog.com
+gf2-logserver-vn.sunborngame.com
 gfjl.com.cn
 gfncg.cn
 gfrzzzx.cn
@@ -8877,9 +8903,11 @@ goteacher.cn
 goto.sogou.com
 goto.stnts.com
 goto.www.iciba.com
+goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
+gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -8917,7 +8945,6 @@ gozqezh.cn
 gp.jstv.com
 gp.zaiyunli.cn
 gpfwx.cn
-gpmpnf.fnjsbkt.cn
 gposrzz.cn
 gpscard.cn
 gpsrcw.com
@@ -10871,7 +10898,6 @@ jiezoiq.cn
 jifen.2345.cn
 jifen.2345.com
 jifendownload.2345.cn
-jighkb.cn
 jiguang.cn
 jiguangyi.com.cn
 jihehuaban.com
@@ -12000,6 +12026,7 @@ lkwj.cn
 ll-sentry.lianlianpay.com
 ll.hudong.com
 ll.songlaoban.cn
+ll25996887.cn
 llanotextiles.cn
 lldkidm.cn
 lletd.cn
@@ -12139,6 +12166,7 @@ log.himarket.hismarttv.com
 log.homestyler.com
 log.houyi.baofeng.net
 log.hunantv.com
+log.ibreader.com
 log.iflytek.com
 log.igamecj.com
 log.ihuman.com
@@ -12284,6 +12312,7 @@ log5-applog.fqnovel.com
 log5-misc-hl.amemv.com
 log5-misc-lf.amemv.com
 log5-misc-lq.amemv.com
+log5-misc.amemv.com
 log5.mmstat.com
 log5.qishui.com
 log6.reader.qq.com
@@ -12496,7 +12525,6 @@ lxcdn.dl.files.xiaomi.net
 lxind.cn
 lxting.com
 lxyl66.cn
-lxzskxn.cn
 ly.hl.cn
 ly5200.cn
 lyabjy.cn
@@ -15246,7 +15274,6 @@ paybank.wzckwzx.cn
 payment.yodo1api.com
 paypay-card.gjqrczf.cn
 paypay-card.lmljujl.cn
-paypay-card.rwnyplb.cn
 paypay-card.xbygjtd.cn
 payrisk-tmx.didiglobal.com
 pazppsim.cn
@@ -15307,6 +15334,7 @@ pcmanage.cn
 pcmx.autohome.com.cn
 pco-sm-log.tantanapp.com
 pconf.f.360.cn
+pcookie.aliyun.com
 pcookie.cnzz.com
 pcookie.cnzz.net
 pcookie.tanx.com
@@ -18275,6 +18303,7 @@ ss2bjo.oss-cn-beijing.aliyuncs.com
 ssac.suning.com
 ssai-ads.api.leiniao.com
 ssai2-ads.api.leiniao.com
+ssai3-ads.api.leiniao.com
 sscefsol.com.cn
 sscjchina.com.cn
 ssdkauth.hpplay.cn
@@ -18585,6 +18614,7 @@ statis.miwuad.com
 statis.mobile.youku.com
 statis.push.netease.com
 statis1.mama.cn
+statis2.mama.cn
 statistic-overseas.yunxinfw.com
 statistic.cj.sina.cn
 statistic.csdn.net
@@ -19739,14 +19769,17 @@ tracking.mkt-bo.didiglobal.com
 tracking.mkt-ci.didiglobal.com
 tracking.mkt-cl.didiglobal.com
 tracking.mkt-co.didiglobal.com
+tracking.mkt-cr.didiglobal.com
 tracking.mkt-do.didiglobal.com
 tracking.mkt-ec.didiglobal.com
 tracking.mkt-eg.didiglobal.com
 tracking.mkt-gh.didiglobal.com
+tracking.mkt-jp.didiglobal.com
 tracking.mkt-ke.didiglobal.com
 tracking.mkt-mx.didiglobal.com
 tracking.mkt-nz.didiglobal.com
 tracking.mkt-pe.didiglobal.com
+tracking.mkt-pr.didiglobal.com
 tracking.mkt-tz.didiglobal.com
 tracking.mkt-ua.didiglobal.com
 tracking.mkt-ug.didiglobal.com
@@ -20041,6 +20074,7 @@ ubibibi.com
 ubixioe.com
 ubmcmm.baidustatic.com
 ubmcvideo.baidustatic.com
+ubt.tripcdn.com
 ubxqerc.cn
 ubyf.cn
 uc-ap.yodo1api.com
@@ -21387,6 +21421,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21456,6 +21491,7 @@ win999.com.cn
 winads.cn
 winasdaq.com
 winbaicai.com
+windo.oss-cn-hongkong.aliyuncs.com
 windowsupdate.com.mwcname.com
 windriversfiles.imeitools.com
 winingcpi.cn
