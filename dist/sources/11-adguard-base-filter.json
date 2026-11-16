@@ -2367,6 +2367,7 @@
       "domain:alpaca.wingmantracker.com",
       "domain:am.justtube.net",
       "domain:amaerodactylon.com",
+      "domain:amazingfork.com",
       "domain:amazon-adsystem.com",
       "domain:amdcwiptibfy.in",
       "domain:amkcuwli.in",
@@ -7853,6 +7854,7 @@
       "domain:na11.go-static.info",
       "domain:na54.go-static.info",
       "domain:na55.go-static.info",
+      "domain:namebrain.org",
       "domain:narwhal.bounty.studio",
       "domain:nas.exasrv.com",
       "domain:ne.8kjqhjz82xu6fb4b4516829.cfd",
@@ -12738,6 +12740,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (12733 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (12735 domains)"
   }
 ]

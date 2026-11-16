@@ -1523,6 +1523,8 @@ ad.51wnl.com
 ad.95306.cn
 ad.a.yximgs.com
 ad.adhouyi.cn
+ad.admin.ourgame.com
+ad.admin.ourgame.com.wscdns.com
 ad.adtrack.enlightent.cn
 ad.advst.cibnvst.com
 ad.advst.cp33.ott.cibntv.net
@@ -1540,6 +1542,7 @@ ad.api.mobile.youku.com
 ad.api.moji.com
 ad.api.open.jihuoniao.com
 ad.api.youshiad.cn
+ad.av380.net
 ad.baihemob.com
 ad.bayescom.com
 ad.bczcdn.com
@@ -1601,6 +1604,7 @@ ad.hpplay.cn
 ad.huajiao.com
 ad.hunyuan.tencent.com
 ad.hzyoka.com
+ad.ihr.chinamobile.com
 ad.ihuman.com
 ad.ikonke.com
 ad.india.xiaomi.com
@@ -1608,6 +1612,7 @@ ad.intl.xiaomi.com
 ad.intl.xiaomi.com.mgslb.com
 ad.iot.360.cn
 ad.ipadview.com
+ad.iqiyi.com
 ad.itrwzs.cn
 ad.iwhop.cn
 ad.jia.360.cn
@@ -1650,6 +1655,7 @@ ad.ourplay.net
 ad.partner.gifshow.com
 ad.passport.weibo.cn
 ad.player.baidu.com
+ad.plm.ccb.com
 ad.poco.madserving.com
 ad.qianfanyun.com
 ad.qingting.fm
@@ -1676,6 +1682,7 @@ ad.snaptube.app.eo.dnse3.com
 ad.sohu.com
 ad.southcn.com
 ad.spin-view.com
+ad.st.meituan.com
 ad.szhsx.net
 ad.tatatimes.com
 ad.tencentmusic.com
@@ -2049,6 +2056,7 @@ ads.adyoung.cn
 ads.api.my7v.com
 ads.aplus.pptv.com
 ads.aplusapi.pptv.com
+ads.app.wechat.com
 ads.bestads.com.queniuaa.com
 ads.ccstock.cn
 ads.cdn.951dns.com
@@ -2099,6 +2107,7 @@ ads.reader.yueyouxs.com
 ads.realmemobile.com
 ads.service.kugou.com
 ads.serving-sys.cn
+ads.shopee.cn
 ads.sina.com
 ads.skktec.com
 ads.sohu.com
@@ -2114,6 +2123,7 @@ ads.voiceads.cn
 ads.waps.cn
 ads.wapx.cn
 ads.wasu.tv
+ads.wechat.com
 ads.weilitoutiao.net
 ads.welltalky.cn
 ads.wepiao.com
@@ -4130,6 +4140,7 @@ bid-adx.bjqiyue.com.cn
 bid.adbiding.com
 bid.adview.cn
 bid.adview.com
+bid.shanghailingye.cn
 bidder.dsp.outfit7.com
 biddingx.com
 bidtoolads.com
@@ -7642,7 +7653,9 @@ err.up.vivoglobal.com
 err.www.mi.com
 erreport.tudou.com
 errlog.umeng.com
+errlogos.umeng.com
 errnewlog.umeng.com
+errnewlogos.umeng.com
 error-code.jftechws.com
 error.72.chat
 error.taobao.com.danuoyi.tbcache.com
@@ -10464,6 +10477,7 @@ in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
 in.applicationinsights.azure.cn
 in.jinxiutengzhou.cn
+in.log.miwifi.com
 in.statusapi.micloud.xiaomi.net
 in.tv.global.mi.com
 in.vipliangmei.com
@@ -10506,6 +10520,7 @@ infotrack.gdt.qq.com
 ini.litingxin.cn
 ini.update.360safe.com
 init.sms.mob.com
+inland-sdklog.trtc.tencent-cloud.com
 inmense.site
 inmobi.cn
 inmobicdn.cn
@@ -10545,6 +10560,8 @@ internal-amis-res.cdn.bcebos.com
 intervista.youdao.com
 intf-pc.ludashi.com
 intf.cnzz.com
+intl-sdklog.trtc.tencent-cloud.com
+intl-sdklog.whyrtc.com
 intl.up.w.xk.miui.com
 intlsucus.ucweb.com
 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
@@ -13455,8 +13472,10 @@ metrics.dt.dbankcloud.cn
 metrics.ef.com.cn
 metrics.egencia.cn
 metrics.ellechina.com
+metrics.fe.apple-dns.cn
 metrics.ford.com
 metrics.hollisterco.cn
+metrics.icloud.com.cn
 metrics.ilovematlab.cn
 metrics.kone.cn
 metrics.lucrin.cn
@@ -14963,6 +14982,7 @@ ota.ptqy.gitv.tv
 otantgi.cn
 otbeksf.cn
 otbsrk.cn
+otel.dify.cn
 otel.olivia.miyoushe.com.a2.initxa.com
 otfx.cn
 otfy.cn
@@ -17672,7 +17692,6 @@ sentry.trademessenger.com
 sentry.waterdropfilter.com
 sentry.xiaopeng.com
 sentry.xiaoyuzhoufm.com
-sentry.xinchenai.com
 sentry.xindong.com
 sentry.xunlei.com
 sentry.youdao.com
@@ -21421,7 +21440,6 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
-weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21716,6 +21734,7 @@ wvwl.cn
 wvzd.cn
 ww-qishui.com.cn
 wwads.cn
+wwce.hellowortnm.cn
 wwp-wps.com.cn
 wwshxc.cn
 wwujiao2w.x.yupoo.com
