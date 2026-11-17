@@ -1495,6 +1495,7 @@
       "domain:ad-sdk-config.youdao.com",
       "domain:ad-sdk.altamob.xiaoying.co",
       "domain:ad-sdk.huxiu.com",
+      "domain:ad-sdk.lenovomm.com",
       "domain:ad-server.xhgamesdk.com",
       "domain:ad-service.keytop.cn",
       "domain:ad-sh-sz-zb.wagbridge.tanx.alimama.com",
@@ -1504,6 +1505,7 @@
       "domain:ad-survey.com",
       "domain:ad-test.mediav.com",
       "domain:ad-tj-gorgon.ntes53.netease.com",
+      "domain:ad-trace.lenovomm.com",
       "domain:ad-track.pinxiaobao.cn",
       "domain:ad-union.ssread.cn",
       "domain:ad.10010.com",
@@ -8921,11 +8923,9 @@
       "domain:goto.sogou.com",
       "domain:goto.stnts.com",
       "domain:goto.www.iciba.com",
-      "domain:goto1.72.chat",
       "domain:gotoip.com.cn",
       "domain:gotoip55.com",
       "domain:gotonav.com",
-      "domain:gotowww.72.chat",
       "domain:gou-sogou.com.cn",
       "domain:gou.wps.cn",
       "domain:goulanmeng.cn",
@@ -12048,7 +12048,6 @@
       "domain:ll-sentry.lianlianpay.com",
       "domain:ll.hudong.com",
       "domain:ll.songlaoban.cn",
-      "domain:ll25996887.cn",
       "domain:llanotextiles.cn",
       "domain:lldkidm.cn",
       "domain:lletd.cn",
@@ -14971,6 +14970,7 @@
       "domain:osrrltw.cn",
       "domain:oss-asq-static.11222.cn",
       "domain:oss.cdn.aiclk.com",
+      "domain:oss.hropenai.cn",
       "domain:oss.suning.com",
       "domain:oss.weread.qq.com",
       "domain:ossapp.suning.com",
@@ -16573,7 +16573,6 @@
       "domain:renzhen8.cn",
       "domain:reofamily.cn",
       "domain:reply.lomark.cn",
-      "domain:repo.huaweicloud.com",
       "domain:report-stats.ad.jiguang.cn",
       "domain:report-uri.baidu.com",
       "domain:report.adview.cn",
@@ -23525,6 +23524,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23520 domains)"
+    "remarks": "AdBlock 国内 (23519 domains)"
   }
 ]

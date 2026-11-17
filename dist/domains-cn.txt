@@ -1490,6 +1490,7 @@ ad-scope.com.cn
 ad-sdk-config.youdao.com
 ad-sdk.altamob.xiaoying.co
 ad-sdk.huxiu.com
+ad-sdk.lenovomm.com
 ad-server.xhgamesdk.com
 ad-service.keytop.cn
 ad-sh-sz-zb.wagbridge.tanx.alimama.com
@@ -1499,6 +1500,7 @@ ad-static.pddpic.com
 ad-survey.com
 ad-test.mediav.com
 ad-tj-gorgon.ntes53.netease.com
+ad-trace.lenovomm.com
 ad-track.pinxiaobao.cn
 ad-union.ssread.cn
 ad.10010.com
@@ -8916,11 +8918,9 @@ goteacher.cn
 goto.sogou.com
 goto.stnts.com
 goto.www.iciba.com
-goto1.72.chat
 gotoip.com.cn
 gotoip55.com
 gotonav.com
-gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -12043,7 +12043,6 @@ lkwj.cn
 ll-sentry.lianlianpay.com
 ll.hudong.com
 ll.songlaoban.cn
-ll25996887.cn
 llanotextiles.cn
 lldkidm.cn
 lletd.cn
@@ -14966,6 +14965,7 @@ ospzbro.cn
 osrrltw.cn
 oss-asq-static.11222.cn
 oss.cdn.aiclk.com
+oss.hropenai.cn
 oss.suning.com
 oss.weread.qq.com
 ossapp.suning.com
@@ -16568,7 +16568,6 @@ renwoxingcap.cn
 renzhen8.cn
 reofamily.cn
 reply.lomark.cn
-repo.huaweicloud.com
 report-stats.ad.jiguang.cn
 report-uri.baidu.com
 report.adview.cn
