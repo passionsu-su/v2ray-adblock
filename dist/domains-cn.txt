@@ -3389,6 +3389,7 @@ appicsh.qq.com
 appimg.0575bbs.com
 appjiagu.com
 appkfpx.asmen.cn
+apple-www.le.com
 apple.www.letv.com
 applink.mob.com
 applk.cn
@@ -6233,7 +6234,6 @@ dc.letv.com
 dc.meitustat.com
 dc.oppomobile.com
 dc.sigmob.cn
-dc.stat.nearme.com.cn
 dc.tensgpt.com
 dc1.networkbench.com
 dc2.csdn.net
@@ -6642,7 +6642,6 @@ dmtracking.1688.com
 dmtracking.alibaba.com
 dmtracking2.alibaba.com
 dmtu.0m31a.cn
-dmwmztgi.nynrfba.cn
 dmym.aixyy.com
 dmym.fwol.cn
 dn-growing.qbox.me
@@ -8921,6 +8920,7 @@ goto.www.iciba.com
 gotoip.com.cn
 gotoip55.com
 gotonav.com
+gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -10551,6 +10551,7 @@ inte.sogou.com
 inte.sogoucdn.com
 inte.sohu.com
 inte.theta.sogoucdn.com
+integration.equans.cn
 intely.cn
 interactive.huanqiu.com
 interest.mix.sina.com.cn
@@ -17652,6 +17653,7 @@ sentry.huxiu.com
 sentry.idiaoyan.cn
 sentry.ingka-system.cn
 sentry.ingka-system.cn.w.kunluncan.com
+sentry.insta360.cn
 sentry.insta360.com
 sentry.ituchong.com
 sentry.jingyunyilian.com
@@ -17973,7 +17975,6 @@ sigao.cn
 sigma-agentlog-mumusdk.proxima.nie.netease.com
 sigmob.cn
 sigmob.com
-signing0001-dpreo0o8o10l.edgeone.app
 signtu.cn
 siguatv.cn
 sikqcwz.cn
@@ -18222,7 +18223,6 @@ songlaoban.cn
 songshijiazu.cn
 sonsang.cn
 soorbka.cn
-sooyun-yun.com.cn
 soperson.com
 sopqvhe.cn
 sore-indigo-cf1xx4cwja.edgeone.app
@@ -18339,6 +18339,7 @@ ssl.zy3dku.cn
 ssl86.pjshw.cn
 ssmuse1314.cn
 sso-cas.gridsumdissector.com
+sso.equans.cn
 ssp-adx.ads.heytapmobi.com
 ssp-partner.alibaba.com
 ssp.08160.cn
@@ -21439,6 +21440,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -22067,6 +22069,7 @@ www.yoyi.com.cn
 www.yuanchengxiezuo.com
 www.yuyue008.cn
 www.zamplus.com
+www.ze5.com
 www.zhaohainan.cn
 www.zhidian3g.cn
 www.zhongmin.cn
@@ -22494,7 +22497,6 @@ xshellcn.com
 xsjyun.cn
 xsolid.baidu.com
 xsrypte.cn
-xss-1253555722.cos.ap-singapore.myqcloud.com
 xsti.cn
 xsvgpjl.cn
 xsyhy.cn
