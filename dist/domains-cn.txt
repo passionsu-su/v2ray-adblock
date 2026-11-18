@@ -47,6 +47,7 @@
 0756sjlm.com.cn
 0757kd.cn
 0769liancheng.cn
+0772-6697999.cn
 07kfh.cn
 080999.cn
 087tqb.cn
@@ -214,6 +215,7 @@
 168.com
 168.it168.com
 16aq.cn
+16dns.cn
 16n3c.cn
 17.huanqiu.com
 170yy.com
@@ -3463,7 +3465,6 @@ ark.cp21.ott.cibntv.net
 ark.letv.com
 arms-retcode-sg.aliyuncs.com
 arms-retcode.aliyuncs.com
-arnonym.spotify.com.cn
 aroudy.cn
 arpun.com
 art.theta.sogoucdn.com
@@ -4129,6 +4130,7 @@ bhaabom.cn
 bhaoea.cn
 bhjac.azvub.cn
 bhktalt.cn
+bhoeyp.cn
 bhpprfk.cn
 bhwkju.vivo.com
 bhyblanket.cn
@@ -5113,6 +5115,7 @@ cicd-release-api.dalyfeds.com
 cientch.360doc.cn
 cig.com.cn
 cihc.cn
+cilipa.cn
 cir-smart.baidu.com
 cis.sohu.com
 cisco-club.com.cn
@@ -5502,7 +5505,6 @@ codesoftchina.com
 codeym.dictall.com
 coemergency.com.cn
 cogitoai.cn
-cohorts.spotify.com.cn
 col.pagechoice.net
 collect-ca.moomoobull.com.eo.dnse2.com
 collect-my.moomoobull.com.eo.dnse2.com
@@ -6111,6 +6113,7 @@ das.mobile.youku.com
 dashantechan.cn
 dasheducation.cn
 dashet.com
+dashijie2026.oss-ap-southeast-7.aliyuncs.com
 dat.gtags.net
 data-abtest-api.mihoyo.com
 data-ads.realmemobile.com
@@ -7429,6 +7432,7 @@ electronics.edm.globalsources.com
 electronics.tradeshow.globalsources.com
 elevenmedia.cn
 eloer.cn
+elonten.cn
 eloqua.pearsonvue.com.cn
 elq.keysight.com.cn
 elq.mouser.cn
@@ -8867,6 +8871,7 @@ gocye.com
 godloveme.cn
 goe.edm.globalsources.com
 goforandroid.com
+gogleapis.cn
 gojunkclean.cn
 goldbye.vicp.net
 golden1.sogou.com
@@ -8905,6 +8910,7 @@ googlealiyun.cn
 googlechrom.hl.cn
 googleminiapps.cn
 googlepay.cn
+googlesapis.com.cn
 googlespider1.cn
 gooleweb.com.cn
 gooogel.cn
@@ -9404,6 +9410,7 @@ hdvkl.cn
 hdxxaq.cn
 hdyj168.com.cn
 hdyzx.cn
+he11.cn
 he2d.com
 headization.lexkd.cn
 headwell.cn
@@ -9878,6 +9885,7 @@ hxfu.nz53h.cn
 hxgccl.cn
 hxgirl.cn
 hxhx9.cn
+hxjdwx.com.cn
 hxjs.tool.hexun.com
 hxqu.com
 hxsame.hexun.com
@@ -13213,6 +13221,7 @@ manage.wuhancloud.cn
 mangomob.net
 manhuaba.com.cn
 manparis.cn
+mantang-secure-cert.com.cn
 mantual.pandora.xiaomi.com
 manyou.com
 maocai.xvtpvc.cn
@@ -13357,7 +13366,6 @@ mcs.zijieapi.com
 mcsafebox.com
 mcteu.cn
 mcupdate.gstarcad.com
-mcwp.spotify.com.cn
 md.tvzhe.com
 mdap.alipaylog.com
 mdc.meitustat.com
@@ -14966,7 +14974,6 @@ ospzbro.cn
 osrrltw.cn
 oss-asq-static.11222.cn
 oss.cdn.aiclk.com
-oss.hropenai.cn
 oss.suning.com
 oss.weread.qq.com
 ossapp.suning.com
@@ -15289,7 +15296,6 @@ pay.sboot.cn
 pay.youzu.com
 paybank.annovmc.cn
 paybank.bslitxm.cn
-paybank.ddahucf.cn
 paybank.tvujzxv.cn
 paybank.wzckwzx.cn
 payment.yodo1api.com
@@ -15845,6 +15851,7 @@ ptengine.cn
 ptga.cn
 ptgdb.cn
 ptju.cn
+ptlaocp.cn
 ptlogin2.bugly.qq.com
 ptmabek.cn
 ptmi.gitv.pandora.xiaomi.com
@@ -15856,6 +15863,7 @@ ptujvmq.cn
 ptummn.cn
 ptyw.yiche.com
 pu0glv.cn
+puark.cn
 puata.info
 pub.aplus.pptv.com
 pub.funshion.com
@@ -16569,6 +16577,7 @@ renwoxingcap.cn
 renzhen8.cn
 reofamily.cn
 reply.lomark.cn
+repo.huaweicloud.com
 report-stats.ad.jiguang.cn
 report-uri.baidu.com
 report.adview.cn
@@ -18065,6 +18074,7 @@ sl00ufi.cn
 sla-media.immomo.com
 slb-p2p.vcloud.ks-live.com
 slcgngo.cn
+sleepmed.cn
 sleepwearinc.com
 slgioxv.cn
 slib.tvmao.cn
@@ -18279,6 +18289,7 @@ splashqqlive.gtimg.com
 splfnok.cn
 spoh.cn
 sports.youzu.com
+spotify.com.cn
 spreadable.com.cn
 spro.so.com
 spscwlw.cn
@@ -18709,6 +18720,7 @@ stg-data-id.ads.heytapmobi.com
 stg-data-in.ads.heytapmobi.com
 stg-data-sg.ads.heytapmobi.com
 stg-data.ads.heytapmobi.com
+stg.equans.cn
 stg8.com
 stkexcy.cn
 stm-cdn.cn.miaozhen.com
@@ -19198,6 +19210,7 @@ techweb.iv.adsame.com
 tect.hellobya.cn
 tecunonline.com
 teddymobile.cn
+tedom.cn
 teinfo.wps.cn
 tejia.taobao.com
 tejr.cn
@@ -19319,6 +19332,7 @@ thechosen1.cn
 thefatherofsalmon.com
 themecat.cn
 themee.cn
+thenwqp.cn
 thepam.cn
 thering.cn
 theroads.cn
@@ -19332,6 +19346,7 @@ thirdparty.biliapi.com
 this-is-living.cn
 thli43.cn
 thm.market.xiaomi.com
+thomsonanten.cn
 thpte.cn
 thuyki.cn
 thy.dacedsfa.cn
@@ -20302,6 +20317,7 @@ ums-rum-cn.heytapimage.com
 ums-rum-global.heytapimage.com
 ums-telemetry-cn.heytapmobi.com
 ums-telemetry-eu-par.heytapmobi.com
+ums-telemetry-india-hea-cadab.in-s01.cngw.heytapmobi.com
 ums-telemetry-india.heytapmobi.com
 ums-telemetry-sgp.heytapmobi.com
 ums-telemetry.oppoer.me
@@ -21440,7 +21456,6 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
-weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21729,6 +21744,7 @@ wv26d.cn
 wvbe-whatsapp.hl.cn
 wvcdn.cn
 wvjjnb.cn
+wvkifh.cn
 wvrp.cn
 wvstatic.cn
 wvwl.cn
@@ -21855,8 +21871,6 @@ www.cmmob.cn
 www.cnys.com
 www.cnzz.com
 www.codenow.cn
-www.compose99.com
-www.considerice.com
 www.coreldrawchina.com
 www.cqsta.com
 www.dageyuan.cn
@@ -21948,6 +21962,7 @@ www.kingdeecn.cn
 www.kqjtj.com
 www.ksapisrv.com
 www.laomaotao.net
+www.ledger.net.cn
 www.lehaitv.com
 www.linezing.com
 www.logoshejishi.com
@@ -21998,11 +22013,9 @@ www.qianka.com
 www.qinchugudao.com
 www.qulishi.com
 www.qumi.com
-www.rbioclv.cn
 www.s3d4.cn
 www.sailesi.cn
 www.saxmcu.cn
-www.seordl.cn
 www.shankejingling.com
 www.shuqw.com
 www.shuzilm.cn
@@ -22061,7 +22074,6 @@ www.xxxfeng.com
 www.ycsshb.cn
 www.yhd.com
 www.yiqifa.com
-www.yklfg.cn
 www.ynbojie.com
 www.youmi.net
 www.youzu.com
@@ -22438,7 +22450,6 @@ xn--3dsx7ik1cg61c.xn--fiqs8s
 xn--49s928hlshoya.cn
 xn--521-x72fh66s.cn
 xn--55qp6e0xfnx5d.xn--fiqz9s
-xn--6krsm155l.spotify.com.cn
 xn--bqro42frpg5up.cn
 xn--czru2dx3eszw3lat53b.com
 xn--gmq238c5fy.com
@@ -22647,7 +22658,6 @@ yaolu.mh.163.com
 yaolu.yuedu.163.com
 yaoyl.com
 yapi.apk.v-mate.mobi
-yasukichi.spotify.com.cn
 yasuo.360.cn
 yatemy.cn
 yaxinfushi.com.cn
@@ -23058,6 +23068,7 @@ yynncbn.cn
 yystzl.cn
 yyutfzv.com
 yywridi.cn
+yyyhhle.cn
 yyylg.cn
 yz-sl.cn
 yz.hl.cn
