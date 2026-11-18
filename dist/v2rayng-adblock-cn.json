@@ -8931,7 +8931,6 @@
       "domain:gotoip.com.cn",
       "domain:gotoip55.com",
       "domain:gotonav.com",
-      "domain:gotowww.72.chat",
       "domain:gou-sogou.com.cn",
       "domain:gou.wps.cn",
       "domain:goulanmeng.cn",
@@ -12224,6 +12223,7 @@
       "domain:log.moji.com",
       "domain:log.molitv.cn",
       "domain:log.moviebox.baofeng.com",
+      "domain:log.mtc-staging.trustasia.com",
       "domain:log.mtime.cn",
       "domain:log.music.baidu.com",
       "domain:log.news.baidu.com",
@@ -17673,6 +17673,7 @@
       "domain:sentry.jingyunyilian.com",
       "domain:sentry.joybest.com.cn",
       "domain:sentry.jtexpress.com.cn",
+      "domain:sentry.kdweibo.cn",
       "domain:sentry.kkmh.com",
       "domain:sentry.kookapp.cn",
       "domain:sentry.kuaishou.com",
@@ -17787,6 +17788,7 @@
       "domain:sg-bugly-ios.iegcom.com",
       "domain:sg-bugly-pc.iegcom.com",
       "domain:sg-cfg-stsdk.vivoglobal.com",
+      "domain:sg-fp.apitd.net",
       "domain:sg-google.hl.cn",
       "domain:sg-live.slatic.net",
       "domain:sg-open-set-api.shenshiads.com",
@@ -21011,7 +21013,6 @@
       "domain:vip.bz.mgtv.com",
       "domain:vip.catcs.cn",
       "domain:vip.ludu319.com",
-      "domain:vip.rm028.cn",
       "domain:vip.storage.weibo.com",
       "domain:vip.youzu.com",
       "domain:vipads.cn",
@@ -22037,6 +22038,8 @@
       "domain:www.thztv.net",
       "domain:www.touclick.com",
       "domain:www.toutiaopage.com",
+      "domain:www.trackingio.com",
+      "domain:www.ttcdn.cn",
       "domain:www.ttyyuuoo.com",
       "domain:www.u88.cn",
       "domain:www.ujian.cc",
@@ -22086,7 +22089,6 @@
       "domain:www.yuanchengxiezuo.com",
       "domain:www.yuyue008.cn",
       "domain:www.zamplus.com",
-      "domain:www.ze5.com",
       "domain:www.zhaohainan.cn",
       "domain:www.zhidian3g.cn",
       "domain:www.zhongmin.cn",
@@ -23110,7 +23112,6 @@
       "domain:z41vm.cn",
       "domain:z4yp9a.qygs08.cn",
       "domain:z5.cnzz.com",
-      "domain:z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app",
       "domain:z5y.bnnxklj.cn",
       "domain:z6.cnzz.com",
       "domain:z65j.cn",
@@ -23537,6 +23538,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23532 domains)"
+    "remarks": "AdBlock 国内 (23533 domains)"
   }
 ]

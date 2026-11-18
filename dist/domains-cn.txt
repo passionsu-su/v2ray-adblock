@@ -8926,7 +8926,6 @@ goto.www.iciba.com
 gotoip.com.cn
 gotoip55.com
 gotonav.com
-gotowww.72.chat
 gou-sogou.com.cn
 gou.wps.cn
 goulanmeng.cn
@@ -12219,6 +12218,7 @@ log.mocha.qq.com
 log.moji.com
 log.molitv.cn
 log.moviebox.baofeng.com
+log.mtc-staging.trustasia.com
 log.mtime.cn
 log.music.baidu.com
 log.news.baidu.com
@@ -17668,6 +17668,7 @@ sentry.ituchong.com
 sentry.jingyunyilian.com
 sentry.joybest.com.cn
 sentry.jtexpress.com.cn
+sentry.kdweibo.cn
 sentry.kkmh.com
 sentry.kookapp.cn
 sentry.kuaishou.com
@@ -17782,6 +17783,7 @@ sg-bugly-android.iegcom.com
 sg-bugly-ios.iegcom.com
 sg-bugly-pc.iegcom.com
 sg-cfg-stsdk.vivoglobal.com
+sg-fp.apitd.net
 sg-google.hl.cn
 sg-live.slatic.net
 sg-open-set-api.shenshiads.com
@@ -21006,7 +21008,6 @@ vip.51.la
 vip.bz.mgtv.com
 vip.catcs.cn
 vip.ludu319.com
-vip.rm028.cn
 vip.storage.weibo.com
 vip.youzu.com
 vipads.cn
@@ -22032,6 +22033,8 @@ www.tbk-app.com
 www.thztv.net
 www.touclick.com
 www.toutiaopage.com
+www.trackingio.com
+www.ttcdn.cn
 www.ttyyuuoo.com
 www.u88.cn
 www.ujian.cc
@@ -22081,7 +22084,6 @@ www.yoyi.com.cn
 www.yuanchengxiezuo.com
 www.yuyue008.cn
 www.zamplus.com
-www.ze5.com
 www.zhaohainan.cn
 www.zhidian3g.cn
 www.zhongmin.cn
@@ -23105,7 +23107,6 @@ z4.cnzz.com
 z41vm.cn
 z4yp9a.qygs08.cn
 z5.cnzz.com
-z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app
 z5y.bnnxklj.cn
 z6.cnzz.com
 z65j.cn
