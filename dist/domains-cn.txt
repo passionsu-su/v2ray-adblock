@@ -2092,7 +2092,6 @@ ads.privacy.qq.com
 ads.reader.yueyouxs.com
 ads.realmemobile.com
 ads.service.kugou.com
-ads.serving-sys.cn
 ads.shopee.cn
 ads.sina.com
 ads.skktec.com
@@ -2432,6 +2431,7 @@ aecpm.alicdn.com
 aedns.weixin.qq.com
 aefmbeq.cn
 aegis.qq.com
+aegt.com.cn
 aeimqu.yhqjqc.cn
 aelxock.cn
 aem.dentsuchina.cn
@@ -4122,8 +4122,10 @@ bigdata.adups.com
 bigdata.advmob.cn
 bigdata.downza.com
 bigdata.xiaomi.com
+bigtopescorts.cn
 bigwww.com
 bihaipack.com
+bihazjl.cn
 bilezdq.cn
 bilibili.cn
 bill.agent.56.com
@@ -7668,6 +7670,7 @@ eujxqgh.cn
 eul.s.360.cn
 euroasia-p.com
 euuh.cn
+euya.cn
 ev88.com
 eva2.csdn.net
 evefashion.cn
@@ -8030,6 +8033,7 @@ filetool.cn
 finalshell.com.cn
 finclip.com
 findapi.micloud.xiaomi.net
+findbigname.cn
 finderhy.video.qq.com
 finead.cn
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
@@ -9196,6 +9200,7 @@ haishengwh123.cn
 haitaoad.nosdn.127.net
 haiwai-ic.ksosoft.com
 haixiutv.com
+haizeiwgquanjimianfeibangaqing.com.cn
 haizirv.cn
 hajuwang.cn
 halopaper.cn
@@ -9311,6 +9316,7 @@ hdketang.cn
 hdns.ksyun.com
 hdrhsy.cn
 hdt.adx.admaster.com.cn
+hdtnet.cn
 hdtu.oss-cn-beijing.aliyuncs.com
 hdvkl.cn
 hdxxaq.cn
@@ -10588,6 +10594,7 @@ item.mediav.com
 itemifs.tanx.com
 iteye.com
 itpest.cn
+itra.cn
 itrolexshop.com
 its.fugetech.com
 itsdata.map.baidu.com
@@ -11707,6 +11714,7 @@ leak.360.cn
 learning.snssdk.com
 lecuiwangluo.com
 ledaren.cn
+ledger.hk.cn
 ledger.net.cn
 ledou.dl.uu.cc
 lego-tech.zhuanzhuan.com
@@ -14837,7 +14845,6 @@ otantgi.cn
 otbeksf.cn
 otbsrk.cn
 otel.dify.cn
-otel.olivia.miyoushe.com.a2.initxa.com
 otfx.cn
 otfy.cn
 oth.eve.mdt.qq.com
@@ -17515,7 +17522,6 @@ sentry.ruguoapp.com
 sentry.seayoo.com
 sentry.sec.miui.com
 sentry.shoplazza.com
-sentry.shuidihuzhu.cn
 sentry.tapsvc.com
 sentry.todesk.com
 sentry.trademessenger.com
@@ -18200,7 +18206,6 @@ sspservice.ad-survey.com
 sss.jusha.com
 sssvd.china.com
 sssyao.cn
-sst.boohee.cn.w.kunluncan.com
 sstats.thermoscientific.cn
 ssv.admaster.com.cn
 ssxd.mediav.com
@@ -20811,7 +20816,6 @@ virusinfo-cloudscan-cn.heytapmobi.com
 visevisa-3049940309494994030.mos.ap-southeast-2.sufybkt.com
 vision123.cn
 visit-sbx.tngdigital.com.my
-visit.go.tuev.cn
 visit.oschina.net
 visit.tngdigital.com.my
 visitor-live-sdk.meiqia.com
@@ -21808,7 +21812,6 @@ www.thztv.net
 www.touclick.com
 www.toutiaopage.com
 www.trackingio.com
-www.ttcdn.cn
 www.ttyyuuoo.com
 www.u88.cn
 www.ujian.cc
