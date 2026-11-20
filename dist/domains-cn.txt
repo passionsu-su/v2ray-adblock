@@ -1476,7 +1476,6 @@ ad-sdk.altamob.xiaoying.co
 ad-sdk.huxiu.com
 ad-sdk.lenovomm.com
 ad-server.xhgamesdk.com
-ad-service.keytop.cn
 ad-sh-sz-zb.wagbridge.tanx.alimama.com
 ad-stat.ksosoft.com
 ad-static.nxtsun.com.eo.dnse3.com
@@ -1609,7 +1608,6 @@ ad.jooancloud.com
 ad.jschina.com.cn
 ad.jxnews.com.cn
 ad.k.21cn.com
-ad.keytop.cn
 ad.ldplayer.net
 ad.lelongpp.com
 ad.lhyghh.cn
@@ -5644,6 +5642,7 @@ counter.yomob.com.cn
 countersys.cn
 countimages.cnool.net
 countly.growatt.com
+countly.jspp.com
 countly.mail.163.com
 countpage.sznews.com
 countpvn.light.fang.com
@@ -6689,7 +6688,6 @@ downali.game.uc.cn
 downlaod.xiaocen.com
 download-google.hl.cn
 download-juui-plugin.hismarttv.com
-download-sougou.com.cn
 download-upgrade.hismarttv.com
 download.123cw.cn
 download.2345.cn
@@ -8532,6 +8530,7 @@ get.766.com
 get.shouji.sogou.com
 get.sogou.com
 getibih.cn
+getmalus.cn
 getmos.cn
 getsentry.hellotalk8.com
 getsgroup.cn
@@ -11690,7 +11689,6 @@ leak.360.cn
 learning.snssdk.com
 lecuiwangluo.com
 ledaren.cn
-ledger.hk.cn
 ledger.net.cn
 ledou.dl.uu.cc
 lego-tech.zhuanzhuan.com
@@ -11735,6 +11733,7 @@ lf-headquarters-speed.yhgfb-cn-static.com.1046296236066394.queniubg.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
 lf3-ad.searchpstatp.com
 lf3-analytics.bytescm.com.queniuuf.com
+lf3-analytics.bytescm.com.w.kunluncan.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
 lf9-cdn-tos.bytegecko.com
 lfannaifu.cn
@@ -13928,7 +13927,6 @@ mtrace.play.cp81.ott.cibntv.net
 mtrace.qq.com
 mtrace.wetvinfo.com
 mtrace.ysp.cctv.cn
-mtsx.com.cn
 mtt.eve.mdt.qq.com
 mtt.str.mdt.qq.com
 mtty.com
@@ -16383,6 +16381,7 @@ renwoxingcap.cn
 renzhen8.cn
 reofamily.cn
 reply.lomark.cn
+repo.huaweicloud.com
 report-stats.ad.jiguang.cn
 report-uri.baidu.com
 report.adview.cn
@@ -17397,6 +17396,7 @@ sentry-26.meitu.com
 sentry-26.meitu.com.c.vedcdnlb.com
 sentry-ali.cvtapi.com
 sentry-cn.cs.pudutech.com
+sentry-dsn.ds.163.com
 sentry-eden.sysop.duowan.com
 sentry-eu.cs.pudutech.com
 sentry-fe.mokahr.com
@@ -18305,6 +18305,7 @@ stat.tudou.com
 stat.uuu9.com
 stat.v.17173.com
 stat.v.baidu.com
+stat.v2.cp33.ott.cibntv.net
 stat.vip.com
 stat.visionular.cn
 stat.vodone.cn
@@ -18443,6 +18444,7 @@ statistical-report.djiservice.org
 statistics.77hd.com
 statistics.gd.gov.cn
 statistics.goodix.com
+statistics.one-all.cn
 statistics.qcc.com
 statistics.zbj.com
 statisticsv2.yinyuetai.com
@@ -22761,6 +22763,7 @@ ywak.com.cn
 ywg.jobui.com
 ywjxsp168.cn
 ywkkmze.cn
+ywnn-1325013506.cos.na-ashburn.myqcloud.com
 ywqum.cn
 ywsiqlg.cn
 ywsywh.cn

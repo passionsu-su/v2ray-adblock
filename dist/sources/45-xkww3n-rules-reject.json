@@ -360,6 +360,7 @@
       "domain:first-hufu.oss-cn-shanghai.aliyuncs.com",
       "domain:flash.sec.intl.miui.com",
       "domain:flask.us.nextdoor.com",
+      "domain:fod-cm-ad-v.webcdn.stream.ne.jp",
       "domain:foreveryoung.gz01.bdysite.com",
       "domain:fpt.commerce.adobe.com",
       "domain:free-cdn.oss-cn-shanghai.aliyuncs.com",
@@ -888,6 +889,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (883 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (884 domains)"
   }
 ]
