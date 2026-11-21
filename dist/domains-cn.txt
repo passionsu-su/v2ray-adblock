@@ -5388,7 +5388,6 @@ cnn-wps.com.cn
 cnnywz.cn
 cnoufangfeng.cn
 cnpc.infzm.com
-cns.binance-zh.cn
 cns.wxdal.cn
 cnt.zhaopin.com
 cntingyun.com
@@ -6216,7 +6215,6 @@ ddow.cn
 ddpxhq.cn
 ddwant.cn
 de-gdpr-err-up.vivoglobal.com
-de-gdpr-vcode-api.vivoglobal.com
 de-todesk.com.cn
 de.ad.gameley.com
 de.as.cp61.ott.cibntv.net
@@ -7629,7 +7627,6 @@ eu-datareceiver.aki-game.net
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-monitor-stsdk.vivoglobal.com
-eu-nrt-stsdk.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
@@ -7699,6 +7696,7 @@ events-dre.op.hicloud.com
 events-drru.op.dbankcloud.com
 events-drru.op.dbankcloud.ru
 events-drru.op.hicloud.com
+events-sandbox.data.msn.cn
 events.baicizhan.com
 events.bczeducation.cn
 events.data.msn.cn
@@ -9500,7 +9498,6 @@ hologramid.cn
 holor0701.cn
 holor0804.cn
 holor857.cn
-home.binance-zh.cn
 home.edm.globalsources.com
 home.jatxh.cn
 home.moboage.com
@@ -10327,7 +10324,6 @@ impservice2.youdao.com
 impservicetest.dictapp.youdao.com
 imrvyop.cn
 imsearch.dzh.com.cn
-imtcken.cn
 imtmp.net
 imtt.qq.com
 imview.cn
@@ -10363,6 +10359,7 @@ in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
 in-protect-dev.sec.intl.miui.com
 in-prt-stsdk.vivoglobal.com
+in-rt-stsdk.vivoglobal.com
 in-third-appstore.vivoglobal.com
 in-timesync.vivoglobal.com
 in-vcode-api.vivoglobal.com
@@ -11910,6 +11907,7 @@ lkwj.cn
 ll-sentry.lianlianpay.com
 ll.hudong.com
 ll.songlaoban.cn
+ll65278864.cn
 llanotextiles.cn
 lldkidm.cn
 lletd.cn
@@ -13507,6 +13505,7 @@ mistat.intl.xiaomi.com
 mistat.rus.xiaomi.com
 mistat.xiaomi.com
 mistat.xiaomi.com.download.ks-cdn.com
+mistat.xiaomi.com.mgslb.com
 mitsukiai-sentry.moondroplab.tech
 mitv.tracking.intl.miui.com
 mitv.tracking.miui.com
@@ -21206,6 +21205,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21749,6 +21749,7 @@ www.pikacn.com
 www.pn36.cn
 www.poke88.com
 www.pro.cn
+www.ptmabek.cn
 www.qchannel01.cn
 www.qchannel02.cn
 www.qchannel03.cn
@@ -21811,7 +21812,6 @@ www.xiniuz.com
 www.xpdyqax.cn
 www.xrain.net
 www.xshellcn.com
-www.xstjy.com.cn
 www.xtcdbb.cn
 www.xtwjx.cn
 www.xxeden.com
@@ -21823,6 +21823,7 @@ www.ynbojie.com
 www.youmi.net
 www.youzu.com
 www.yoyi.com.cn
+www.yrwap.cn
 www.yuanchengxiezuo.com
 www.yuyue008.cn
 www.zamplus.com
@@ -22246,7 +22247,6 @@ xsjyun.cn
 xsolid.baidu.com
 xsrypte.cn
 xsti.cn
-xstjy.com.cn
 xsvgpjl.cn
 xsyhy.cn
 xsyouwei.cn
