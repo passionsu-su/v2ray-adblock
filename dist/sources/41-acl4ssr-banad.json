@@ -391,6 +391,9 @@
       "domain:oadz.com",
       "domain:oneapm.com",
       "domain:onetad.com",
+      "domain:openx.net",
+      "domain:openxenterprise.com",
+      "domain:openxmarket.asia",
       "domain:optaim.com",
       "domain:optimix.asia",
       "domain:optimix.cn",
@@ -568,6 +571,6 @@
       "domain:zzsx8.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - ACL4SSR BanAD (563 domains)"
+    "remarks": "AdBlock - ACL4SSR BanAD (566 domains)"
   }
 ]

@@ -1294,6 +1294,7 @@ aasingapore.cn
 aass111.tos-cn-beijing.volces.com
 aass1122.tos-cn-beijing.volces.com
 aassp.wgzty.cn
+aasss111222222.tos-cn-beijing.volces.com
 aauisg64017.cn
 aawwf.hkg.bcebos.com
 aazcio.cn
@@ -2764,7 +2765,6 @@ analytics.oceanengine.com.w.cdngslb.com
 analytics.ooofoo.com
 analytics.partnerboost.com
 analytics.qiqiuyun.net
-analytics.rwkv.cn
 analytics.selfboot.cn
 analytics.shop.hisense.com
 analytics.shop.hisense.com.cdngtm.com
@@ -2909,7 +2909,6 @@ api-analytics-us.zepp.com
 api-analytics-us3.zepp.com
 api-analytics.huami.com
 api-analytics.zepp.com
-api-bos.hismarttv.com
 api-c.sobot.com
 api-cfg.52qumao.com
 api-cloudfalcon.hismarttv.com
@@ -2943,7 +2942,6 @@ api-launcher-na.hismarttv.com
 api-logsdk.hismarttv.com
 api-luckycoinsdk.doglobal.net
 api-mcp.adsp.xunlei.com
-api-member.hismarttv.com
 api-nxs-v4.mentamob.com
 api-push.in.meizu.com
 api-push.meizu.com
@@ -4802,6 +4800,7 @@ cdn-new-ad.wtzw.com
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 cdn.0i-i0.com
 cdn.7nsc.cn
+cdn.ad.xelements.cn
 cdn.ad.xiaomi.com
 cdn.adinall.com
 cdn.adm.myhayo.com
@@ -6548,7 +6547,6 @@ dmacore.kejet.net
 dmapp.youku.com
 dmclick.cn
 dmfhqzo.cn
-dmg-dd.oss-accelerate.aliyuncs.com
 dmm.aizhan.com
 dmouy.cn
 dmp.kejet.net
@@ -15852,7 +15850,6 @@ q36.cn
 q3fa0.cn
 q671e.cn
 q7ms.cn
-q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app
 q9y39.cn
 qagdczc.cn
 qagyb.cn
@@ -17463,7 +17460,6 @@ sentry.jingyunyilian.com
 sentry.joybest.com.cn
 sentry.jtexpress.com.cn
 sentry.kdweibo.cn
-sentry.kkmh.com
 sentry.kookapp.cn
 sentry.kuaishou.com
 sentry.ldplayer.net
@@ -17474,7 +17470,6 @@ sentry.manmanbuy.com
 sentry.meitu-int.com
 sentry.meitu-int.com.c.vedcdnlb.com
 sentry.monitoring.ugnas.com
-sentry.mp.sohu.com
 sentry.music.163.com
 sentry.myoas.net
 sentry.netease.com
@@ -18326,7 +18321,6 @@ stat.zbii.com
 stat.zdnet.com.cn
 stat.zol.com.cn
 stat.zuimeitianqi.com
-stat1-mlycdn.bmyy520.com.cdn.ns1011.com
 stat2.corp.56.com
 stat2.openinstall.io
 stat2.pixpin.cn
@@ -20556,7 +20550,6 @@ v5-se-zjwztc-reading-ad.qznovelvod.com
 v5-se2-bjtc-reading-ad.qznovelvod.com
 v5-se2-gddgtc-reading-ad.qznovelvod.com
 v5-se2-jltc-reading-ad.qznovelvod.com
-v5-se2-zjnbtc-reading-ad.qznovelvod.com
 v5.cnzz.com
 v5.img.360kuai.com
 v5.juzi.cn
@@ -21144,7 +21137,9 @@ webfile.adview.com
 webfunny.cn
 webgo-google.hl.cn
 weblog.html5.qq.com
+weblogger-wss.coolbcloud.com
 weblogger-wss.coolccloud.com
+weblogger-wss.coolzcloud.com
 webmail-myaccount-secure-micrsoftnotifications-dpob324t4jqd.zh-cn.edgeone.cool
 webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool
 webmonder.gicp.net
@@ -21205,7 +21200,6 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
-weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -22763,7 +22757,6 @@ ywak.com.cn
 ywg.jobui.com
 ywjxsp168.cn
 ywkkmze.cn
-ywnn-1325013506.cos.na-ashburn.myqcloud.com
 ywqum.cn
 ywsiqlg.cn
 ywsywh.cn
