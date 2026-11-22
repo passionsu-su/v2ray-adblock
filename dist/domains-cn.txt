@@ -2568,6 +2568,7 @@ aiwei365.net
 aixintou.com.cn
 aixuntupian.oss-cn-hongkong.aliyuncs.com
 aixuyoupin.cn
+aiya1688.cn
 aiyalife365.cn
 aizhan.com
 aizhantj.com
@@ -3692,7 +3693,6 @@ b-gtc.getui.net
 b.19869.com
 b.77vcd.com
 b.appjiagu.com
-b.binance-zh.cn
 b.bshare.cn
 b.bst.126.net
 b.clkservice.youdao.com
@@ -4474,6 +4474,7 @@ bybigt.hl.cn
 bybiht.hl.cn
 bybiit.hl.cn
 bybijt.hl.cn
+bybit-binance.com.cn
 bydcxdy.cn
 bym03.cn
 bypbwm.cn
@@ -5378,6 +5379,7 @@ cndjs-1251973891.coshk.myqcloud.com
 cnhdin.cn
 cnitblog.com
 cnjiudao.cn
+cnkiaa.cn
 cnkuailian.hl.cn
 cnlhg.cn
 cnlink8.com
@@ -5480,6 +5482,7 @@ com.obs.cn-north-1.myhuaweicloud.com
 com5.com.cn
 comberry.cn
 comc4l7.pandora.xiaomi.com
+comedang.cn
 comfylink.com.gslb.kuiniuca.com
 comm.app.autohome.com.cn
 commdata.v.qq.com
@@ -6030,6 +6033,7 @@ damow.cn
 danangmo.cn
 dangrancha.com.cn
 danun.cn
+dao06.cn
 daofuw.cn
 daohang1.oss-cn-beijing.aliyuncs.com
 daoyoudao.com
@@ -6147,6 +6151,7 @@ dazhantai.com
 dazhi360.cn
 dazhonghua.cn
 db-safe.2345.cc
+db-whatsaop.com.cn
 db.cjtcc.cn
 db.utag.ijinshan.com
 db1.fuz.cc
@@ -6748,6 +6753,7 @@ dragate-in.dc.heytapmobi.com
 dragate-sg.dc.heytapmobi.com
 dragate.dc.oppomobile.com
 dratio.com
+drbxg.cn
 drc6i.cn
 drdwy.com
 dreamfull.cn
@@ -7648,6 +7654,7 @@ eujxqgh.cn
 eul.s.360.cn
 euroasia-p.com
 euuh.cn
+euya.cn
 ev88.com
 eva2.csdn.net
 evefashion.cn
@@ -9290,6 +9297,7 @@ hdketang.cn
 hdns.ksyun.com
 hdrhsy.cn
 hdt.adx.admaster.com.cn
+hdtnet.cn
 hdtu.oss-cn-beijing.aliyuncs.com
 hdvkl.cn
 hdxxaq.cn
@@ -11407,6 +11415,7 @@ kqjtj.com
 kqubxdb.cn
 kr-google.hl.cn
 kr.sdykcloud.cn
+kraken-binance.cn
 krbsumc.cn
 krjzxie.cn
 krkcryk.cn
@@ -11807,6 +11816,7 @@ lingqinga.cn
 lingsiqiwu.com
 lingzhushijie.cn
 linjiajia.cn
+link-whatsaop.com.cn
 link.1905.com
 link.guoqi365.com
 link.infineon.cn
@@ -11905,7 +11915,7 @@ lkwj.cn
 ll-sentry.lianlianpay.com
 ll.hudong.com
 ll.songlaoban.cn
-ll65278864.cn
+ll70685092.cn
 llanotextiles.cn
 lldkidm.cn
 lletd.cn
@@ -14157,6 +14167,7 @@ neolit.cn
 neornad.cn
 nesnts.cn
 net-telegram.hl.cn
+net-whatsaop.com.cn
 net.haier.com
 net.obs.cn-north-1.myhuaweicloud.com
 netapm.music.163.com
@@ -15108,6 +15119,7 @@ paster-cmp.hismarttv.com
 patch2.51lg.com
 path.qidian.com
 patriot.cs.pp.cn
+paxgold-binance.com.cn
 pay.coocaa.com
 pay.ksapisrv.com
 pay.mobile.sina.cn
@@ -15118,7 +15130,6 @@ paybank.bslitxm.cn
 paybank.tvujzxv.cn
 payment.yodo1api.com
 paypay-card.gjqrczf.cn
-paypay-card.lmljujl.cn
 paypay-card.xbygjtd.cn
 payrisk-tmx.didiglobal.com
 pazppsim.cn
@@ -16358,6 +16369,7 @@ region.ksapisrv.com
 register-binance.com.cn
 register.xmpush.global.xiaomi.com
 reher.cn
+reiffdi.cn
 reke.at.sohu.com
 reksaidnslog.security.mihoyo.com
 relaxspace.com.cn
@@ -19642,6 +19654,7 @@ trk.thomas-pump.cn
 trk1.17admob.com
 trmn.cn
 trnox.com
+tron-binance.cn
 trpyceq.cn
 trs.cn
 trslw.cn
@@ -20153,6 +20166,7 @@ unionsug.baidu.com
 unionsy.com
 unipaydl.wostore.cn
 unipayupg.wostore.cn
+uniswap-binance.cn
 unitacs.m.taobao.com
 unitelogreport.reader.qq.com
 unityads.unity.cn
@@ -20351,6 +20365,7 @@ uwkz.cn
 uwnvcxb.cn
 uwrr.cn
 uwumr.cn
+ux-whatsaop.com.cn
 ux.21cn.com
 uxaz.fxnfk.cn
 uxcnhsf.cn
@@ -20986,6 +21001,7 @@ w.x.baidu.com
 w.yamaidei.cn
 w.yinyuehu.cn
 w.ymapp.com
+w1-whatsapp.com.cn
 w1.diaoyou.com
 w1.gskwai.com
 w1.kskwai.com
@@ -21119,7 +21135,6 @@ web.m182.vhostgo.com
 web.novogene.com
 web.sogou.com
 web.w300.vhostgo.com
-web.whatsapsapp.hl.cn
 web1.51.la
 web2-chrome.com.cn
 web2.51.la
@@ -21569,6 +21584,7 @@ www.abbyychina.com
 www.ad-survey.com
 www.ad7.com
 www.admaster.com.cn
+www.ads8.com
 www.adsage.cn
 www.adsame.com
 www.adsmogo.net
@@ -21743,7 +21759,6 @@ www.pikacn.com
 www.pn36.cn
 www.poke88.com
 www.pro.cn
-www.ptmabek.cn
 www.qchannel01.cn
 www.qchannel02.cn
 www.qchannel03.cn
@@ -22507,6 +22522,7 @@ yimh.cn
 yimingxiang.com.cn
 yin1.zgpingshu.com
 yingchao-huya.hl.cn
+yingchao-portal-qq.com.cn
 yingfulook.cn
 yinghuadongman.hl.cn
 yingkeduo.cn
