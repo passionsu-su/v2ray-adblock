@@ -310,7 +310,6 @@
       "domain:eap.big5.enorth.com.cn",
       "domain:easy-monetization.s3.yandex.net",
       "domain:edge.ads.twitch.tv",
-      "domain:eldoradottfha.dataplane.rudderstack.com",
       "domain:epimetheus.navigator.gmx.net",
       "domain:eq-player-log.cdnext.stream.ne.jp",
       "domain:er.mmi.bemobile.ua",
@@ -889,6 +888,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (884 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (883 domains)"
   }
 ]
