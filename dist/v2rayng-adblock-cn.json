@@ -5113,6 +5113,7 @@
       "domain:claiks.com",
       "domain:clandia.cn",
       "domain:clarins.com.cn",
+      "domain:clarity.zepp.com",
       "domain:classic.39health.com",
       "domain:classicgir.cn",
       "domain:classtool.cn",
@@ -23223,6 +23224,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23218 domains)"
+    "remarks": "AdBlock 国内 (23219 domains)"
   }
 ]
