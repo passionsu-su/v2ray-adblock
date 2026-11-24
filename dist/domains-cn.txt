@@ -1609,6 +1609,7 @@ ad.lelongpp.com
 ad.lhyghh.cn
 ad.life.360.cn
 ad.lofter.com
+ad.lovefree.cc
 ad.m.iqiyi.com
 ad.madserving.com
 ad.mail.sohu.com
@@ -2049,6 +2050,7 @@ ads.csdn.net
 ads.cup.com.cn
 ads.data.pplive.com
 ads.daydaycook.com.cn
+ads.deepzero.com
 ads.dh.duba.com
 ads.didiglobal.com
 ads.doit.com.cn
@@ -2717,6 +2719,7 @@ analytics.95516.com.wscdns.com
 analytics.adjust.cn
 analytics.afirstsoft.cn
 analytics.amarea.cn
+analytics.amarea.cn.eo.dnse2.com
 analytics.api.myqnapcloud.cn
 analytics.apps.seabroadnet.com.a1.initgg.com
 analytics.aty.sohu.com.dsa.dnsv1.com.cn
@@ -4655,7 +4658,6 @@ caliyuna.cn
 callback.58.com
 callback.xmpush.xiaomi.com
 callmewx.cn
-calm-whatsapp.com.cn
 calopenupdate.comm.miui.com
 calvfk.cn
 camelee.cn
@@ -5475,6 +5477,7 @@ commdata.v.qq.com
 commdata6.v.qq.com
 commercial.shouji.360.cn
 common-sentry-api.mihoyo.com
+common-sentry-api.mihoyo.com.w.kunluncan.com
 commondata.oss-cn-hangzhou.aliyuncs.com
 community.xw.qq.com
 comp.360os.com
@@ -6215,6 +6218,7 @@ debugreport.mobiledissector.com
 dee.uzyid.cn
 deepaesk.com.cn
 deeplink.locokids.cn
+deepseek-ah.com.cn
 deepseekapp.com.cn
 deepseekk.com.cn
 deepseekl.com.cn
@@ -6374,7 +6378,6 @@ digitalmind.cn
 digitalsolutions360-dpouvkf7wkw5.edgeone.cool
 digitalunion.cn
 dimg1.sz.net.cn
-dimsolo.com
 dimupdate.edgeone.app
 ding-talk.com.cn
 dingbu.bj.bcebos.com
@@ -7638,7 +7641,6 @@ eujxqgh.cn
 eul.s.360.cn
 euroasia-p.com
 euuh.cn
-euya.cn
 ev88.com
 eva2.csdn.net
 evefashion.cn
@@ -8513,7 +8515,6 @@ get.766.com
 get.shouji.sogou.com
 get.sogou.com
 getibih.cn
-getmalus.cn
 getmos.cn
 getsentry.hellotalk8.com
 getsgroup.cn
@@ -8789,6 +8790,8 @@ googleadsserving.cn
 googlealiyun.cn
 googlechrom.hl.cn
 googleminiapps.cn
+googlepay.cn
+googlesapis.com.cn
 googlespider1.cn
 gooleweb.com.cn
 gooogel.cn
@@ -8874,7 +8877,6 @@ grow.nowcoder.com
 growin.cn
 growingio.cn
 growingio.com
-growth-whatsapp.com.cn
 growthpic.weishi.qq.com
 grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn
 grs-dbankcloud-asia-dra.appacc.dbankedge.cn
@@ -9200,6 +9202,7 @@ haosf.com
 haostat.qihoo.com
 haoyoushuo.cn
 haozhuangji.com
+happy-vpn.com
 happybao.com.cn
 hapying.com
 haree.cn
@@ -9276,7 +9279,6 @@ hdketang.cn
 hdns.ksyun.com
 hdrhsy.cn
 hdt.adx.admaster.com.cn
-hdtnet.cn
 hdtu.oss-cn-beijing.aliyuncs.com
 hdvkl.cn
 hdxxaq.cn
@@ -9320,7 +9322,6 @@ heyue.xiaomi.com
 heyux.cn
 hfawdgz.cn
 hfctx.cn
-hfeqomclkjxct.cn
 hfjhr.cn
 hfoyjg.cn
 hfqdipw.cn
@@ -11879,7 +11880,6 @@ lkwj.cn
 ll-sentry.lianlianpay.com
 ll.hudong.com
 ll.songlaoban.cn
-ll67927311.cn
 llanotextiles.cn
 lldkidm.cn
 lletd.cn
@@ -12194,7 +12194,6 @@ loggw.alipay.com.cn
 loggw.alipaydns.com
 logic.cpm.cm.kankan.com
 login.paddlewaver.com
-login.tanlgc.cn
 loginlog.sdo.com
 logitechg.obs.cn-north-1.myhuaweicloud.com
 logl.oss-us-east-1.aliyuncs.com
@@ -12264,7 +12263,6 @@ logx.mtime.com
 lolvsdota.cn
 lomark.cn
 longkoupeanut.cn
-longshushop.cn
 lonpoyf.cn
 lookup.api.bsb.baidu.com
 looyu.com
@@ -14603,6 +14601,7 @@ om-youdao.com.cn
 om.hotels.cn
 om.tracking.miui.com
 omduzge.cn
+omega-performance.com.cn
 omes-sec.heytapmobi.com
 omg.inte.sogoucdn.com
 omgid.qq.com
@@ -15947,6 +15946,7 @@ qishui-apq.com.cn
 qishui-com.hl.cn
 qishui-douyln.com.cn
 qishui-eom.com.cn
+qishui-gdd.com.cn
 qishui-gf.com.cn
 qishui-vip.com.cn
 qishui-yinle.hl.cn
@@ -15956,6 +15956,7 @@ qishuide.com.cn
 qishuimusic-cn.hl.cn
 qishuiq.com.cn
 qishuui.com.cn
+qiumiba.cn
 qiuxl11.cn
 qivuu.cn
 qiwo.cc
@@ -16693,7 +16694,6 @@ rum-openway.guance.com
 rum.aliyuncs.com
 rumt-sg.com
 rumt-zh.com
-run-whatsaop.hl.cn
 runduobj.cn
 runtai369.cn
 rus.foreign.coloros.com
@@ -17032,7 +17032,6 @@ safe1.shouji.sogou.com
 safebrowsing.urlsec.qq.com
 safeguards-360.cn
 safeurl.maxthon.cn
-safew-go.com.cn
 sagou.com.cn
 saitef.cn
 salesdish.com
@@ -17326,8 +17325,6 @@ secure.dsp.com
 secure.mediav.com
 secure.report.iss.xiaomi.com
 securemetrics.apple.com.cn
-securemsg.fj.cn
-securemsg.hi.cn
 security-lq.snssdk.com
 security.bilibili.com
 security.browser.miui.com
@@ -17459,6 +17456,7 @@ sentry.seayoo.com
 sentry.sec.miui.com
 sentry.shoplazza.com
 sentry.tapsvc.com
+sentry.todayai.cn
 sentry.todesk.com
 sentry.trademessenger.com
 sentry.waterdropfilter.com
@@ -17605,6 +17603,7 @@ sharele.cn
 sharesdk.cn
 sharetrace.com
 shark.dianping.com
+shazizhang.cn
 shbywsd.cn
 shchaoneng.cn
 she-ke.cn
@@ -18041,7 +18040,6 @@ splashqqlive.gtimg.com
 splfnok.cn
 spoh.cn
 sports.youzu.com
-spotify.com.cn
 spreadable.com.cn
 spro.so.com
 spscwlw.cn
@@ -19616,6 +19614,7 @@ trk1.17admob.com
 trmn.cn
 trnox.com
 tron-binance.cn
+tronscan.xn--fiqs8s
 trpyceq.cn
 trs.cn
 trslw.cn
@@ -20015,10 +20014,7 @@ umami.ihuyi.com
 umami.ikxin.com.a1.initdd.com
 umami.ioiox.net
 umami.kiz.ac.cn
-umami.magma.ink
 umami.mao.fan
-umami.minapp.xin
-umami.ottai.com
 umami.qingflow.com
 umami.swanlab.cn
 umami.uhzcdn.com
@@ -20751,6 +20747,7 @@ virusinfo-cloudscan-cn.heytapmobi.com
 visevisa-3049940309494994030.mos.ap-southeast-2.sufybkt.com
 vision123.cn
 visit-sbx.tngdigital.com.my
+visit.go.tuev.cn
 visit.oschina.net
 visit.tngdigital.com.my
 visitor-live-sdk.meiqia.com
@@ -21175,6 +21172,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -21205,14 +21203,7 @@ whalecloud.com
 whalecpan.cn
 whalememory.cn
 whaleprotect.cn
-whatsapp-db.com.cn
-whatsapp-db.hl.cn
-whatsapp-dns.hl.cn
-whatsapp-ops.com.cn
 whatsapp-pc.com.cn
-whatsapp-tech.com.cn
-whatsapp-ui.com.cn
-whatsapp-ux.com.cn
 whbhsoft.cn
 whdwydt.cn
 whfpbc.99.com.cn
@@ -21488,6 +21479,7 @@ www.0360.cn
 www.123cha.com
 www.150170.com
 www.17kxgame.com
+www.1wkg.cn
 www.1y888.cn
 www.20171117.com
 www.202m.com
@@ -21595,7 +21587,6 @@ www.coreldrawchina.com
 www.cqsta.com
 www.dageyuan.cn
 www.daoyoudao.com
-www.dhlpolska.edgeone.cool
 www.dianru.com
 www.doumob.com
 www.duiba.com.cn
@@ -21643,6 +21634,7 @@ www.gzn.svod.cn
 www.haier.com
 www.haixiutv.com
 www.hao123.com
+www.hfeqomclkjxct.cn
 www.higame123.com
 www.hisense.cn
 www.hisense.com
@@ -21792,7 +21784,6 @@ www.xtcdbb.cn
 www.xtwjx.cn
 www.xxeden.com
 www.xxxfeng.com
-www.ycsshb.cn
 www.yhd.com
 www.yiqifa.com
 www.ynbojie.com
