@@ -724,6 +724,7 @@
       "domain:t2.a.market.xiaomi.com",
       "domain:t3.a.market.xiaomi.com",
       "domain:t7z.cupid.ptqy.gitv.tv",
+      "domain:tag.atom.gamedistribution.com",
       "domain:tag.dec-connect.decsuite.com",
       "domain:tag.eisa.mercari.com",
       "domain:tag.rmp.rakuten.com",
@@ -782,6 +783,7 @@
       "domain:tracker.a11.vega.aurion11.io",
       "domain:tracker.adsales.rakuten.co.jp",
       "domain:tracker.ai.xiaomi.com",
+      "domain:tracker.beam.remp.startitup.sk",
       "domain:tracker.bt.uol.com.br",
       "domain:tracker.dcdn.baidu.com",
       "domain:tracker.remp-beam.golem.de",
@@ -888,6 +890,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (883 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (885 domains)"
   }
 ]

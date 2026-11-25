@@ -1461,6 +1461,7 @@ ad-log-upload.mihoyo.com.w.kunluncan.com
 ad-log.didiglobal.com
 ad-market.vivo.com.cn
 ad-material.ys7.com
+ad-ops.cdn.bcebos.com
 ad-plus.cn
 ad-pool.shiyuegame.com
 ad-r.soulapp.cn
@@ -1470,7 +1471,6 @@ ad-scope.com.cn
 ad-sdk-config.youdao.com
 ad-sdk.altamob.xiaoying.co
 ad-sdk.huxiu.com
-ad-sdk.lenovomm.com
 ad-server.xhgamesdk.com
 ad-sh-sz-zb.wagbridge.tanx.alimama.com
 ad-stat.ksosoft.com
@@ -1479,7 +1479,6 @@ ad-static.pddpic.com
 ad-survey.com
 ad-test.mediav.com
 ad-tj-gorgon.ntes53.netease.com
-ad-trace.lenovomm.com
 ad-track.pinxiaobao.cn
 ad-union.ssread.cn
 ad.10010.com
@@ -1504,7 +1503,6 @@ ad.51wnl.com
 ad.95306.cn
 ad.a.yximgs.com
 ad.adhouyi.cn
-ad.admin.ourgame.com
 ad.admin.ourgame.com.wscdns.com
 ad.adtrack.enlightent.cn
 ad.advst.cibnvst.com
@@ -1523,7 +1521,6 @@ ad.api.mobile.youku.com
 ad.api.moji.com
 ad.api.open.jihuoniao.com
 ad.api.youshiad.cn
-ad.av380.net
 ad.baihemob.com
 ad.bayescom.com
 ad.bczcdn.com
@@ -1585,7 +1582,6 @@ ad.hpplay.cn
 ad.huajiao.com
 ad.hunyuan.tencent.com
 ad.hzyoka.com
-ad.ihr.chinamobile.com
 ad.ihuman.com
 ad.ikonke.com
 ad.india.xiaomi.com
@@ -1593,7 +1589,6 @@ ad.intl.xiaomi.com
 ad.intl.xiaomi.com.mgslb.com
 ad.iot.360.cn
 ad.ipadview.com
-ad.iqiyi.com
 ad.itrwzs.cn
 ad.iwhop.cn
 ad.jia.360.cn
@@ -1635,7 +1630,6 @@ ad.ourplay.net
 ad.partner.gifshow.com
 ad.passport.weibo.cn
 ad.player.baidu.com
-ad.plm.ccb.com
 ad.poco.madserving.com
 ad.qianfanyun.com
 ad.qingting.fm
@@ -1662,7 +1656,6 @@ ad.snaptube.app.eo.dnse3.com
 ad.sohu.com
 ad.southcn.com
 ad.spin-view.com
-ad.st.meituan.com
 ad.szhsx.net
 ad.tatatimes.com
 ad.tencentmusic.com
@@ -2035,7 +2028,6 @@ ads.adyoung.cn
 ads.api.my7v.com
 ads.aplus.pptv.com
 ads.aplusapi.pptv.com
-ads.app.wechat.com
 ads.bestads.com.queniuaa.com
 ads.ccstock.cn
 ads.cdn.951dns.com
@@ -2085,7 +2077,6 @@ ads.privacy.qq.com
 ads.reader.yueyouxs.com
 ads.realmemobile.com
 ads.service.kugou.com
-ads.shopee.cn
 ads.sina.com
 ads.skktec.com
 ads.sohu.com
@@ -2101,7 +2092,6 @@ ads.voiceads.cn
 ads.waps.cn
 ads.wapx.cn
 ads.wasu.tv
-ads.wechat.com
 ads.weilitoutiao.net
 ads.welltalky.cn
 ads.wepiao.com
@@ -2905,6 +2895,7 @@ api-analytics-us.zepp.com
 api-analytics-us3.zepp.com
 api-analytics.huami.com
 api-analytics.zepp.com
+api-bos.hismarttv.com
 api-c.sobot.com
 api-cfg.52qumao.com
 api-cloudfalcon.hismarttv.com
@@ -6768,6 +6759,7 @@ ds10.api.baifendian.com
 dsa-mfp.fengshows.cn
 dsbjdeh.cn
 dse-cookiebanner.ford.com
+dsh-otel-collector.deepseeksvc.com
 dsj66.cn
 dsjyjj.cn
 dsnfun.cn
@@ -9129,6 +9121,7 @@ h3806.cn
 h3a.t.r.vpath.net
 h45pmx1.cn
 h4b0srs.cn
+h4dq5hv.cn
 h5-api.feiersmart.com
 h5.analytics.126.net
 h5.eagllwin.com
@@ -9153,7 +9146,6 @@ h728.cn
 h9p9.cn
 haa3j9plpi-default-cn.rum.aliyuncs.com
 habkjav.cn
-habrion.cn
 habtcng.cn
 hacker.com.cn
 hades.qyer.com
@@ -9279,6 +9271,7 @@ hdketang.cn
 hdns.ksyun.com
 hdrhsy.cn
 hdt.adx.admaster.com.cn
+hdtnet.cn
 hdtu.oss-cn-beijing.aliyuncs.com
 hdvkl.cn
 hdxxaq.cn
@@ -10352,7 +10345,6 @@ in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
 in.applicationinsights.azure.cn
 in.jinxiutengzhou.cn
-in.log.miwifi.com
 in.statusapi.micloud.xiaomi.net
 in.tv.global.mi.com
 in.vipliangmei.com
@@ -13294,7 +13286,6 @@ metrics.ellechina.com
 metrics.fe.apple-dns.cn
 metrics.ford.com
 metrics.hollisterco.cn
-metrics.icloud.com.cn
 metrics.ilovematlab.cn
 metrics.kone.cn
 metrics.lucrin.cn
@@ -14386,6 +14377,7 @@ ntzfly.cn
 nuaaad.cn
 nubao.lsdys.cn
 nuclandary.qnfbfs.cn
+nuesk3s.cn
 nuffnang.com.cn
 nuheoub.cn
 nuqqcgb.cn
@@ -14784,7 +14776,6 @@ ota.ptqy.gitv.tv
 otantgi.cn
 otbeksf.cn
 otbsrk.cn
-otel.dify.cn
 otfx.cn
 otfy.cn
 oth.eve.mdt.qq.com
@@ -17423,7 +17414,6 @@ sentry.huxiu.com
 sentry.idiaoyan.cn
 sentry.ingka-system.cn
 sentry.ingka-system.cn.w.kunluncan.com
-sentry.insta360.cn
 sentry.insta360.com
 sentry.ituchong.com
 sentry.jingyunyilian.com
@@ -17444,6 +17434,7 @@ sentry.music.163.com
 sentry.myoas.net
 sentry.netease.com
 sentry.ngarihealth.com
+sentry.niimbot.com
 sentry.oihlecz.com.whecloud.com
 sentry.oray.com
 sentry.pay.xiaomi.com
@@ -17459,6 +17450,7 @@ sentry.todayai.cn
 sentry.todesk.com
 sentry.trademessenger.com
 sentry.waterdropfilter.com
+sentry.wenxiaobai.com
 sentry.xiaopeng.com
 sentry.xiaoyuzhoufm.com
 sentry.xindong.com
@@ -21743,6 +21735,7 @@ www.tbk-app.com
 www.thztv.net
 www.touclick.com
 www.toutiaopage.com
+www.ttcdn.cn
 www.ttyyuuoo.com
 www.u88.cn
 www.ujian.cc
@@ -21765,7 +21758,6 @@ www.whalecloud.com
 www.winads.cn
 www.winbaicai.com
 www.wjxcdn.com
-www.wn68din.cn
 www.wo1818.cn
 www.wooboo.com.cn
 www.wowjs.1www.cn
@@ -23128,7 +23120,6 @@ zukddms.cn
 zunchengmaoyi.cn
 zunhuioa.cn
 zunmi.cn
-zunue.cn
 zuolgc.cn
 zuoyouyu.cn
 zuqiu-huya.hl.cn
