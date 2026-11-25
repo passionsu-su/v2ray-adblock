@@ -9180,7 +9180,6 @@
       "domain:hanlanad.com",
       "domain:hanlinzhijia.net",
       "domain:hans-okx.hl.cn",
-      "domain:hans.binance-zh.cn",
       "domain:hanyingmall.cn",
       "domain:hanzhixin.cn",
       "domain:hao.315hyw.com",
@@ -13685,7 +13684,6 @@
       "domain:modeel-dpuxqwbcglha.edgeone.app",
       "domain:module.youku.com",
       "domain:mohaijishu.cn",
-      "domain:moj-panel.edgeone.app",
       "domain:moka.inte.sogoucdn.com",
       "domain:mokeylife.cn",
       "domain:momsg.wps.cn",
@@ -21178,7 +21176,6 @@
       "domain:wenzhougy.cn",
       "domain:weod.cn",
       "domain:wep-google.com.cn",
-      "domain:weplayer.cc",
       "domain:weq.me",
       "domain:wer.bendougou.cn",
       "domain:wesat.cn",
@@ -21636,6 +21633,7 @@
       "domain:www.guanggao369.cn",
       "domain:www.guaranty.com.cn",
       "domain:www.guitarpro.cc",
+      "domain:www.guzsjdl.cn",
       "domain:www.gzn.svod.cn",
       "domain:www.haier.com",
       "domain:www.haixiutv.com",
@@ -23224,6 +23222,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23219 domains)"
+    "remarks": "AdBlock 国内 (23217 domains)"
   }
 ]
