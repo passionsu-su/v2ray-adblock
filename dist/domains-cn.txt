@@ -6031,6 +6031,7 @@ dat.gtags.net
 data-abtest-api.mihoyo.com
 data-ads.realmemobile.com
 data-api.fenbi.com
+data-center-leisusports.net.cn
 data-collector.soulapp.cn
 data-f.ads.oppomobile.com
 data-hoisin.coocaa.com
@@ -21163,6 +21164,7 @@ wenqixiefu.cn
 wenzhougy.cn
 weod.cn
 wep-google.com.cn
+weplayer.cc
 weq.me
 wer.bendougou.cn
 wesat.cn
@@ -23045,6 +23047,8 @@ znxblom.cn
 zoly.tech
 zonmxej.cn
 zonst.com
+zoom-app.cn
+zoom-app.net.cn
 zoosnet.net
 zoossoft.cn
 zoossoft.net

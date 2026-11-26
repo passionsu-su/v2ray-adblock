@@ -6036,6 +6036,7 @@
       "domain:data-abtest-api.mihoyo.com",
       "domain:data-ads.realmemobile.com",
       "domain:data-api.fenbi.com",
+      "domain:data-center-leisusports.net.cn",
       "domain:data-collector.soulapp.cn",
       "domain:data-f.ads.oppomobile.com",
       "domain:data-hoisin.coocaa.com",
@@ -21168,6 +21169,7 @@
       "domain:wenzhougy.cn",
       "domain:weod.cn",
       "domain:wep-google.com.cn",
+      "domain:weplayer.cc",
       "domain:weq.me",
       "domain:wer.bendougou.cn",
       "domain:wesat.cn",
@@ -23050,6 +23052,8 @@
       "domain:zoly.tech",
       "domain:zonmxej.cn",
       "domain:zonst.com",
+      "domain:zoom-app.cn",
+      "domain:zoom-app.net.cn",
       "domain:zoosnet.net",
       "domain:zoossoft.cn",
       "domain:zoossoft.net",
@@ -23213,6 +23217,6 @@
       "domain:zzz-log-upload.mihoyo.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock 国内 (23208 domains)"
+    "remarks": "AdBlock 国内 (23212 domains)"
   }
 ]
