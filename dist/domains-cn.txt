@@ -1011,6 +1011,7 @@
 937791.com
 9377os.com
 9377s.com
+9380washington-blvd.oss-cn-hongkong.aliyuncs.com
 939394.xyz
 93ta.cn
 94ab.com
@@ -2416,7 +2417,6 @@ aecpm.alicdn.com
 aedns.weixin.qq.com
 aefmbeq.cn
 aegis.qq.com
-aegt.com.cn
 aeimqu.yhqjqc.cn
 aelxock.cn
 aem.dentsuchina.cn
@@ -2918,6 +2918,7 @@ api-gl.cdo.heytapmobi.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
 api-gps-na.hismarttv.com
+api-gps-sa.hismarttv.com
 api-gps.hismarttv.com
 api-htp.beizi.biz
 api-id.game.heytapmobi.com
@@ -2926,6 +2927,7 @@ api-ios.shouji.sogou.com
 api-launcher-em.hismarttv.com
 api-launcher-eu.hismarttv.com
 api-launcher-na.hismarttv.com
+api-launcher-sa.hismarttv.com
 api-logsdk.hismarttv.com
 api-luckycoinsdk.doglobal.net
 api-mcp.adsp.xunlei.com
@@ -3346,7 +3348,6 @@ appgo.cn
 appicsh.qq.com
 appimg.0575bbs.com
 appjiagu.com
-apple-www.le.com
 apple.www.letv.com
 applink.mob.com
 applk.cn
@@ -4099,7 +4100,6 @@ bigdata.adups.com
 bigdata.advmob.cn
 bigdata.downza.com
 bigdata.xiaomi.com
-bigtopescorts.cn
 bigwww.com
 bihaipack.com
 bilezdq.cn
@@ -7996,7 +7996,6 @@ filetool.cn
 finalshell.com.cn
 finclip.com
 findapi.micloud.xiaomi.net
-findbigname.cn
 finderhy.video.qq.com
 finead.cn
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
@@ -9272,7 +9271,6 @@ hdketang.cn
 hdns.ksyun.com
 hdrhsy.cn
 hdt.adx.admaster.com.cn
-hdtnet.cn
 hdtu.oss-cn-beijing.aliyuncs.com
 hdvkl.cn
 hdxxaq.cn
@@ -15939,8 +15937,10 @@ qishui-douyln.com.cn
 qishui-eom.com.cn
 qishui-gdd.com.cn
 qishui-gf.com.cn
+qishui-music.com.cn
 qishui-vip.com.cn
 qishui-yinle.hl.cn
+qishui-yinyue.com.cn
 qishui-zn.hl.cn
 qishui.bj.cn
 qishuide.com.cn
@@ -16034,6 +16034,7 @@ qqdata.ab.qq.com
 qqlogo.qq.com
 qqpublic.qpic.cn
 qqq937.com
+qqqwww2222222.tos-cn-shanghai.volces.com
 qqshow2-item.qq.com
 qqt.zhw666.cn
 qqwlfm.cn
@@ -19181,6 +19182,7 @@ tjs.sjs.sinajs.cn
 tjshanhu.cn
 tjsptech.com
 tk-1464303226.cos.ap-guangzhou.myqcloud.com
+tk-1500200614.cos.ap-guangzhou.myqcloud.com
 tk.anythinktech.com
 tk.baidu.cn
 tk.baidu.com
@@ -21622,7 +21624,6 @@ www.growingio.com
 www.guanggao369.cn
 www.guaranty.com.cn
 www.guitarpro.cc
-www.guzsjdl.cn
 www.gzn.svod.cn
 www.haier.com
 www.haixiutv.com
@@ -21737,7 +21738,6 @@ www.tbk-app.com
 www.thztv.net
 www.touclick.com
 www.toutiaopage.com
-www.ttcdn.cn
 www.ttyyuuoo.com
 www.u88.cn
 www.ujian.cc
