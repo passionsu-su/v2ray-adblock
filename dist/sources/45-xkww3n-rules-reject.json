@@ -765,6 +765,7 @@
       "domain:tms.hft.everyplate.com",
       "domain:tmz.vo.llnwd.net",
       "domain:tns.simba.taobao.com",
+      "domain:toy.log.nexon.io",
       "domain:tp2p.kg.qq.com",
       "domain:tr.api.fanbyte.com",
       "domain:tr.dec-connect.decsuite.com",
@@ -890,6 +891,6 @@
       "domain:zml-apm-prd.dbv4.noncd.db.de"
     ],
     "enabled": true,
-    "remarks": "AdBlock - xkww3n Rules reject (885 domains)"
+    "remarks": "AdBlock - xkww3n Rules reject (886 domains)"
   }
 ]

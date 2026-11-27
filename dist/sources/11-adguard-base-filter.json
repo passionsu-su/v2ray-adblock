@@ -2209,6 +2209,7 @@
       "domain:addurance-delivery.reviveservers.com",
       "domain:adf.underhentai.net",
       "domain:adflyer.media",
+      "domain:adfractal.com",
       "domain:adgebra.net",
       "domain:adhunter.media",
       "domain:adilk.ilikecomix.com",
@@ -10974,6 +10975,7 @@
       "domain:tarauacanoticias.go-static.info",
       "domain:targaubs.com",
       "domain:target.hidabroot.org",
+      "domain:tarqivo.com",
       "domain:tarsier.emitremmus.com",
       "domain:tarsier.kriterie.se",
       "domain:tasky-a-aktovky.goasrv.com",
@@ -13939,6 +13941,6 @@
       "domain:zzyqkeniw.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - AdGuard Base filter (13934 domains)"
+    "remarks": "AdBlock - AdGuard Base filter (13936 domains)"
   }
 ]
