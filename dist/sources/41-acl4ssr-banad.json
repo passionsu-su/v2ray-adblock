@@ -462,7 +462,6 @@
       "domain:switchadhub.com",
       "domain:sycbbs.com",
       "domain:synacast.com",
-      "domain:sysdig.com",
       "domain:taboola.com",
       "domain:talkingdata.com",
       "domain:talkingdata.net",
@@ -571,6 +570,6 @@
       "domain:zzsx8.com"
     ],
     "enabled": true,
-    "remarks": "AdBlock - ACL4SSR BanAD (566 domains)"
+    "remarks": "AdBlock - ACL4SSR BanAD (565 domains)"
   }
 ]
