@@ -4,6 +4,7 @@
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 000dn.com
+001-ascjkasckj-acshkask-xnzjsknka.oss-ap-southeast-1.aliyuncs.com
 002lzj.com
 003store.com
 00xvppy.cn
@@ -158,7 +159,6 @@
 12.cookcai.com
 1224.dxsbb.com
 12291.com
-123.duba.net
 123.sogou.com
 123.sogoucdn.com
 123.ywxww.net
@@ -171,7 +171,6 @@
 125jia.cn
 126.cn
 127.com
-12733364.bookonline.com.cn
 12i.cn
 12jf3.cn
 12rng.cn
@@ -205,7 +204,6 @@
 17173.com
 173e.cn
 178bx.cn
-17990.vicp.net
 17gouwuba.com
 17kxgame.com
 17u.cn
@@ -214,11 +212,9 @@
 181ue.com
 183pu.cn
 188api.com
-18978.com.cn
 189zj.cn
 18a.m.miaobige.com
 192168.luyouwang.com
-197210.bookonline.com.cn
 19869.com
 198game.com
 19fzl.cn
@@ -382,7 +378,6 @@
 3337738.com
 333wan.com
 336.com
-3368.bookonline.com.cn
 339.cn
 3393.com
 350.com
@@ -427,7 +422,6 @@
 365key.com
 365syt.cn
 365yigou.cn
-369678.cn
 36ia2.cn
 37.sinawap.com
 3721zh.com
@@ -479,7 +473,6 @@
 40017.cn
 4008813318.com.cn
 4009997658.com
-403236308.5166.info
 404.safedog.cn
 40ic.cn
 41msl.cn
@@ -537,7 +530,6 @@
 50union.com
 50zera.com
 51.la
-510822.bookonline.com.cn
 511a.cn
 51240.com
 512612.com
@@ -570,7 +562,6 @@
 51yhzp.com
 51yycm.cn
 51zhanzhuang.cn
-52110.odb.sh.cn
 52112.com
 522.com.cn
 5251.net
@@ -594,14 +585,12 @@
 53kf.com
 53m.kuk8.com
 53s.kuk8.com
-54417.cn
 54ha.cn
 54kefu.net
 55.la
 555sq.com.cn
 555vps.cn
 55726zubo56686.com
-55880.cn
 55zzz.cn
 5646.cn
 565882.com
@@ -1032,7 +1021,6 @@ a.bxwblog.cn
 a.cctv.com
 a.ckm.iqiyi.com
 a.clickdata.37wan.com
-a.clicksor.cn
 a.cn.duoyi.com
 a.cntv.cn
 a.cnzz.com
@@ -1062,7 +1050,6 @@ a.market.xiaomi.com
 a.mfcad.net
 a.mjlnbx.cn
 a.munters.cn
-a.myapp.com
 a.nowscore.com
 a.oadz.com
 a.oh100.com
@@ -2316,6 +2303,7 @@ aecpm.alicdn.com
 aedns.weixin.qq.com
 aefmbeq.cn
 aegis.qq.com
+aegt.com.cn
 aeimqu.yhqjqc.cn
 aelxock.cn
 aem.dentsuchina.cn
@@ -3899,6 +3887,7 @@ bigdata.adups.com
 bigdata.advmob.cn
 bigdata.downza.com
 bigdata.xiaomi.com
+bigtopescorts.cn
 bigwww.com
 bihaipack.com
 bilezdq.cn
@@ -4165,6 +4154,7 @@ bu02.zybang.com
 bu1.duba.com
 bu1.vvvdj.com
 bu2.duba.com
+bucketobs.oss-cn-hongkong.aliyuncs.com
 budl.cn
 bugcreator.cn
 bugly.qcloud.com
@@ -5050,7 +5040,6 @@ cn-api.mcsvc.samsung.com.cn
 cn-beijing-c.dualstack.log.usd.alibabadns.com
 cn-chrom.hl.cn
 cn-com-binance.com.cn
-cn-deepseek.com.cn
 cn-feishu.com.cn
 cn-google-ch.com.cn
 cn-google-google-zh.hl.cn
@@ -7558,6 +7547,7 @@ filetool.cn
 finalshell.com.cn
 finclip.com
 findapi.micloud.xiaomi.net
+findbigname.cn
 finderhy.video.qq.com
 finead.cn
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
@@ -8717,6 +8707,7 @@ hdjthzg.cn
 hdns.ksyun.com
 hdrhsy.cn
 hdt.adx.admaster.com.cn
+hdtnet.cn
 hdtu.oss-cn-beijing.aliyuncs.com
 hdvkl.cn
 hdyj168.com.cn
@@ -9225,6 +9216,7 @@ i36mf.cn
 i3z.cn
 i4-ab.com.cn
 i4-aisi.com.cn
+i4-mi.cn
 i4-pbb.com.cn
 i4-rb.com.cn
 i4-rg.com.cn
@@ -14874,10 +14866,8 @@ qishui-douyln.com.cn
 qishui-eom.com.cn
 qishui-gdd.com.cn
 qishui-gf.com.cn
-qishui-music.com.cn
 qishui-vip.com.cn
 qishui-yinle.hl.cn
-qishui-yinyue.com.cn
 qishui-zn.hl.cn
 qishui.bj.cn
 qishuide.com.cn
@@ -16293,6 +16283,7 @@ sentry.tapsvc.com
 sentry.todayai.cn
 sentry.todesk.com
 sentry.trademessenger.com
+sentry.udesk.cn
 sentry.waterdropfilter.com
 sentry.wenxiaobai.com
 sentry.xiaopeng.com
@@ -16762,6 +16753,7 @@ softdl2.360tpcdn.com
 softdl4.360.cn
 softfile.3g.qq.com
 softstart.kugou.com
+software-download-hk.oss-cn-hongkong.aliyuncs.com
 sogo-download.oss-cn-hongkong.aliyuncs.com
 sogou-browser.cn
 sogou-browsre.hl.cn
@@ -17194,7 +17186,6 @@ statistical-report.djiservice.org
 statistics.77hd.com
 statistics.gd.gov.cn
 statistics.goodix.com
-statistics.one-all.cn
 statistics.qcc.com
 statistics.zbj.com
 statisticsv2.yinyuetai.com
@@ -20368,7 +20359,6 @@ www.tc911.vip
 www.tebv.cn
 www.thztv.net
 www.touclick.com
-www.trackingio.com
 www.ttyyuuoo.com
 www.ubyf.cn
 www.ujian.cc
